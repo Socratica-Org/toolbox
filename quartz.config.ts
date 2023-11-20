@@ -14,19 +14,19 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Tiempos",
+        body: "EB Garamond",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
+          light: "#fff",
+          lightgray: "#CFCCC4",
+          gray: "#A09D98",
+          darkgray: "#000000",
           dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          secondary: "#554F79",
+          tertiary: "#758F2A",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {

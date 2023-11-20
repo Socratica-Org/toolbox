@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: What is Socratica 
 ---
 
 This is a blank Quartz installation.

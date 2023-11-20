@@ -6,7 +6,7 @@ import { pageResources, renderPage } from "../../components/renderPage"
 import { FullPageLayout } from "../../cfg"
 import { FilePath, pathToRoot } from "../../util/path"
 import { defaultContentPageLayout, sharedPageComponents } from "../../../quartz.layout"
-import { Content } from "../../components"
+import { Content, Landing } from "../../components"
 import chalk from "chalk"
 
 export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) => {
@@ -24,9 +24,10 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
   return {
     name: "ContentPage",
     getQuartzComponents() {
-      return [Head, Header, Body, ...header, ...beforeBody, pageBody, ...left, ...right, Footer]
+      return [Head, Header, Body, ...header, ...beforeBody, pageBody, ...left, ...right, Footer, Landing()]
     },
     async emit(ctx, content, resources, emit): Promise<FilePath[]> {
+      
       const cfg = ctx.cfg.configuration
       const fps: FilePath[] = []
       const allFiles = content.map((c) => c[1].data)

@@ -2,7 +2,7 @@ import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
 import BodyConstructor from "./Body"
-import ThreeJS from "./ThreeJS"
+import Landing from "./Landing"
 import { JSResourceToScriptElement, StaticResources } from "../util/resources"
 import { FullSlug, RelativeURL, joinSegments } from "../util/path"
 import { visit } from "unist-util-visit"
@@ -118,16 +118,16 @@ export function renderPage(
     </div>
   )
 
-  const ThreeJsComponent = ThreeJS()
+  const LandingComponent = Landing()
 
   const doc = (
     <html>
       <Head {...componentData} />
       <body data-slug={slug}>
-        {slug === "index" && <ThreeJsComponent {...componentData} />}
+        {slug === "index" && <LandingComponent {...componentData} />}
         <div id="quartz-root" class="page">
           <Body {...componentData}>
-            {LeftComponent}
+            {/* {LeftComponent} */}
             <div class="center">
               <div class="page-header">
                 <Header {...componentData}>
@@ -143,7 +143,7 @@ export function renderPage(
               </div>
               <Content {...componentData} />
             </div>
-            {RightComponent}
+            {/* {RightComponent} */}
           </Body>
           <Footer {...componentData} />
         </div>
