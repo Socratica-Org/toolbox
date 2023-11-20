@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html><head><title>Basics</title><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta property="og:title" content="Basics"/><meta property="og:description" content="TLDR: We assemble kind, nerdy, and ambitious young people that are dedicated to consistently creating. We’re united by a couple of core beliefs: There are increasingly few, low stakes ways for young people to make interest, values aligned friends IRL These spaces need to be recurring, consistent, and accessible."/><meta property="og:image" content="https://quartz.jzhao.xyz/static/og-image.png"/><meta property="og:width" content="1200"/><meta property="og:height" content="675"/><link rel="icon" href="./static/icon.png"/><meta name="description" content="TLDR: We assemble kind, nerdy, and ambitious young people that are dedicated to consistently creating. We’re united by a couple of core beliefs: There are increasingly few, low stakes ways for young people to make interest, values aligned friends IRL These spaces need to be recurring, consistent, and accessible."/><meta name="generator" content="Quartz"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link href="./index.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><link href="https://fonts.googleapis.com/css2?family=IBM Plex Mono&amp;family=Tiempos:wght@400;700&amp;family=EB Garamond:ital,wght@0,400;0,600;1,400;1,600&amp;display=swap" rel="stylesheet" type="text/css" spa-preserve/><script src="./prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch(`./static/contentIndex.json`).then(data => data.json())</script></head><body data-slug="basics"><div id="quartz-root" class="page"><div id="quartz-body"><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container " aria-label="breadcrumbs"><div class="breadcrumb-element"><a href=".">Home</a><p> > </p></div><div class="breadcrumb-element"><a href>Basics</a></div></nav><h1 class="article-title ">Basics</h1><p class="content-meta ">Nov 16, 2023, 2 min read</p></div></div><article class="popover-hint"><p>TLDR: We assemble kind, nerdy, and ambitious young people that are dedicated to consistently creating.</p>
+<p>We’re united by a couple of core beliefs:</p>
+<p>There are increasingly few, low stakes ways for young people to make interest, values aligned friends IRL
+These spaces need to be recurring, consistent, and accessible.
+Great creative work is done together, across backgrounds and disciplines
+Small, high trust groups are the foundation of boundary pushing work - in engineering, science, art, and more</p>
+<p>Our job is that not of organizers, but little scheming elves trying to support the growth of great people over time. In our current form, we’re known for running co-working sessions for high effort passion projects, gathering makers, builders, artists - and everyone in between. We meet weekly to make and demo cool projects. Every season, we have a symposium showcasing said projects. It’s a community of practice. It’s time carved out for deep work, a space to meet their people, or a playground to talk about ideas.</p>
+<p>We’ve incubated hundreds of projects. They include but are not limited to:</p>
+<p>Code - 3D models in Desmos, transit mappers, Anomia mobile, vertical farms, WebGL Gaussian Splat Renderers, serial port readers for SoC
+Companies - Chess tutoring platforms, Shopify upselling, educational robotics kits, medical referrals, enterprise LLMs
+Writing - Blogs, free-form poetry, journalism on food security, YouTube video scripts
+Art -  Feature length films, Dune oil portraits, Kubernetes launch logos, original albums, hand drawn animations, fonts, fashion designs, documentary, and atlas on technological progress.
+Research - Brain image generation, bioplastics, Protein Folding, Trans Healthcare, linguistics
+Fun - Minecraft towns, matchmaking services, setting up a “Dungeon”</p>
+<p>That being said, once you gather a group of like-minded people, the sky’s the limit! Some nodes have gone on to hold mini-accelerators, grant programs, and residencies.</p>
+<p>We started in Waterloo, and have helped spin up 14+ independent nodes. Active nodes are featured on /map!</p></article></div></div><footer class><hr/><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.1.0</a>, © 2023</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></body><script type="application/javascript">// quartz/components/scripts/quartz/components/scripts/callout.inline.ts
+function toggleCallout() {
+  const outerBlock = this.parentElement;
+  outerBlock.classList.toggle(`is-collapsed`);
+  const collapsed = outerBlock.classList.contains(`is-collapsed`);
+  const height = collapsed ? this.scrollHeight : outerBlock.scrollHeight;
+  outerBlock.style.maxHeight = height + `px`;
+  let current = outerBlock;
+  let parent = outerBlock.parentElement;
+  while (parent) {
+    if (!parent.classList.contains(`callout`)) {
+      return;
+    }
+    const collapsed2 = parent.classList.contains(`is-collapsed`);
+    const height2 = collapsed2 ? parent.scrollHeight : parent.scrollHeight + current.scrollHeight;
+    parent.style.maxHeight = height2 + `px`;
+    current = parent;
+    parent = parent.parentElement;
+  }
+}
+function setupCallout() {
+  const collapsible = document.getElementsByClassName(
+    `callout is-collapsible`
+  );
+  for (const div of collapsible) {
+    const title = div.firstElementChild;
+    if (title) {
+      title.removeEventListener(`click`, toggleCallout);
+      title.addEventListener(`click`, toggleCallout);
+      const collapsed = div.classList.contains(`is-collapsed`);
+      const height = collapsed ? title.scrollHeight : div.scrollHeight;
+      div.style.maxHeight = height + `px`;
+    }
+  }
+}
+document.addEventListener(`nav`, setupCallout);
+window.addEventListener(`resize`, setupCallout);
+</script><script type="module">
+          import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+          const darkMode = document.documentElement.getAttribute('saved-theme') === 'dark'
+          mermaid.initialize({
+            startOnLoad: false,
+            securityLevel: 'loose',
+            theme: darkMode ? 'dark' : 'default'
+          });
+          document.addEventListener('nav', async () => {
+            await mermaid.run({
+              querySelector: '.mermaid'
+            })
+          });
+          </script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.7/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+          const socket = new WebSocket('ws://localhost:3001')
+          socket.addEventListener('message', () => document.location.reload())
+        </script><script src="./postscript.js" type="module"></script></html>

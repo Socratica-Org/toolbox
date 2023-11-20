@@ -125,6 +125,7 @@ export function renderPage(
       <Head {...componentData} />
       <body data-slug={slug}>
         {slug === "index" && <LandingComponent {...componentData} />}
+        {slug !== "index" && 
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {/* {LeftComponent} */}
@@ -146,7 +147,7 @@ export function renderPage(
             {/* {RightComponent} */}
           </Body>
           <Footer {...componentData} />
-        </div>
+        </div>}
       </body>
       {pageResources.js
         .filter((resource) => resource.loadTime === "afterDOMReady")

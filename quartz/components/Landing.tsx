@@ -22,26 +22,33 @@ export default (() => {
         <p class="page-subhead">This is a guide</p>
     
         <div class="issue-container">
+        <a href={'/basics'}>
           <div class="card card-1">
             <p class="card-title">The Basics</p>
             <p class="card-subhead">Issue 001</p>
             <img src="/static/1-illo.png" class="card-illustration-1" />
           </div>
+          </a>
     
+          <a href={'/getting-started'}>
           <div class="card card-2">
             <p class="card-title">Getting
               Started</p>
             <p class="card-subhead">Issue 002</p>
             <img src="/static/2-illo.png" class="card-illustration-2" />
           </div>
+          </a>
     
+          <a href={'/cultivating-people'}>
           <div class="card card-3">
             <p class="card-title">Cultivating
               People</p>
             <p class="card-subhead">Issue 003</p>
             <img src="/static/3-illo.png" class="card-illustration-3" />
           </div>
+          </a>
     
+          <a href={'/superboosting-ideas'}>
           <div class="card card-4">
             <p class="card-title">Super-
               boosting
@@ -49,12 +56,15 @@ export default (() => {
             <p class="card-subhead">Issue 004</p>
             <img src="/static/4-illo.png" class="card-illustration-4" />
           </div>
+          </a>
     
+          <a href={'/maintenance'}>
           <div class="card card-5">
             <p class="card-title">Maintenance</p>
             <p class="card-subhead">Issue 005</p>
             <img src="/static/5-illo.png" class="card-illustration-5" />
           </div>
+          </a>
     
           <div class="card card-coming">
             <p class="card-title">Coming Soon</p>
