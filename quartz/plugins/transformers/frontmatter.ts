@@ -56,6 +56,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
             file.data.frontmatter = {
               title: file.stem ?? "Untitled",
               tags: [],
+              issueNo: 999,
               ...data,
             }
           }
@@ -70,7 +71,8 @@ declare module "vfile" {
     frontmatter: { [key: string]: any } & {
       title: string
       tags: string[]
-      authors: string[]
+      authors?: string[]
+      issueNo: number
     }
   }
 }
