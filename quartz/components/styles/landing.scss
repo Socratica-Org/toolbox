@@ -33,9 +33,17 @@
 }
 
 .header-card {
-  width: 100px;
-  margin: 2em 0 1em;
+  margin: 1em 0 0 0;
   display: inline-block;
+
+  & .card {
+    min-width: 120px;
+    width: 120px;
+
+    & .card-title {
+      font-size: 20px;
+    }
+  }
 }
 
 .card-title {

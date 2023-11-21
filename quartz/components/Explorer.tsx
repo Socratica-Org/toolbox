@@ -13,6 +13,10 @@ const defaultOptions = {
   folderDefaultState: "collapsed",
   useSavedState: true,
   sortFn: (a, b) => {
+    if (a.file?.frontmatter?.issueNo && b.file?.frontmatter?.issueNo) {
+      return a.file.frontmatter.issueNo - b.file.frontmatter.issueNo
+    }
+
     // Sort order: folders first, then files. Sort folders and files alphabetically
     if ((!a.file && !b.file) || (a.file && b.file)) {
       // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
