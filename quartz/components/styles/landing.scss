@@ -1,14 +1,14 @@
 .landing-header {
   font-size: 48px;
   margin: 64px 0 8px 0;
-  font-family: 'Tiempos', sans-serif;
+  font-family: "Tiempos", sans-serif;
   font-weight: 700;
 }
 
 .page-subhead {
   font-size: 16px;
   margin-bottom: 48px;
-  font-family: 'Tiempos', sans-serif;
+  font-family: "Tiempos", sans-serif;
 }
 
 /* ISSUE CARDS */
@@ -47,7 +47,7 @@
 }
 
 .card-title {
-  font-family: 'Tiempos', sans-serif;
+  font-family: "Tiempos", sans-serif;
   font-size: 36px;
   margin: 0 0 8px 0;
   line-height: normal;
@@ -75,12 +75,12 @@
 /* CARD COLORS */
 
 .card-coming {
-background: #CFCCC4;
+  background: #cfccc4;
 }
 
 .card-1 {
-  background: #649AEA;
-  background-image: url('./static/1-noise.png');
+  background: #649aea;
+  background-image: url("./static/1-noise.png");
   background-size: cover;
   overflow: visible;
 }
@@ -93,8 +93,8 @@ background: #CFCCC4;
 }
 
 .card-2 {
-  background: #AAB172;
-  background-image: url('./static/2-noise.png');
+  background: #aab172;
+  background-image: url("./static/2-noise.png");
   background-size: cover;
 }
 
@@ -105,10 +105,9 @@ background: #CFCCC4;
   left: 40px;
 }
 
-
 .card-3 {
-  background: #BF7D1A;
-  background-image: url('./static/3-noise.png');
+  background: #bf7d1a;
+  background-image: url("./static/3-noise.png");
   background-size: cover;
 }
 
@@ -119,10 +118,9 @@ background: #CFCCC4;
   left: 30%;
 }
 
-
 .card-4 {
-  background: #AD7E95;
-  background-image: url('./static/4-noise.png');
+  background: #ad7e95;
+  background-image: url("./static/4-noise.png");
   background-size: cover;
 }
 
@@ -133,10 +131,9 @@ background: #CFCCC4;
   right: -10px;
 }
 
-
 .card-5 {
-  background: #EB856F;
-  background-image: url('./static/5-noise.png');
+  background: #eb856f;
+  background-image: url("./static/5-noise.png");
   background-size: cover;
   overflow: visible;
 }
@@ -151,25 +148,24 @@ background: #CFCCC4;
 /* ANIMATIONS */
 
 @keyframes shake {
-
-0%,
-100% {
+  0%,
+  100% {
     transform: rotate(0);
-}
+  }
 
-25% {
+  25% {
     transform: rotate(-10deg);
-}
+  }
 
-75% {
+  75% {
     transform: rotate(10deg);
-}
+  }
 }
 
 /* media queries */
 @media screen and (max-width: 1400px) {
   .card-title {
-      font-size: 24px;
+    font-size: 24px;
   }
 }
 
@@ -177,7 +173,7 @@ background: #CFCCC4;
   .header-card {
     width: 300px;
   }
-  
+
   .content-container {
     width: 95%;
     margin: 0 auto;
@@ -192,7 +188,6 @@ background: #CFCCC4;
   .card {
     aspect-ratio: 10 / 2;
     overflow: hidden;
-
   }
 
   .card-illustration-1,
@@ -221,5 +216,4 @@ background: #CFCCC4;
     top: 15px;
     right: 60px;
   }
-  
 }

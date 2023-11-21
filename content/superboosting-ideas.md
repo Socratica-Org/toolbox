@@ -2,11 +2,13 @@
 title: Superboosting Ideas
 issueNo: 4
 ---
+
 ## Types of Ideas
 
 A core pillar of building a community for people to see the best version of their ideas is to understand ideas, how they progress over time, and how you can support your people at each stage of their idea.
 
 ### Baby ideas
+
 Like babies, these ideas are focused on learning and exploring the world around them. They revolve around consuming knowledge and building skills. These are low commitment and short-term.
 
 Examples: reading a book, practicing Duolingo, learning a new guitar song, making a to-do list app
@@ -16,6 +18,7 @@ People working on baby ideas often don’t know what they don’t know (link: du
 A lot of people with baby ideas don’t even know what their idea is yet. (link to Raising Baby Ideas)
 
 ### Teenage ideas
+
 The slightly awkward, but really interesting stage of ideas. People at this stage start moving towards being a creator, putting their knowledge and skills to use to build something they are passionate about. These are mid-level commitment and mid-term.
 
 Examples: writing and producing a song, storyboarding a climate documentary, building a website that shows you how far you can go with transit.
@@ -29,6 +32,7 @@ As a host, it’s essential to de-risk sharing teenage ideas and help participan
 Examples: a VC-backed startup, Youtuber with 50k followers, AR/VR research projects
 
 ### Wise Elder ideas:
+
 The retired ideas that are no longer actively running, but leave behind a legacy of mistakes, learnings, and celebrations. People with wise elder ideas reflect on their journey and share mentorship.
 
 Examples: ex-president of a social justice club, sunsetted greenhouse project in Sri Lanka

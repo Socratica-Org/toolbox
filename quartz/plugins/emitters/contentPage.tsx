@@ -24,10 +24,20 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
   return {
     name: "ContentPage",
     getQuartzComponents() {
-      return [Head, Header, Body, ...header, ...beforeBody, pageBody, ...left, ...right, Footer, Landing()]
+      return [
+        Head,
+        Header,
+        Body,
+        ...header,
+        ...beforeBody,
+        pageBody,
+        ...left,
+        ...right,
+        Footer,
+        Landing(),
+      ]
     },
     async emit(ctx, content, resources, emit): Promise<FilePath[]> {
-      
       const cfg = ctx.cfg.configuration
       const fps: FilePath[] = []
       const allFiles = content.map((c) => c[1].data)

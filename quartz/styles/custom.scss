@@ -2,48 +2,47 @@
 
 // put your custom CSS here!
 body {
-background-image: url("/static/bg.png") !important;
-margin: 0;
+  background-image: url("/static/bg.png") !important;
+  margin: 0;
 }
 
 @font-face {
-font-family: 'Tiempos';
-src: url('/static/tiempos-light.woff2') format('woff2');
-font-weight: normal;
-font-style: normal;
+  font-family: "Tiempos";
+  src: url("/static/tiempos-light.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
 }
 
 /* HEADER AT TOP OF WEBSITE */
 .marquee {
-background-color: black;
-overflow: hidden;
-width: 100%;
-font-family: monospace;
-white-space: nowrap;
-height: 40px;
+  background-color: black;
+  overflow: hidden;
+  width: 100%;
+  font-family: monospace;
+  white-space: nowrap;
+  height: 40px;
 }
 
 .marquee p {
-color: white;
-font-weight: 700;
-animation: loopText 15s infinite linear;
-line-height: unset;
+  color: white;
+  font-weight: 700;
+  animation: loopText 15s infinite linear;
+  line-height: unset;
 }
 
 @keyframes loopText {
-from {
+  from {
     transform: translateX(0);
-}
+  }
 
-to {
+  to {
     transform: translateX(-25%);
+  }
 }
-}
-
 
 /* HEADER AT TOP OF WEBSITE */
 .content-container {
-width: 70%;
-margin: 0 auto;
-padding-bottom: 128px;
+  width: 70%;
+  margin: 0 auto;
+  padding-bottom: 128px;
 }
