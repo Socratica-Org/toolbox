@@ -15,18 +15,18 @@ const config: QuartzConfig = {
     theme: {
       typography: {
         header: "Tiempos",
-        body: "EB Garamond",
+        body: "PT Serif",
         code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
-          light: "#fff",
-          lightgray: "#CFCCC4",
+          light: "#f7f5eb",
+          lightgray: "#e0ddd7",
           gray: "#A09D98",
-          darkgray: "#000000",
-          dark: "#2b2b2b",
-          secondary: "#554F79",
-          tertiary: "#758F2A",
+          darkgray: "#5c534b",
+          dark: "#242220",
+          secondary: "#635b8f",
+          tertiary: "#69a3d6",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
@@ -45,7 +45,7 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
-      Plugin.TableOfContents(),
+      Plugin.TableOfContents({ maxDepth: 2 }),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),

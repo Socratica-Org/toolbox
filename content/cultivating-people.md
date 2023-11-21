@@ -2,28 +2,47 @@
 title: Cultivating People
 ---
 
-How to organize spaces that feel awesome
-Owner: Jaclyn 
+## How to organize spaces that feel awesome
+<!-- Owner: Jaclyn 
 Contributors: Jacky Zhao
-Status: Initial write complete, looking for input!!  
+Status: Initial write complete, looking for input!!   -->
 
 Picture yourself entering a Socratica session. What do you feel? What do you want the participants to feel? How do hosts ensure that Socratica remains inclusive, beginner-friendly, and a good time?
 
-Balance is key – people want to be in spaces where they feel like they can bring their full self. This means seeing people that they can relate to. However, this has to be balanced with making sure we aren’t including people tokenistically. 
-Non-tokenistic inclusion – while we want to have people from all races, gender identities, and majors represented, Socratica aims to be inclusive beyond mere representation and cosmetic gestures. Inclusion is not just about avoiding discrimination or having people of different backgrounds to check off some boxes; it's about actively promoting and celebrating the differences that make us stronger and more innovative as a collective whole. See How to hold great demos on how to make diversity show up in different ways.
-Accessibility – We want Socratica to be accessible – financially, mentally, physically, socially. Organizers should take note of mobility concerns, dietary preferences, or any specific needs and take efforts to accommodate them without imposing. They should also think about the schedules and habits of their target audience. Are they students? Hosting near or on a campus makes it easier for students to access the event. Are they working adults? Hosting on weekends and after work hours in places easily accessible by public transport make it easier for folks to get to the venue.
-Physical space  – Think about how the tables and chairs are placed for intros and demos. You want to create a space where people can naturally gather to chat and move freely amongst the crowd to talk to lots of people. Look out for furniture placement that makes it hard for large circles to form. Where is the snack table placed? Is it in an area where people can stand nearby to chit chat during breaks? Think about the sound levels in the space. If you have access to a speaker, play some lofi music throughout the sessions. 
-Lightning: this is very venue dependent. If your Socratica sessions are hosted during the day, ideally find spaces that let in natural light. If the sessions are happening at night, try to find spaces that feel cozy and don't have harsh fluorescent lighting. While we want folks to get great work done, we also want people to feel good in the space they are in.
-Directly reach out to great people: Tap people on the shoulder to come. Don’t just send them an invite link or blast it on your socials, but personally ask them to come. This helps both the hosts and community members feel like they have a stake in helping set the culture/vibes
-“An important aspect of design is the degree to which the object involves you in its own completion. Some work invites you into itself by not offering a finished glossy, one-reading-only surface. This is what makes old buildings interesting to me. I think that humans have a taste for things that not only show that they have been through a process of evolution, but which also show they are still a part of one.”
-Use structure as guidance: sessions have a defined structure to guide the overall schedule, however we don’t want to be too rigid with this. We encourage folks to work on passion projects and work that isn’t related to their employment or school. We hope participants are excited about finding passion projects to work on that fit into that structure, but sometimes people will work on things related to work or school – and that’s ok. We are striving to create an environment that makes space for passion projects but we don’t want to dictate what people can work on.
-Language: The language you use to describe the sessions and host are part of the overall brand (see: How to brand). The language should match the vibe of the event (or the aspirational vibe). For most Socratica events, they are meant to be inclusive, beginner friendly and a fun time – so the language should reflect that. Imagine you were being invited to a fun event, how would you want it to sound? Since Socratica isn’t a high commitment, high barrier to entry activity, aim to use language that sounds more like you’re inviting a friend rather than hosting some exclusive 
-Introduce people, be a host! – especially when your community is newer, as a host, you will need to be extra involved with helping people get to know each other. Read through the lu.ma (or whatever application/RSVP capturing method you use) and take note of what folks interests are. Introduce people with similar interests! The most important part of a strong community are the people and how connected they feel to each other. Help fast track that by actively introducing folks you think would get along together. 
+### Balance is key
+People want to be in spaces where they feel like they can bring their full self. This means seeing people that they can relate to. However, this has to be balanced with making sure we aren’t including people tokenistically. 
 
-How to make newcomers feel welcome
-Owner: Anthea Tawiah
+### Non-tokenistic inclusion
+While we want to have people from all races, gender identities, and majors represented, Socratica aims to be inclusive beyond mere representation and cosmetic gestures. Inclusion is not just about avoiding discrimination or having people of different backgrounds to check off some boxes; it's about actively promoting and celebrating the differences that make us stronger and more innovative as a collective whole. See How to hold great demos on how to make diversity show up in different ways.
+
+### Accessibility
+We want Socratica to be accessible – financially, mentally, physically, socially. Organizers should take note of mobility concerns, dietary preferences, or any specific needs and take efforts to accommodate them without imposing. They should also think about the schedules and habits of their target audience. Are they students? Hosting near or on a campus makes it easier for students to access the event. Are they working adults? Hosting on weekends and after work hours in places easily accessible by public transport make it easier for folks to get to the venue.
+
+### Physical space
+Think about how the tables and chairs are placed for intros and demos. You want to create a space where people can naturally gather to chat and move freely amongst the crowd to talk to lots of people. Look out for furniture placement that makes it hard for large circles to form. Where is the snack table placed? Is it in an area where people can stand nearby to chit chat during breaks? Think about the sound levels in the space. If you have access to a speaker, play some lofi music throughout the sessions. 
+
+### Lightning
+This is very venue dependent. If your Socratica sessions are hosted during the day, ideally find spaces that let in natural light. If the sessions are happening at night, try to find spaces that feel cozy and don't have harsh fluorescent lighting. While we want folks to get great work done, we also want people to feel good in the space they are in.
+
+### Directly reach out to great people
+Tap people on the shoulder to come. Don’t just send them an invite link or blast it on your socials, but personally ask them to come. This helps both the hosts and community members feel like they have a stake in helping set the culture/vibes
+
+> “An important aspect of design is the degree to which the object involves you in its own completion. Some work invites you into itself by not offering a finished glossy, one-reading-only surface. This is what makes old buildings interesting to me. I think that humans have a taste for things that not only show that they have been through a process of evolution, but which also show they are still a part of one.”
+
+### Use structure as guidance
+Sessions have a defined structure to guide the overall schedule, however we don’t want to be too rigid with this. We encourage folks to work on passion projects and work that isn’t related to their employment or school. We hope participants are excited about finding passion projects to work on that fit into that structure, but sometimes people will work on things related to work or school – and that’s ok. We are striving to create an environment that makes space for passion projects but we don’t want to dictate what people can work on.
+
+### Language
+The language you use to describe the sessions and host are part of the overall brand (see: How to brand). The language should match the vibe of the event (or the aspirational vibe). For most Socratica events, they are meant to be inclusive, beginner friendly and a fun time – so the language should reflect that. Imagine you were being invited to a fun event, how would you want it to sound? Since Socratica isn’t a high commitment, high barrier to entry activity, aim to use language that sounds more like you’re inviting a friend rather than hosting some exclusive 
+
+### Introduce people, be a host!
+Especially when your community is newer, as a host, you will need to be extra involved with helping people get to know each other. Read through the lu.ma (or whatever application/RSVP capturing method you use) and take note of what folks interests are. Introduce people with similar interests! The most important part of a strong community are the people and how connected they feel to each other. Help fast track that by actively introducing folks you think would get along together. 
+
+## How to make newcomers feel welcome
+<!-- Owner: Anthea Tawiah
 Contributors: @Om @bruce
-Status: Initial write incomplete, owned & open to contributors
+Status: Initial write incomplete, owned & open to contributors -->
+
 If you don't recognize someone, a good rule of thumb is to assume it's their first session – ask if it’s their first session, explain what this space is, who it is for, how it is set up etc.
 Explain what these sessions are to clear expectations from the start.
 This is an uncommon structure of event, it's high interdisciplinary do-what-you-care-about-ism, so people come to it with many confusions & assumptions based on who / what they've seen about it elsewhere.
@@ -38,7 +57,7 @@ Loop them into conversation groups and have newcomer introduce themselves! -Bruc
 Give them responsibility. It’s nice to have a reason to be somewhere
 It feels special to come to the sessions for a second time and people remember your name, it adds significantly to that feeling of being part of something.
 
-How to help people level up
+## How to help people level up
 Owner: Binalpreet Kalra
 Contributors: Anson Yu Anthea Tawiah Joss, Jake
 Status: Initial write complete, looking for input!!
@@ -61,7 +80,7 @@ Not having a balanced host team. Our leadership should reflect the diversity of 
 Having the same hosts lead for too long. They should transition to mentorship positions after ~4 months, max one year) – everyone should be doing work that feels fun / exciting / challenging to them. 
 You can’t level up if you’re stuck in the same place and you’re keeping other people from growing in the ways you have benefitted from hosting – don’t stunt growth.
 
-How to maintain the vibe
+## How to maintain the vibe
 Owner: kai
 Contributor: Anson Yu Jocelyne Murphy
 Status: Initial write incomplete, owned & open to contributors

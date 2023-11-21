@@ -12,9 +12,10 @@
   p {
     margin: 0;
     margin-left: 0.5rem;
-    // padding: 0;
     line-height: normal;
   }
+
+  font-family: var(--codeFont);
   display: flex;
   flex-direction: row;
   align-items: center;

@@ -70,6 +70,7 @@ declare module "vfile" {
     frontmatter: { [key: string]: any } & {
       title: string
       tags: string[]
+      authors: string[]
     }
   }
 }
