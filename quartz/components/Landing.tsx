@@ -56,7 +56,7 @@ export default (() => {
       <div>
         <div class="content-container">
           <p class="landing-header">Welcome to Socratica</p>
-          <p class="page-subhead">This is a guide</p>
+          <p class="page-subhead">This is a guide • <a href="https://socratica-test.vercel.app/" target="_blank">Back to main site</a> • <a href="https://socratica-test.vercel.app/" target="_blank">Credits</a></p>
 
           <div class="issue-container">
             {Object.values(CARDS)}
@@ -69,6 +69,7 @@ export default (() => {
                 </div>
               ))}
           </div>
+          <p class="page-subhead"><a href="http://main.site.url">Back to main site</a> • <a href="http://credits.url">Credits</a></p>
         </div>
       </div>
     )
