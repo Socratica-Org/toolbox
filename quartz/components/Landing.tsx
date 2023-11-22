@@ -69,7 +69,6 @@ export default (() => {
                 </div>
               ))}
           </div>
-          <p class="page-subhead"><a href="http://main.site.url">Back to main site</a> • <a href="http://credits.url">Credits</a></p>
         </div>
       </div>
     )
