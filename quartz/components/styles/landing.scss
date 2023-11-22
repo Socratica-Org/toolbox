@@ -7,10 +7,12 @@
   }
   
   .page-subhead {
-    font-size: 16px;
+    font-size: 14px;
     margin-bottom: 48px;
-    font-family: 'Tiempos', sans-serif;
+    font-family: var(--codeFont);
+    text-transform: uppercase;
   }
+
   
   /* ISSUE CARDS */
   .issue-container {
@@ -54,14 +56,21 @@
     margin-top: 0;
     color: white;
   }
+
+  .card img {
+    transition: all 0.3s;
+    transform: rotate(0) scale(1);
+  }
   
   .card:hover {
-    transform: scale(1.05);
+    transform: scale(1.02);
     /* Make card bigger on hover */
   }
   
   .card:hover img {
-    animation: shake 0.5s;
+    transform: rotate(-20deg) scale(1.05);
+    transition: all 0.3s;
+    // animation: shake 0.3s;
     /* Apply shake animation to image on hover */
   }
   
@@ -143,21 +152,21 @@
   
   /* ANIMATIONS */
   
-  @keyframes shake {
+//   @keyframes shake {
   
-  0%,
-  100% {
-      transform: rotate(0);
-  }
+//   0% {
+
+//   }
   
-  25% {
-      transform: rotate(-10deg);
-  }
+//   50% {
+//       transform: rotate(-20deg);
+//   }
   
-  75% {
-      transform: rotate(10deg);
-  }
-  }
+//   100% {
+//     transform: rotate(-10deg);
+// }
+
+//   }
   
   /* media queries */
   @media screen and (max-width: 1400px) {
