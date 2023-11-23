@@ -11,7 +11,7 @@ In short, you should considering starting a node if:
 2. You have faith that there are good people around you
 3. You are willing to put in the work to cultivate this
 
-Note that neither of these include specific personality traits. You don’t have to be the world’s most charming polymath or be omniscient and highly networked. Everyone has something to bring to the table. For example, introverts and extroverts. As an introvert, you can spot another from across the room and ensure that you give enough space for people who may not be as willing to volunteer to demo or show off their awesome work. Sitting with someone else through their first session and making sure they feel at home is a superpower. If you’re an extrovert, you can raise the energy of the whole room and know how to shepherd people when it comes time to start the coworking block or demos. We also encourage people to find complementary [[#How to find co-hosts | cohosts]].
+Note that none of those bullets include specific personality traits. You don’t have to be the world’s most charming polymath or the resident superconnector. Everyone has something to bring to the table. For example, introverted organizers may have the insight to set up quieter zones or smaller discussion circles. Extroverts can do the service of raising the energy of the whole room. We encourage people to find complementary [co-hosts](#how-to-find-co-hosts-0).
 
 Among our previous hosts, there are a few common “canon events”.
 
@@ -29,7 +29,7 @@ The organizers are the culture setters. Ideally they are:
 
 - Compassionate - They see value in spending time around people different from themselves and thinks all people have interesting things to share
 - People that make things! - To attract the type of people that are also doing cool things, real will recognize real.
-- Determined - This can manifest as ambition or agency. However, they should be low ego enough to experiment
+- Agentic - They just get things done. However, they should be low ego enough to experiment
 - Fun - A little bit silly, a little bit goofy (underrated)
 - Diverse! - Not just in demographic, but in interests. Teach us how to draw! Tell us about climbing a mountain! Walk us through your latest read! All that good stuff.
 
