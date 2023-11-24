@@ -3,7 +3,7 @@ title: Getting Started
 issueNo: 2
 ---
 
-## When you know you should start a node
+## When to start a node
 
 In short, you should considering starting a node if:
 
@@ -249,7 +249,7 @@ The following are some learnings from a few years of facilitating demos:
   - Create spaces for anyone to share projects at any time, such as a discord channel for projects, or Instagram account highlighting projects.
   - This is also a good time to reward folks that attend consistently – effort gate!
 
-## How to Brand
+## How to brand
 
 Your brand identity is extremely important, and extends far beyond the surface of fonts and colours. It’s how you present yourself as an organization– the way that you write, your uniquely obscene usage of emojis, and the vibes you curate at events.
 

@@ -3,11 +3,11 @@ title: The Basics
 issueNo: 1
 ---
 
-## What is this?
+## What is this
 
 A guide.
 
-## What is Socratica?
+## What is Socratica
 
 TLDR: We assemble kind, nerdy, and ambitious young people that are dedicated to consistently creating.
 
@@ -54,7 +54,7 @@ We started in Waterloo, and have helped spin up 14+ independent nodes. Active no
 ![[17.png]]
 ![[18.png]]
 
-## What We Do It For
+## What we do it for
 
 Ideally, **who** you do this for is your current or past self. This is a space that **you** would have personally wanted to exist.
 
