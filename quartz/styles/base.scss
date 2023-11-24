@@ -403,7 +403,7 @@ table {
 th {
   text-align: left;
   padding: 0.4rem 1rem;
-  border-bottom: 2px solid var(--gray);
+  border-bottom: 2px solid var(--darkgray);
 }
 
 td {
@@ -411,7 +411,7 @@ td {
 }
 
 tr {
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--darkgray);
   &:last-child {
     border-bottom: none;
   }
@@ -454,10 +454,6 @@ ol.overflow {
   // clearfix
   content: "";
   clear: both;
-
-  & > li:last-of-type {
-    margin-bottom: 30px;
-  }
 }
 
 .transclude {
