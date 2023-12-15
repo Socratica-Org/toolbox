@@ -87,9 +87,9 @@ But what we talk about less, are the supporting squads that usually make this bo
 
 In the words of author Michael P. Farrell, “extraordinary creativity is often the result of successful collaboration among peers who develop an intense friendship and work together on similar projects for an extended period of time”. History makes a compelling case for this. We see echoes of this in the French Impressionists; Sigmund Freud and his friends; C. S. Lewis, J. R. R. Tolkien, Mary Shelley and the Inklings; social reformers Elizabeth Cady Stanton and Susan B. Anthony; the Fugitive poets; and the writers Joseph Conrad and Ford Maddox Ford. In engineering and the sciences, the Homebrew Computer Club and Vienna Circle.
 
-It’s not just the physical act of working alongside someone (although we do encourage it), but it’s emotional and intellectual companionship. It’s having people around you doing similar things, to discuss, encourage, and critique your approach.[^1]
+It’s not just the physical act of working alongside someone (although we do encourage it), but it’s emotional and intellectual companionship. It’s having people around you doing similar things, to discuss, encourage, and critique your approach.
 
-**Then, things start to get really exciting. **You have people to share wins, work through losses, and brainstorm with. Even if you’re working on something completely different, there’s someone also exploring alongside you. How they push themselves, nudges you to be better. How you push yourself, encourages them to do the same.  
+**Then, things start to get really exciting.** You have people to share wins, work through losses, and brainstorm with. Even if you’re working on something completely different, there’s someone also exploring alongside you. How they push themselves, nudges you to be better. How you push yourself, encourages them to do the same.  
 
 
 ![[work-play-loop.png]]
@@ -123,5 +123,5 @@ To others
 
 
 * **“You have permission to get started. We permission you”** - The first time you do things can be scrappy and imperfect, the most important thing is to start! Can’t register for a venue? Do it in a public place. Find an unlocked classroom, building lobby, or park. The most important thing is gathering great people together, and everything else will follow, we promise.
-* **“Do work you care about” **- Create the things you want to exist in the world, especially if it’s taking a backseat. People are perceptive - if you work on things important to you, it’ll encourage others to do the same!
+* **“Do work you care about”** - Create the things you want to exist in the world, especially if it’s taking a backseat. People are perceptive - if you work on things important to you, it’ll encourage others to do the same!
 * **“Everyone is a host”** - Environments get better when everyone feels responsible for making things enjoyable. Some people even feel **more** comfortable when they feel like they have a little role. Give everyone a chance to be responsible! 

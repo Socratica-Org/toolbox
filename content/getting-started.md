@@ -72,10 +72,9 @@ TLDR: Go to events and organizations that preach creativity and action, as well 
 
 For a good balance of attendees, think about all the different types of people you want to attend. Ask the question:
 
-“If I were [insert type of person], what groups would I be a part of?” 
+**“If I were [insert type of person], what groups would I be a part of?”**
 
 A surefire way to bring more of a certain type of person is to go where they are! Some of our hosts have done so by LARPing, basically stepping into their shoes and actually trying the things they do. It’s kind of like a combination of method acting and recruiting. Aside from that, you can check out the following: 
-
 
 
 * **Clubs** - Specifically people preach making things (engineering clubs, painting clubs, poetry clubs, coding clubs… etc). We’ve even had nodes go to club fairs to “reverse recruit” people.
@@ -89,7 +88,7 @@ Creative, action oriented people also tend to enjoy learning about other project
 
 > Play the long game! When inviting someone, they might show up… or maybe not, but making that initial contact seeds the idea of attending and also builds a list of people to nudge later.
 
-**At the end of the day, it’s simple. Be fun and good to people. Co-working is, really, never that serious.  **We’ve found that one of the most sustainable ways to grow is for people to have such a good time they can’t help but invite their friends. 
+**At the end of the day, it’s simple. Be fun and good to people. Co-working is, really, never that serious.** We’ve found that one of the most sustainable ways to grow is for people to have such a good time they can’t help but invite their friends. 
 
 Common failure modes:
 
@@ -107,7 +106,7 @@ Common failure modes:
 
 Now that you have your host team and a list of attendees, it’s time to start planning the session! 
 
-Your goal will be to achieve 2 main things: **give people time to work on their projects**, and **showcase + celebrate progress **of any sort in your community. Each session roughly spans 3-4 hours and include a couple key elements:
+Your goal will be to achieve 2 main things: **give people time to work on their projects**, and **showcase + celebrate progress** of any sort in your community. Each session roughly spans 3-4 hours and include a couple key elements:
 
 
 * Introductions: Start with 15 mins of buffer time for informal interactions, food and small talk, followed by a group address explaining what Socratica is.
@@ -115,7 +114,7 @@ Your goal will be to achieve 2 main things: **give people time to work on their 
 * Demos: Short presentations/updates showcasing participation progress.
 
 
-### Intro Section
+## Intro Section
 
 
 <table>
@@ -262,7 +261,7 @@ Slightly less silent work block
 </table>
 
 
-### Closing Section
+## Closing Section
 
 
 <table>
@@ -356,17 +355,14 @@ Some ways we’ve done this that have been successful are:
         * Audience size – if the sessions are large, you could experiment with having smaller demo groups
         * 1:1 encouragement – ask them about their project 1:1 during break sessions, show authentic curiosity, tell them “that would make a great demo”
 * **Managing dynamics:** The only time we’ve really ever really had tense conflict was during the question section of a demo. Be deliberate and step in if things are getting weird. If you think the vibes are off, the audience probably thinks so too. A gentle way to redirect a Q&A is to mention that time is up (if the conversation has been going for a while) or ask to move on to the next question and suggest folks discuss further after demos.
-* **Body language: **Remind people to close or lower their laptop screens, encourage folks to take off their headphones, pause side conversations,and to give the presenters their full attention. Encourage people to stand up and gather near the demoer when people are sitting down at their desks it’s easy for them to get distracted during peoples demos. If any of these are disruptive, don’t be afraid to pause the demoer and remind participants to give full attention to the demoer.
+* **Body language:** Remind people to close or lower their laptop screens, encourage folks to take off their headphones, pause side conversations,and to give the presenters their full attention. Encourage people to stand up and gather near the demoer when people are sitting down at their desks it’s easy for them to get distracted during peoples demos. If any of these are disruptive, don’t be afraid to pause the demoer and remind participants to give full attention to the demoer.
 
-**Common failure modes are: **As a host, you should look out for these and do not hesitate to intervene early.
+**Common failure modes**
 
-
-
-* **Presenter goes wayyy over time**- Open your phone and set a timer to go off at maximum volume. When the timer goes off, jump in with “Thank you for demoing” and start clapping.
-* **Presenter speaks in extremely specific, verbose, technical terms **- Remind them that their audience includes people who are non-technical. Encourage analogies and a focus on what they accomplished in the session, not how it works technically. Post in an open forum afterwards so that they provide detail to those interested.
+* **Presenter goes wayyy over time** - Open your phone and set a timer to go off at maximum volume. When the timer goes off, jump in with “Thank you for demoing” and start clapping.
+* **Presenter speaks in extremely specific, verbose, technical terms** - Remind them that their audience includes people who are non-technical. Encourage analogies and a focus on what they accomplished in the session, not how it works technically. Post in an open forum afterwards so that they provide detail to those interested.
 * **Presenter speaks very early stage, doesn’t have clearly defined project yet** - Ask probing questions: “What did you specifically work on today?”
 * **Too many people want to demo** - Reassure people who don’t get a chance that they can demo next week. You can also create spaces for anyone to share projects at any time, such as a discord channel for projects, or Instagram account highlighting projects. This is also a good time to reward folks that attend consistently – effort gate!
-
 
 
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
@@ -383,7 +379,7 @@ _Our pillars for brand identity:_
 * **Be exploratory**: keep things open to interpretation by your team.
 * **Be recognizable:** as an influx of bland and unspeaking brand identities pour into clubs, choose assets and create designs that reflect your club, truly
     * Don’t be template-y or overly corporate (unless that is your vibe)- make things that make people want to sign up!
-* **Be authentic ;) **no matter what design style you lean into, make sure it is accurate to your organization and its principles (ie. silly, fun, ambitious, playful )
+* **Be authentic ;)** no matter what design style you lean into, make sure it is accurate to your organization and its principles (ie. silly, fun, ambitious, playful )
 
 Establish your systems early, but acknowledge that they will evolve. As your org changes, your public facing image will likely change too. Despite having a design system with recommended type treatments and layouts, the Waterloo team treats our 10 page Figma file as a guide. 
 

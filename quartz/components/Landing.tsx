@@ -21,10 +21,10 @@ export const CARDS = {
       </div>
     </a>
   ),
-  "cultivating-people": (
-    <a href={"/cultivating-people"}>
+  "growing-people": (
+    <a href={"/growing-people"}>
       <div class="card card-3">
-        <p class="card-title">Cultivating People</p>
+        <p class="card-title">Growing People</p>
         <p class="card-subhead">Issue 003</p>
         <img src="/static/3-illo.png" class="card-illustration-3" />
       </div>
