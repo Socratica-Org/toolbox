@@ -46,6 +46,8 @@ We started in Waterloo, and have helped spin up 14 independent nodes (and counti
 ![[basics-collage.png]]
 
 
+<br/>
+<br/>
 <div style="color: red; border-radius: 5px; padding: 25px; border: 1px solid #949D62; background: #6096E6;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">What we do it for</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Anson Yu</p>
@@ -85,7 +87,8 @@ The cycle doesn’t just feed into itself. When done right, it makes people bett
 
 ![[work-play-spiral.png]]
 
-
+<br/>
+<br/>
 <div style="color: red; border-radius: 5px; padding: 25px; border: 1px solid #949D62; background: #6096E6;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">What we do it for</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Maya Lehki & Anson Yu</p>
@@ -95,16 +98,12 @@ There are a couple of phrases we’re guilty of repeating (and repeating). It he
 
 To ourselves
 
-
-
 * **“We’re not married to the format, we’re married to what works”** - The point of running anything is to engineer a _feeling_. It’s the feeling of being excited about what’s possible, and relief that you’ve found kind, curious people to share the potential with. That may or may not be tied to a format, but we're not stuck in formalities. We encourage experimentation week to week. If co-working doesn’t work, try a different format!
 * **“Accommodations are not a burden”** - It sucks to feel like an outsider based on needs or circumstances. Going the extra mile to accommodate a small group also often makes things better for everyone. For example, ramped sidewalks and accessible web design. 
     * **Keep events free and accessible**- No one should ever be held back by a price tag. Always be on the lookout for unexpected or hidden financial barriers (i.e. transportation costs, event times) that can come with events as well, and brainstorm creative ways to mitigate them.
 * **“Effort-gate.”** - Start with low barriers to entry and reward those that show up consistently. For example, prioritizing recurring attendees for demos or hosting opportunities. 
 
 To others 
-
-
 
 * **“You have permission to get started. We permission you”** - The first time you do things can be scrappy and imperfect, the most important thing is to start! Can’t register for a venue? Do it in a public place. Find an unlocked classroom, building lobby, or park. The most important thing is gathering great people together, and everything else will follow, we promise.
 * **“Do work you care about”** - Create the things you want to exist in the world, especially if it’s taking a backseat. People are perceptive - if you work on things important to you, it’ll encourage others to do the same!
