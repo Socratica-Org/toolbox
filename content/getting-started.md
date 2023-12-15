@@ -28,7 +28,8 @@ Consistency, on the scale of months, also matters. You don’t have to promise t
 
 See also: [[#How to find the people that are trying to find you]]
 
-
+<br/>
+<br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to find co-hosts</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Anson Yu and Joss Murphy </p>
@@ -49,7 +50,7 @@ Within each host team, there are a couple of archetypes that have bubbled up. Th
 
 
 
-* **Emotional vibe curator **- Really knows how to fine tune the “feeling”. They reposition tables to maximize conversational surface area, intentionally select music to pump energy levels, and are the patron saint of the anxious newbie.
+* **Emotional vibe curator** - Really knows how to fine tune the “feeling”. They reposition tables to maximize conversational surface area, intentionally select music to pump energy levels, and are the patron saint of the anxious newbie.
 * **Energetic doer** - Shockingly high output person. Nobody really knows how they do how much they do (even themselves). They seem to really get energy from their work, and are always excited to share with enthusiastic people.
 * **Structural backbone** - Not afraid to enforce the structure that enables the fun. Makes announcements, emphasizes logistics? Code of conduct?, and asks people to be quiet when need be.
 * **In-house inquirer** - An excellent listener and question asker. Somehow able to understand peoples’ visions for their baby ideas, before they do themselves.Makes people feel seen.
@@ -57,7 +58,8 @@ Within each host team, there are a couple of archetypes that have bubbled up. Th
 * **Excessively helpful person** - They take “how can I be helpful” to a different level. They somehow know a bunch about fellowships, grants, and have just the right link for you to check out. They have a lot of context on what others are working on, and can make the right introductions.
 * **Chief historian** - The unspoken hero that loves to take photos and videos. Is always out of storage. Writes down what everyone’s projects are. 
 
-
+<br/>
+<br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to find the people that are trying to find you</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Mathurah Ravigulan, Kai, and Aava Sapkota</p>
@@ -98,6 +100,8 @@ Common failure modes:
 * **Over-institutionalizing** - It can be useful to present the node as a put-together brand™. However, it’s a balance between this and staying fun, light-hearted, and nimble. Presenting it as a hangout among friends can help ward off people coming to be transactional in an extractive way. Ensuring this vibe is communicated upon first contact with anyone you want to join the session, and at the sessions themselves is ESSENTIAL!! Keep in mind that the types of people we bring in will continue to shape the quality of sessions.
 * **Losing contact** - Even if people don’t come to sessions after being told about them, provide opportunities for them to be kept in the loop via email or otherwise! For some, not attending is a matter of situational availability.
 
+<br/>
+<br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to structure a session</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Aava Sapkota, Jake Rudolph, Jaclyn Chan, and Hudzah Nazoordeen</p>
@@ -319,7 +323,8 @@ Rapid fire shoutouts of what people are proud of from the week.
 </table>
 
 
-
+<br/>
+<br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to hold great demos</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Hudzah Nazoordeen, Anson Yu, Jaclyn Chan, and Jake Rudolph</p>
@@ -328,7 +333,7 @@ Rapid fire shoutouts of what people are proud of from the week.
 
 In a company, there are three actions that matter in setting culture: who you hire, fire, and promote. Within a community, the “promotion” becomes who you give the most visibility to. In this case, it’s who you choose to demo and host. 
 
-To find great demo-ers, backchannel with other hosts, tap on people who have been showing up consistently, encourage folks working on projects you find interesting, chances are, other people will find it interesting too (see: [How to find the people that are trying to find you](https://docs.google.com/document/d/1Y5MI7To7BwEb_apKPeyEUNzekiGc0YvXI4QXgs9nN7Y/edit#heading=h.4rp09huu1757)). Actively encourage people to demo at all points in their creation process because every project starts somewhere. Frame demos as an opportunity to share and celebrate progress rather than show off polished work (that is what [Symposium](https://docs.google.com/document/d/1Y5MI7To7BwEb_apKPeyEUNzekiGc0YvXI4QXgs9nN7Y/edit#heading=h.yjuyxr6hhpwx) is for).
+To find great demo-ers, backchannel with other hosts, tap on people who have been showing up consistently, encourage folks working on projects you find interesting, chances are, other people will find it interesting too (see: [[getting-started#How to find co-hosts]]). Actively encourage people to demo at all points in their creation process because every project starts somewhere. Frame demos as an opportunity to share and celebrate progress rather than show off polished work (that is what [[superboosting-ideas#how-to-organize-a-symposium]]) is for).
 
 The following are some learnings from a few years of facilitating demos:
 
@@ -364,7 +369,8 @@ Some ways we’ve done this that have been successful are:
 * **Presenter speaks very early stage, doesn’t have clearly defined project yet** - Ask probing questions: “What did you specifically work on today?”
 * **Too many people want to demo** - Reassure people who don’t get a chance that they can demo next week. You can also create spaces for anyone to share projects at any time, such as a discord channel for projects, or Instagram account highlighting projects. This is also a good time to reward folks that attend consistently – effort gate!
 
-
+<br/>
+<br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to brand</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Brayden Petersen and Aileen Luo</p>
@@ -402,7 +408,7 @@ We embrace the styles of our individual designers whilst setting the bar approac
     * How does your website reflect this?
     * What stories, emails, Lumas, and posts create and expand your digital presence?
 
-TL;DR_ this is important stuff. Never forget to put fun and welcoming first. It doesn’t have to be ‘beautiful’ or ‘perfect’ for you to post it!_
+TL;DR _this is important stuff. Never forget to put fun and welcoming first. It doesn’t have to be ‘beautiful’ or ‘perfect’ for you to post it!_
 
 ![[5.png]]
 ![[1.png]]

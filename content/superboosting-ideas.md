@@ -8,7 +8,6 @@ issueNo: 4
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Jake Rudolph</p>
 </div>
 
-
   
 A core pillar of building a community for people to see the best version of their ideas is to understand ideas, how they progress over time, and how you can support your people at each stage of their idea.
  
@@ -38,7 +37,9 @@ Examples: a VC-backed startup, Youtuber with 50k followers, AR/VR research proje
 Examples: ex-president of a social justice club, sunsetted greenhouse project in Sri Lanka
 
 Currently, Socratica is best positioned to support baby and teenage ideas. We are still learning and exploring how we can support adult and wise elder ideas.
-    
+
+<br/>
+<br/>  
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #9F7389; background: #AC7D94;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to choose what ideas to work on</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Aditya Sharma and Jake Rudolph</p>
@@ -109,6 +110,8 @@ Other seminal resources on idea-ing:
 * [https://tyler.cafe/foundational_skills](https://tyler.cafe/foundational_skills) 
 * [http://www.paulgraham.com/getideas.html](http://www.paulgraham.com/getideas.html)
 
+<br/>
+<br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #9F7389; background: #AC7D94;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to raise baby ideas</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Aadil Ali</p>
@@ -122,6 +125,8 @@ Other seminal resources on idea-ing:
 - U can only really nurture people who are willing to grow, and people only truly do stuff if they wanna do it, not if u tell them - they’re just scared/confused/timid, so i try to do what i can to figure out then point out what’s holding them back, and make it seem smaller/less scary than they originally thought, and then what happens happens
 - BONUS: often those negative feelings are from a lack of confidence/belief - offering a little help, a little money, a little ”im in this with you” tends to give that person a belief in themselves for the first time - anyone can give a “yeah thats cool, you should do it, sgtm” but being so invested that u offer ur own time/money, even if they don't take it, is a really positive signal to them
 
+<br/>
+<br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #9F7389; background: #AC7D94;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to organize a symposium</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Hudzah Nazoordeen</p>

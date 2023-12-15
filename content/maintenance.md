@@ -16,7 +16,7 @@ To some extent, this document originated from the work existing hosts did to mak
 
 - First, form an incoming team! The host role is a fair amount of commitment, and it's always valuable to have more than two hosts at any given time, especially when accounting for weekend travel plans, midterms and academic commitments, and general availability.
 - Handoff needs to happen early -- the more time you give new hosts to get used to the additional responsibility, the better. Ideally, new hosts attend the last couple sessions of the previous term to get an idea of the basic responsibilities of running sessions (food ordering, location set up, etc.) without having to worry about remembering everything.
-- For a deep dive into the role of a host and setting yourself up for success within the role, look at the [[cultivating-people|cultivating people]] section of the toolbox!
+- For a deep dive into the role of a host and setting yourself up for success within the role, look at the [[growing people|growing-people]] section of the toolbox!
 
 ### Choosing hosts
 
@@ -26,6 +26,8 @@ To some extent, this document originated from the work existing hosts did to mak
 
 See also: [[getting-started#How to find co-hosts]]
 
+<br/>
+<br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #D37662; background: #EB846D;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to fundraise</h1>
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Rishi Kothari</p>
