@@ -43,24 +43,8 @@ We started in Waterloo, and have helped spin up 14 independent nodes (and counti
 
 <!-- probably make these html so we can style em -->
 
-![[1.png]]
-![[2.png]]
-![[3.png]]
-![[4.png]]
-![[5.png]]
-![[6.png]]
-![[7.png]]
-![[8.png]]
-![[9.png]]
-![[10.png]]
-![[11.png]]
-![[12.png]]
-![[13.png]]
-![[14.png]]
-![[15.png]]
-![[16.png]]
-![[17.png]]
-![[18.png]]
+![[basics-collage.png]]
+
 
 <div style="color: red; border-radius: 5px; padding: 25px; border: 1px solid #949D62; background: #6096E6;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">What we do it for</h1>

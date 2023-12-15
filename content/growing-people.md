@@ -66,7 +66,7 @@ Common failure modes:
 
 * **The VP-ification of hosting** - This is especially applicable in a university setting. People may flock to the prospects of having an “exec position” or label to put on their resume. Avoid this by never establishing titles.
 * **Not having a balanced host team** - Our leadership should reflect the diversity of our attendees – this applies to interests, profession, age, ethnicity, gender, etc. The first step to achieve this is to be intentionally balanced when tapping attendees on the shoulder to help out in smaller situations. 
-* **Having the same hosts lead for too long -**They should transition to mentorship positions after ~4 months, max one year) – everyone should be doing work that feels fun / exciting / challenging to them. 
+* **Having the same hosts lead for too long** - They should transition to mentorship positions after ~4 months, max one year) – everyone should be doing work that feels fun / exciting / challenging to them. 
     * You can’t level up if you’re stuck in the same place and you’re keeping other people from growing in the ways you have benefitted from hosting – don’t stunt growth.
 
 
