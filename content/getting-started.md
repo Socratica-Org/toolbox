@@ -94,13 +94,15 @@ Creative, action oriented people also tend to enjoy learning about other project
 Common failure modes:
 
 
-
-* **Intimidated attendees** - When you’re just starting out, it might be a bit intimidating for people to go to a coworking session. Combat this by following up before the session. 
+* **Intimidated attendees** - When you’re just starting out, it might be a bit intimidating for people to go to a co-working session. Combat this by following up before the session. 
 * **Optimizing for hypergrowth** - 2 people is a gathering B) Focus on the people who show up and are engaged.
 * **Over-institutionalizing** - It can be useful to present the node as a put-together brand™. However, it’s a balance between this and staying fun, light-hearted, and nimble. Presenting it as a hangout among friends can help ward off people coming to be transactional in an extractive way. Ensuring this vibe is communicated upon first contact with anyone you want to join the session, and at the sessions themselves is ESSENTIAL!! Keep in mind that the types of people we bring in will continue to shape the quality of sessions.
 * **Losing contact** - Even if people don’t come to sessions after being told about them, provide opportunities for them to be kept in the loop via email or otherwise! For some, not attending is a matter of situational availability.
 
-## How to structure a session
+<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
+<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to structure a session</h1>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Aava Sapkota, Jake Rudolph, Jaclyn Chan, and Hudzah Nazoordeen</p>
+</div>
 
 
 Now that you have your host team and a list of attendees, it’s time to start planning the session! 
@@ -108,31 +110,25 @@ Now that you have your host team and a list of attendees, it’s time to start p
 Your goal will be to achieve 2 main things: **give people time to work on their projects**, and **showcase + celebrate progress **of any sort in your community. Each session roughly spans 3-4 hours and include a couple key elements:
 
 
-
 * Introductions: Start with 15 mins of buffer time for informal interactions, food and small talk, followed by a group address explaining what Socratica is.
 * Pomodoro Work Sessions: Structured periods for focused work.
 * Demos: Short presentations/updates showcasing participation progress.
 
+
+### Intro Section
+
+
 <table>
   <tr>
-   <td>
-Section
-   </td>
    <td>Activity
-   </td>
-   <td>Duration
    </td>
    <td>Tips
    </td>
   </tr>
   <tr>
-   <td>Pre-session
-   </td>
-   <td>Setup
+   <td><strong>Setup (5 mins)</strong>
 <p>
 Hosts set up food, projectors/display and any other equipment.
-   </td>
-   <td>15 mins
    </td>
    <td>
 <ul>
@@ -147,13 +143,9 @@ Hosts set up food, projectors/display and any other equipment.
    </td>
   </tr>
   <tr>
-   <td rowspan="2" >Introductions and Icebreakers
-   </td>
-   <td>Mingling
+   <td><strong>Mingling (5 mins)</strong>
 <p>
 Eat and let people settle in. Good buffer time for people trickling in slightly late.	
-   </td>
-   <td>10 mins
    </td>
    <td>
 <ul>
@@ -164,11 +156,9 @@ Eat and let people settle in. Good buffer time for people trickling in slightly 
    </td>
   </tr>
   <tr>
-   <td>Icebreaker circles
+   <td><strong>Icebreaker circles (15 mins)</strong>
 <p>
 In groups of maximum ~10, do a round of introductions where people mention their name, what they’re working on, and answer an icebreaker question.
-   </td>
-   <td>15 mins
    </td>
    <td>
 <ul>
@@ -211,14 +201,23 @@ In groups of maximum ~10, do a round of introductions where people mention their
 </ul>
    </td>
   </tr>
+</table>
+
+
+## Work Session
+
+
+<table>
   <tr>
-   <td rowspan="3" >Workblocks
+   <td>Activity
    </td>
-   <td>Workblock 1
+   <td>Tips
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Workblock 1 (50 mins)</strong>
 <p>
 Silent work block
-   </td>
-   <td>50 mins
    </td>
    <td>
 <ul>
@@ -233,9 +232,7 @@ Silent work block
    </td>
   </tr>
   <tr>
-   <td>Break
-   </td>
-   <td>10 mins
+   <td><strong>Break (10 mins)</strong>
    </td>
    <td>
 <ul>
@@ -248,11 +245,9 @@ Silent work block
    </td>
   </tr>
   <tr>
-   <td>Work block 2
+   <td><strong>Work block 2 (50 mins)</strong>
 <p>
 Slightly less silent work block
-   </td>
-   <td>50 mins
    </td>
    <td>
 <ul>
@@ -264,14 +259,23 @@ Slightly less silent work block
 </ul>
    </td>
   </tr>
+</table>
+
+
+### Closing Section
+
+
+<table>
   <tr>
-   <td>Demos
+   <td>Activity
    </td>
-   <td>Demos
+   <td>Tips
+   </td>
+  </tr>
+  <tr>
+   <td><strong>Demos (25 mins)</strong>
 <p>
 Short project showcases
-   </td>
-   <td>25 mins
    </td>
    <td>
 <ul>
@@ -288,13 +292,9 @@ Short project showcases
    </td>
   </tr>
   <tr>
-   <td>Closing
-   </td>
-   <td>Weekly wins
+   <td><strong>Weekly wins (3 mins)</strong>
 <p>
 Rapid fire shoutouts of what people are proud of from the week.
-   </td>
-   <td>5 mins
    </td>
    <td>
 <ul>
@@ -307,11 +307,7 @@ Rapid fire shoutouts of what people are proud of from the week.
    </td>
   </tr>
   <tr>
-   <td>
-   </td>
-   <td>Announcements
-   </td>
-   <td>1 min
+   <td><strong>Announcements (2 mins)</strong>
    </td>
    <td>
 <ul>
@@ -325,79 +321,89 @@ Rapid fire shoutouts of what people are proud of from the week.
 
 
 
-## How to hold great demos
+<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
+<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to hold great demos</h1>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Hudzah Nazoordeen, Anson Yu, Jaclyn Chan, and Jake Rudolph</p>
+</div>
 
-In a company, there are three actions that matter in setting culture: who you hire, fire, and promote. Within a community, the “promotion” becomes who you give the most visibility to. In this case, it’s who you choose to demo and host.
 
-To find great demo-ers, backchannel with other hosts, tap on people who have been showing up consistently, encourage folks working on projects you find interesting, chances are, other people will find it interesting too (see: [[#How to find the people that are trying to find you]]). Actively encourage people to demo at all points in their creation process because every project starts somewhere. Frame demos as an opportunity to share and celebrate progress rather than show off polished work (that is what [[superboosting-ideas#How to organize a symposium]] is for).
+In a company, there are three actions that matter in setting culture: who you hire, fire, and promote. Within a community, the “promotion” becomes who you give the most visibility to. In this case, it’s who you choose to demo and host. 
+
+To find great demo-ers, backchannel with other hosts, tap on people who have been showing up consistently, encourage folks working on projects you find interesting, chances are, other people will find it interesting too (see: [How to find the people that are trying to find you](https://docs.google.com/document/d/1Y5MI7To7BwEb_apKPeyEUNzekiGc0YvXI4QXgs9nN7Y/edit#heading=h.4rp09huu1757)). Actively encourage people to demo at all points in their creation process because every project starts somewhere. Frame demos as an opportunity to share and celebrate progress rather than show off polished work (that is what [Symposium](https://docs.google.com/document/d/1Y5MI7To7BwEb_apKPeyEUNzekiGc0YvXI4QXgs9nN7Y/edit#heading=h.yjuyxr6hhpwx) is for).
 
 The following are some learnings from a few years of facilitating demos:
 
-- **Visuals**: Ideally, having accompanying visuals is fantastic! Visuals are more engaging and get people excited about the project. It also helps to get people excited…. To complete. This doesn’t have to be a screen-shared website. It can be a physical painting, hardware project, or even the demoer themselves doing something live (i.e. guitarist)
-- **Storytelling**: Encourage demo-ers to tell a story! Especially if it’s the first time someone is demoing, encourage them to start by sharing why they are working on their project.
-- **Keep an eye on the time**: Time boxing is essential as audiences can become disengaged if demos go on for too long. Display a visible timer for the presenter, complete with a noticeable ringtone to signal the end of their allocated time.
-- **Encourage people to ask questions:** Allocate time for questions; they often reveal valuable insights that could be the highlight of the session! To make sure that there is a variety of people asking questions across demos, as a host, tap on some folks and encourage them to ask questions. To build a strong culture, you have to actively create it. \
-  Some ways we’ve done this that have been successful are:
-  _ encouraging specific people who are eager to ask and haven’t gotten a chance yet to demoers. Encourage the demo-ers to act like hosts and call on those people.
-  _ If there aren’t enough questions, ask one yourself.
-- **Diversity of demos**: When choosing presenters try to be diverse on these axises:
 
-  - Topic (Code, art, writing)
-  - Project Stage (Ideating, in progress, complete)
-  - Speaker (Shyer people, confident returner, etc)
 
-  To keep folks engaged, order demos in such a way that it feels more diverse. You can do this by spacing out similar demo topics and starting with more creative and unpolished/work in progress demo’s so people who are unsure about demo-ing feel confident to demo their work in progress projects.
+* **Visuals**: Ideally, having accompanying visuals is fantastic! Visuals are more engaging and get people excited about the project. They also help give a sense of the project through pictures used for documentation and social media. This doesn’t have to be a screen-shared website. It can be a physical painting, hardware project, or even the demoer themselves doing something live (i.e. guitarist)
+* **Storytelling**: Encourage demo-ers to tell a story! Especially if it’s the first time someone is demoing, encourage them to start by sharing why they are working on their project.
+* **Keep an eye on the time**: Time boxing is essential as audiences can become disengaged if demos go on for too long. Display a visible timer for the presenter, complete with a noticeable ringtone to signal the end of their allocated time.
+* **Encourage people to ask questions:** Allocate time for questions; they often reveal valuable insights that could be the highlight of the session! To make sure that there is a variety of people asking questions across demos, as a host, tap on some folks and encourage them to ask questions. To build a strong culture, you have to actively create it. \
+Some ways we’ve done this that have been successful are: 
+    * Encouraging specific people who are eager to ask and haven’t gotten a chance yet to demoers. Encourage the demo-ers to act like hosts and call on those people. 
+    * If there aren’t enough questions, ask one yourself.
+* **Diversity of demos**: When choosing presenters try to be diverse on these axises:
+    * Topic (Code, art, writing)
+    * Project Stage (Ideating, in progress, complete)
+    * Speaker (Shyer people, confident returner, etc)
 
-- **Encourage and empower:** Some people take 3-4 nudges of encouragement to think that they are qualified to demo. It’s our job to make people think they can and be constructive when they do. Your job as a host is to empower people to gain confidence in demoing and feel comfortable demoing unfinished work in this space. A good way to frame this for attendees is to frame demo-ing as an act of service to the community instead of a place to prove themselves worthy.
-  - Hosts can work together with hesitant participants to provide demoing formats that make them more comfortable and confident. You can innovate along the lines of:
-    - Time length – experiment with different lengths of demos. 3 minutes can feel intimidating, maybe start with a 30 second demo
-    - Demo location – standing in the front of the room can be scary, experiment with demo formats where demos can be shared from their seats or in a circle setting.
-    - Audience size – if the sessions are large, you could experiment with having smaller demo groups
-    - 1:1 encouragement – ask them about their project 1:1 during break sessions, show authentic curiosity, tell them “that would make a great demo”
-- **Managing dynamics:** The only time we’ve really ever really had tense conflict was during the question section of a demo. Be deliberate and step in if things are getting weird. If you think the vibes are off, the audience probably thinks so too. A gentle way to redirect a Q&A is to mention that time is up (if the conversation has been going for a while) or ask to move on to the next question and suggest folks discuss further after demos.
-- **Body language:** Remind people to close or lower their laptop screens, encourage folks to take off their headphones and to give the presenters their full attention. Encourage people to stand up and gather near the demoer when people are sitting down at their desks it’s easy for them to get distracted during peoples demos
+    To keep folks engaged, order demos in such a way that it feels more diverse. You can do this by spacing out similar demo topics and starting with more creative and unpolished/work in progress demo’s so people who are unsure about demo-ing feel confident to demo their work in progress projects. 
 
-**Common failure modes are:** As a host, you should look out for these and do not hesitate to intervene early.
+* **Encourage and empower:** Some people take 3-4 nudges of encouragement to think that they are qualified to demo. It’s our job to make people think they can and be constructive when they do. Your role as a host is to empower people to gain confidence in demoing and feel comfortable demoing unfinished work in this space. A good way to frame this for attendees is to frame demo-ing as an act of service to the community instead of a place to prove themselves worthy. 
+    * Hosts can work together with hesitant participants to provide demoing formats that make them more comfortable and confident. You can innovate along the lines of:
+        * Time length – experiment with different lengths of demos. 3 minutes can feel intimidating, maybe start with a 30 second demo
+        * Demo location – standing in the front of the room can be scary, experiment with demo formats where demos can be shared from their seats or in a circle setting. 
+        * Audience size – if the sessions are large, you could experiment with having smaller demo groups
+        * 1:1 encouragement – ask them about their project 1:1 during break sessions, show authentic curiosity, tell them “that would make a great demo”
+* **Managing dynamics:** The only time we’ve really ever really had tense conflict was during the question section of a demo. Be deliberate and step in if things are getting weird. If you think the vibes are off, the audience probably thinks so too. A gentle way to redirect a Q&A is to mention that time is up (if the conversation has been going for a while) or ask to move on to the next question and suggest folks discuss further after demos.
+* **Body language: **Remind people to close or lower their laptop screens, encourage folks to take off their headphones, pause side conversations,and to give the presenters their full attention. Encourage people to stand up and gather near the demoer when people are sitting down at their desks it’s easy for them to get distracted during peoples demos. If any of these are disruptive, don’t be afraid to pause the demoer and remind participants to give full attention to the demoer.
 
-- Presenter ignores timer and goes on for way too long
-  - Open your phone and set a timer to go off at maximum volume. When the timer goes off, jump in with “Thank you for demoing” and start clapping.
-- Presenter speaks very technically
-  - Remind them that their audience includes people who are non-technical. Post in an open forum afterwards so that they provide detail to those interested.
-- Presenter speaks very early stage, doesn’t have clearly defined project yet
-  - Ask probing questions: “What did you specifically work on today?”
-- Too many people want to demo and there is not enough time for everyone
-  - Reassure people who don’t get a chance that they can demo next week.
-  - Create spaces for anyone to share projects at any time, such as a discord channel for projects, or Instagram account highlighting projects.
-  - This is also a good time to reward folks that attend consistently – effort gate!
+**Common failure modes are: **As a host, you should look out for these and do not hesitate to intervene early.
 
-## How to brand
+
+
+* **Presenter goes wayyy over time**- Open your phone and set a timer to go off at maximum volume. When the timer goes off, jump in with “Thank you for demoing” and start clapping.
+* **Presenter speaks in extremely specific, verbose, technical terms **- Remind them that their audience includes people who are non-technical. Encourage analogies and a focus on what they accomplished in the session, not how it works technically. Post in an open forum afterwards so that they provide detail to those interested.
+* **Presenter speaks very early stage, doesn’t have clearly defined project yet** - Ask probing questions: “What did you specifically work on today?”
+* **Too many people want to demo** - Reassure people who don’t get a chance that they can demo next week. You can also create spaces for anyone to share projects at any time, such as a discord channel for projects, or Instagram account highlighting projects. This is also a good time to reward folks that attend consistently – effort gate!
+
+
+
+<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
+<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to brand</h1>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Brayden Petersen and Aileen Luo</p>
+</div>
 
 Your brand identity is extremely important, and extends far beyond the surface of fonts and colours. It’s how you present yourself as an organization– the way that you write, your uniquely obscene usage of emojis, and the vibes you curate at events.
 
 _Our pillars for brand identity:_
 
-- **Be exploratory**: keep things open to interpretation by your team.
-- **Be recognizable:** as an influx of bland and unspeaking brand identities pour into clubs, choose assets and create designs that reflect your club, truly
-  - Don’t be template-y or overly corporate (unless that is your vibe)- make things that make people want to sign up!
-- **Be authentic ;)** no matter what design style you lean into, make sure it is accurate to your organization and its principles (ie. silly, fun, ambitious, playful )
 
-Establish your systems early, but acknowledge that they will evolve. As your org changes, your public facing image will likely change too. Despite having a design system with recommended type treatments and layouts, the Waterloo team treats our 10 page Figma file as a guide.
+
+* **Be exploratory**: keep things open to interpretation by your team.
+* **Be recognizable:** as an influx of bland and unspeaking brand identities pour into clubs, choose assets and create designs that reflect your club, truly
+    * Don’t be template-y or overly corporate (unless that is your vibe)- make things that make people want to sign up!
+* **Be authentic ;) **no matter what design style you lean into, make sure it is accurate to your organization and its principles (ie. silly, fun, ambitious, playful )
+
+Establish your systems early, but acknowledge that they will evolve. As your org changes, your public facing image will likely change too. Despite having a design system with recommended type treatments and layouts, the Waterloo team treats our 10 page Figma file as a guide. 
 
 We embrace the styles of our individual designers whilst setting the bar approachably low. The best brand identities create emotional associations with your work– so strive to create reputable designs with re-usable and iconic elements. When people see a post, they should instantly recognize that it is us.
 
 **What branding includes:**
 
-- Brand Personality
-  - Your Name
-  - Logos
-  - Colour Pallette
-  - Typography
-  - Visual Elements like Illustrations
-  - Photography/Videography Style
-- Voice and Tone
-  - Ie. Mission Statement, Tagline, and Brand Values
-- Overall User Experience
-  - How does your website reflect this?
-  - What stories, emails, Lumas, and posts create and expand your digital presence?
 
-TL;DR this is important stuff. Never forget to put fun and welcoming first. It doesn’t have to be ‘beautiful’ or ‘perfect’ for you to post it!
+
+* Brand Personality
+    * Your Name
+    * Logos
+    * Colour Pallette
+    * Typography
+    * Visual Elements like Illustrations
+    * Photography/Videography Style
+* Voice and Tone
+    * Ie. Mission Statement, Tagline, and Brand Values
+* Overall User Experience
+    * How does your website reflect this?
+    * What stories, emails, Lumas, and posts create and expand your digital presence?
+
+TL;DR_ this is important stuff. Never forget to put fun and welcoming first. It doesn’t have to be ‘beautiful’ or ‘perfect’ for you to post it!_
