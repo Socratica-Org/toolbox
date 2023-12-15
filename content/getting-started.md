@@ -3,206 +3,327 @@ title: Getting Started
 issueNo: 2
 ---
 
-## When to start a node
+<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
+<h1 style="color: #F9F5E9; padding: 0px; margin:0;">When to start a node</h1>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Jacky Zhao and Jake Rudolph</p>
+</div>
 
 In short, you should considering starting a node if:
+
+
 
 1. You want this for yourself
 2. You have faith that there are good people around you
 3. You are willing to put in the work to cultivate this
 
-Note that none of those bullets include specific personality traits. You don’t have to be the world’s most charming polymath or the resident superconnector. Everyone has something to bring to the table. For example, introverted organizers may have the insight to set up quieter zones or smaller discussion circles. Extroverts can do the service of raising the energy of the whole room. We encourage people to find complementary [co-hosts](#how-to-find-co-hosts-0).
+Note that none of those bullets include specific personality traits. You don’t have to be the world’s most charming polymath or the resident super-connector. Everyone has something to bring to the table. For example, introverted organizers may have the insight to set up quieter zones or smaller discussion circles. Extroverts can do the service of raising the energy of the room. We encourage people to find complementary [co-hosts](#how-to-find-co-hosts).
 
 Among our previous hosts, there are a few common “canon events”.
 
-- Hopping between classes and clubs, without finding environments conducive to meaningful connection or intrinsic curiosity
-- Being frustrated after attending hackathons or networking events, finding that the short timespan of the event doesn’t give you the time to meet people fully and properly.
-- Coming back from a retreat/trip with a motley crew of people that tickle your brain and heart in just the right ways. Thinking to yourself “wow, I would like to be around people like that all the time”
+* Hopping between classes and clubs, without finding environments conducive to meaningful connection or intrinsic curiosity
+* Being frustrated after attending hackathons or networking events, finding that the short timespan of the event doesn’t give you the time to meet people fully and properly. 
+* Coming back from a retreat/trip with a motley crew of people that tickle your brain and heart in just the right ways. Thinking to yourself “wow, I would like to be around people like that all the time”
+
+Consistency, on the scale of months, also matters. You don’t have to promise to be somewhere indefinitely, but to see the benefits of building up a node, it usually takes 2-3 months at a minimum.
 
 See also: [[#How to find the people that are trying to find you]]
 
-## How to find co-hosts
 
-Having co-hosts is a life hack to make sure the node survives beyond you. Can’t make it one day? Let them step in! Feeling demotivated? Here’s a built-in hype-man! The ideal co-host is someone you’re inspired by - someone you’d be excited to spend time with even if nobody else showed up. If you can’t find this person yet, it might be worth holding the first session yourself and seeing who it attracts. We’ve seen that the sweet spot is between 2-6 hosts. Only two people are _really_ actively hosting at any given session, but it’s great to have people on rotation. This is because it’s hard to organize and enjoy what you’ve organized at the same time.
+<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
+<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to find co-hosts</h1>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Anson Yu and Joss Murphy </p>
+</div>
+
+Having co-hosts is a life hack to make sure the node survives beyond you.  Can’t make it one day? Let them step in! Feeling demotivated? Here’s a built-in hype-man! The ideal co-host is someone you’re inspired by - someone you’d be excited to spend time with even if nobody else showed up. If you can’t find this person yet, it might be worth holding the first session yourself and seeing who it attracts. We’ve seen that the sweet spot is between 2-6 hosts. Only two people are _really_ actively hosting at any given session, but it’s great to have people on rotation. This is because it’s hard to organize and enjoy what you’ve organized at the same time.  
 
 The organizers are the culture setters. Ideally they are:
 
-- Compassionate - They see value in spending time around people different from themselves and thinks all people have interesting things to share
-- People that make things! - To attract the type of people that are also doing cool things, real will recognize real.
-- Agentic - They just get things done. However, they should be low ego enough to experiment
-- Fun - A little bit silly, a little bit goofy (underrated)
-- Diverse! - Not just in demographic, but in interests. Teach us how to draw! Tell us about climbing a mountain! Walk us through your latest read! All that good stuff.
 
-## How to find the people that are trying to find you
+* Compassionate -  They see value in spending time around people different from themselves and thinks all people have interesting things to share
+* People that make things! - To attract the type of people that are also doing cool things, real will recognize real.
+* Agentic - They just get things done. They should be low ego enough to experiment as well
+* Fun - A little bit silly, a little bit goofy (underrated)
+* Diverse! - Not just in demographic, but in interests. Teach us how to draw! Tell us about climbing a mountain! Walk us through your latest read! All that good stuff.
+
+Within each host team, there are a couple of archetypes that have bubbled up. These are not comprehensive or exclusive, but instead help to showcase the diversity of people that make great hosts:
+
+
+
+* **Emotional vibe curator **- Really knows how to fine tune the “feeling”. They reposition tables to maximize conversational surface area, intentionally select music to pump energy levels, and are the patron saint of the anxious newbie.
+* **Energetic doer** - Shockingly high output person. Nobody really knows how they do how much they do (even themselves). They seem to really get energy from their work, and are always excited to share with enthusiastic people.
+* **Structural backbone** - Not afraid to enforce the structure that enables the fun. Makes announcements, emphasizes logistics? Code of conduct?, and asks people to be quiet when need be.
+* **In-house inquirer** - An excellent listener and question asker. Somehow able to understand peoples’ visions for their baby ideas, before they do themselves.Makes people feel seen.
+* **Idea generation machine** - Always coming up with ideas on how people can gather better. Dreamer at heart. Sparks interesting discussions in the co-host group chat. 
+* **Excessively helpful person** - They take “how can I be helpful” to a different level. They somehow know a bunch about fellowships, grants, and have just the right link for you to check out. They have a lot of context on what others are working on, and can make the right introductions.
+* **Chief historian** - The unspoken hero that loves to take photos and videos. Is always out of storage. Writes down what everyone’s projects are. 
+
+
+<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
+<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to find the people that are trying to find you</h1>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Mathurah Ravigulan, Kai, and Aava Sapkota</p>
+</div>
+
 
 TLDR: Go to events and organizations that preach creativity and action, as well as other types of social and outreach related events.
 
-### Seeking people
 
-If you wanted to get involved with \_\_\_\_ scene at your university/city, what events/organization/people would you go to?
 
-Go to places that are trying to stimulate the same creativity you are looking for:
+> As a preface, we want to start off by mentioning how key it is to prioritize quality over quantity. Attendee count can be a helpful signal, but it’s not THE ultimate thing to optimize for. Having a tight knit group of 6 heavily invested attendees is better than a ghost-town-like Discord of hundreds.
 
-Eg.
+For a good balance of attendees, think about all the different types of people you want to attend. Ask the question:
 
-- **University/City clubs** where people preach making things (engineering clubs, painting clubs, poetry clubs, coding clubs… etc)
-- **Speaker/ social events** where people look for community! Great for finding people interested in meeting other like minded people around a specific theme/goal (guest speaker events, founder socials, tech hubs, other co-working opportunities)
-- **Student showcases** or other places where students can show off their work (poetry nights, art showcases, science fairs, hackathons)
-- **Blogs/Personal Websites/Social Media/ Youtube** people you know you think are super cool and are actively working on any of their active publishing content.
+“If I were [insert type of person], what groups would I be a part of?” 
 
-If they are showing up to these events, chances are they’ll pull up to your group gatherings! BE BOLD. Creative, action oriented people tend to enjoy learning about other projects and seeing what is out in the world. Reach out to the “coding gods” or “Shakespearen poets” in your life, there is no project too big, or too small to be worked on at Socratica! They might show up… or maybe not, but making that initial contact will help you curate your list of cool people you can nudge later, and introduce the idea of your club into their minds.
+A surefire way to bring more of a certain type of person is to go where they are! Some of our hosts have done so by LARPing, basically stepping into their shoes and actually trying the things they do. It’s kind of like a combination of method acting and recruiting. Aside from that, you can check out the following: 
 
-### Bringing them back
 
-After that initial contact, the rest of the work goes into the session and branding itself. One core value we believe at Socratica is, **co-working is never that deep.** We like to keep our branding and messaging as fun and light hearted as possible – presenting it as a hangout among friends more than anything else. Ensuring this vibe is communicated upon first contact with anyone you want to join the session, and at the sessions themselves is ESSENTIAL!! Keep in mind that the types of people we bring in will continue to shape the quality of the sessions as well!
 
-- Look for creative people!! the ones working on a movie, blogging their hearts away, hacking on interesting problems. Tap them on the shoulder and invite them to Socratica :)
-  - Make sure they have a good time so they’ll invite their friends to Socratica.
-- Seeking - Looking for people with high density of action, who’s work you admire/respect through personal websites/social medias/blogs, “depth first search”
-- Attracting
-  - Branding - Who we market to is who we become.
-  - Using silly language.
-- Maintaining identity - Being ok with having small groups of people at the beginning
+* **Clubs** - Specifically people preach making things (engineering clubs, painting clubs, poetry clubs, coding clubs… etc). We’ve even had nodes go to club fairs to “reverse recruit” people.
+* **Speaker/social events** - Great for finding people interested in meeting other like minded people around a specific theme/goal (guest speaker events, founder socials, tech hubs, other co-working opportunities) 
+* **Showcases** - Or other places where people can show off their work (poetry nights, art showcases, science fairs, hackathons)
+* **Blogs/Personal Websites/Social Media/Youtube** - It’s time to put on your detective hat and do a bit of internet splunking. It’ll only take a couple searches to find people in your locale doing interesting work. From there, find the people they mention in their blogs, work with on projects, or friends they admire.
+
+> If there’s one thing that’s true, it's how much people can surprise us, so it’s worth it to be bold. It’s funny how often the acquaintance we think we know is secretly a competitive athlete or has an underground Soundcloud. Even if someone doesn’t seem like “the type” to attend, you never know!
+
+Creative, action oriented people also tend to enjoy learning about other projects and seeing what is in the world. Reach out to the “coding legends” or “Shakespearen poets” in your life, there is no project too big, or too small to be worked on at Socratica!
+
+> Play the long game! When inviting someone, they might show up… or maybe not, but making that initial contact seeds the idea of attending and also builds a list of people to nudge later.
+
+**At the end of the day, it’s simple. Be fun and good to people. Co-working is, really, never that serious.  **We’ve found that one of the most sustainable ways to grow is for people to have such a good time they can’t help but invite their friends. 
+
+Common failure modes:
+
+
+
+* **Intimidated attendees** - When you’re just starting out, it might be a bit intimidating for people to go to a coworking session. Combat this by following up before the session. 
+* **Optimizing for hypergrowth** - 2 people is a gathering B) Focus on the people who show up and are engaged.
+* **Over-institutionalizing** - It can be useful to present the node as a put-together brand™. However, it’s a balance between this and staying fun, light-hearted, and nimble. Presenting it as a hangout among friends can help ward off people coming to be transactional in an extractive way. Ensuring this vibe is communicated upon first contact with anyone you want to join the session, and at the sessions themselves is ESSENTIAL!! Keep in mind that the types of people we bring in will continue to shape the quality of sessions.
+* **Losing contact** - Even if people don’t come to sessions after being told about them, provide opportunities for them to be kept in the loop via email or otherwise! For some, not attending is a matter of situational availability.
 
 ## How to structure a session
 
-Now that you have your host team and a list of aspiring Socraties, it’s time to start planning the session!
 
-Your goal will be to achieve 2 main things: give people time to work on their projects, and showcase + celebrate progress of any sort in your community.
+Now that you have your host team and a list of attendees, it’s time to start planning the session! 
 
-To start, there are typically building blocks to a Socratica session: introductions, pomodoro work sessions, and demos.
+Your goal will be to achieve 2 main things: **give people time to work on their projects**, and **showcase + celebrate progress **of any sort in your community. Each session roughly spans 3-4 hours and include a couple key elements:
 
-### Introduction to Socratica sessions
 
-- **Objective**: Aim to provide time for project work and celebrate community progress
-- **Duration**: Typically, sessions last 3-4 hours, segmented into different activities
-- **Key elements**:
-  - Introductions: Start with 15 mins of buffer time for informal interactions, food and small talk, followed by a group address explaining what Socratica is.
-  - Pomodoro Work Sessions: Structured periods for focused work.
-  - Demos: Short presentations/updates showcasing participation progress.
 
-### Roles and Responsibilities
-
-- **Hosts**: Rotate through various sub-roles:
-  - Main Host - Introduces the session, leads demos, announces breaks
-  - Demo Curator - Responsible for ensuring a diverse lineup of demos, choosing a demo order, making sure people are prepared before they demo
-  - Tech Lead - Set up projector, timer & music. Help transition demos smoothly.
-  - Archivists - Taking notes, snapping photos, sharing publicly
-  - Providers - This includes buying food, bringing equipment/resources
-  - Greeters - This involves hosts talking to people, inspiring them, matchmaking them with others, and encouraging them to demo!
-  - Curating the vibes – see [[cultivating-people#How to organize spaces that feel awesome]] and [[cultivating-people#How to maintain the vibe]]
-- **Participants** - The people who show up to your sessions and define the feel of the community.
-
-### Session Setup
-
-- Hosts should set up food, projectors/display and any other equipment.
-- Separate spaces for silent work and group-focused activities with a clear physical distinction to minimize distractions.
-- Get attendees to help you with setting up food, cleaning up, and other small tasks to give them a glimpse into the “behind the scenes”. It really makes people feel like a part of something.
-
-### Introductions and Icebreakers
-
-- **Mingling:**
-  - Encourage people to mingle in groups with unfamiliar people! Accomplish this by yelling or cowbell announcements.
-- **Icebreaker Circles:**
-  - Run smaller intro circles to identify potential hosts. It also helps boost confidence for people that dont think they’re qualified.
-  - People feel SO gassed up when you ask them to run these circles. The more involved people are, the more invested they become.
-  - The introduction questions can range from silly to serious. The best ones make people think and give people conversation jumping-off points. Stray from things talking about what they’ve been up to recently, or more surface topics. Hits from our term include:
-    - What is one way you’ve changed your mind recently?
-    - What do you wish more people knew about you?
-    - What is your greatest delusion? What do you believe about the world that seems irrational to everyone else?
-    - Do you have any secret talents?
-    - What could you give a 15 minute impromptu presentation on?
-    - What’s a hobby you’ve been meaning to take up but haven’t yet?
-    - What have you spent over 100 hours doing?
-
-### Work Sessions
-
-- **Work Blocks (50 mins)**:
-  - When it’s time to start, announce it and usher people who still want to talk into the group work area.
-  - Emphasize that the work block is for deep and quiet work.
-  - Have a timer up in a way that is visible to everyone. Ideally try to have access to a projector, TV or a spare device that can have the timer presented throughout the session.
-- **Break (10 mins):**
-  - The perfect time to follow up on projects you find interesting!
-  - Start looking out for potential demoers for the session and tapping them on their shoulders!
-- **Work Block 2 (50 mins):**
-  - After breaks, people may continue socializing. Feel free to nudge them into group talking work areas to ensure they are not disturbing others who are starting to pick up work again.
-  - And continue to tap people on the shoulder for demoing!
-
-### Demos
-
-- Ideally, keep each demo around 5 minutes with around 4-5 demos. Allow for questions after the demo!
-- Encourage a wide range of demoer’s, across the domain of the project, the stage of the project and the type of speaker.
-- And take photos! Document everything!
-- Read more under [[#How to hold great demos]]
-
-**The TLDR:** We usually do (10-1PM) but this is flexible! We also run a (2-5PM) session too.
+* Introductions: Start with 15 mins of buffer time for informal interactions, food and small talk, followed by a group address explaining what Socratica is.
+* Pomodoro Work Sessions: Structured periods for focused work.
+* Demos: Short presentations/updates showcasing participation progress.
 
 <table>
   <tr>
-   <td style="width: 12%"><strong>Time</strong>
+   <td>
+Section
    </td>
-   <td style="width: 44%"><strong>Description</strong>
+   <td>Activity
    </td>
-   <td style="width: 44%"> <strong>Extra Tip</strong>
+   <td>Duration
    </td>
-  </tr>
-  <tr>
-   <td>10:00-10:15
-   </td>
-   <td>Eating time. Have fun, help set up food. Mingle and let people eat a bit before settling down. Also good for letting people trickle in.	
-   </td>
-   <td>This is when to find people that might want to lead a circle for the coming section
+   <td>Tips
    </td>
   </tr>
   <tr>
-   <td>10:15-10:30	
+   <td>Pre-session
    </td>
-   <td>Introductions. Split people off into groups of maximum 10. Do a round of introductions where people mention their name, what specifically they are working on, and answer an icebreaker question.	
+   <td>Setup
+<p>
+Hosts set up food, projectors/display and any other equipment.
    </td>
-   <td>If people are vague about what they want to do, ask the facilitator to drill in. We want the DEETS. Also frame the question in the way where you want to know their success metric for this session. Have some way to document the projects. This can be done by people filling in a form, or by someone taking notes. Also the best of these sessions are a bit silly.
+   <td>15 mins
    </td>
-  </tr>
-  <tr>
-   <td>10:30-11:25	
-   </td>
-   <td>Work block 1. We found it works best if this is silent because it’s the only way to get work done in the room of people you’d want to talk to.	
-   </td>
-   <td>Have a timer up in a way that is visible to everyone
-   </td>
-  </tr>
-  <tr>
-   <td>11:25-11:35	
-   </td>
-   <td>Break! This is a great time to follow up on projects you find interesting.	
-   </td>
-   <td>Prompt people to talk to people that they haven’t! Make sure there are no wallflowers
+   <td>
+<ul>
+
+<li>Writing the schedule in a publicly visible place is great for not having to repeat yourselves. 
+
+<li>Scope out spaces for silent work and group-focused activities to minimize distraction during work blocks.
+
+<li>People become more invested in something if they are given responsibility. Asking attendees to help with setting up food, cleaning up, and other small tasks is great to make people feel like they’re part of something, rather than just attending. 
+</li>
+</ul>
    </td>
   </tr>
   <tr>
-   <td>11:35-12:30	
+   <td rowspan="2" >Introductions and Icebreakers
    </td>
-   <td>Work block 2. This one can be a little more social, but still good to keep it more silent.	
+   <td>Mingling
+<p>
+Eat and let people settle in. Good buffer time for people trickling in slightly late.	
    </td>
-   <td>A good time to start tapping people on the shoulder to demo.
+   <td>10 mins
+   </td>
+   <td>
+<ul>
+
+<li>Encourage people to mingle in groups with unfamiliar people! 
+</li>
+</ul>
    </td>
   </tr>
   <tr>
-   <td>12:30-12:55	
+   <td>Icebreaker circles
+<p>
+In groups of maximum ~10, do a round of introductions where people mention their name, what they’re working on, and answer an icebreaker question.
    </td>
-   <td>Demos! Loosely five, five minute presentations. Set the expectation that it should be 4 minutes presenting and 1 minute for questions. Take photos!	
+   <td>15 mins
    </td>
-   <td>Plant people to make sure every presenter receives at least 1 question. More tips below.
+   <td>
+<ul>
+
+<li>If people are vague about what they want to work on, the facilitator should prompt them for details. We want the deets! A great focusing question is this: what will you have to have done to consider this session a success?  
+<ul>
+ 
+<li>The actual goal can be big or small, but it’s important that it’s intentionally set.
+</li> 
+</ul>
+
+<li>Have some way to document the projects. This can be done by people filling in a form, or by someone taking notes.
+
+<li>These circles are a great way to trial potential hosts. It’s a great way to introduce responsibility in an incremental way or boost confidence for people that dont think they’re qualified. 
+<ul>
+ 
+<li>People feel SO gassed up when you ask them to run these circles. As mentioned before, the more involved people are, the more invested they become.
+</li> 
+</ul>
+
+<li>The introduction questions can range from silly to serious. The best ones make people think and give people conversation jumping-off points. Stray from things talking about what they’ve been up to recently, or more surface topics. Hits from our term include: 
+<ul>
+ 
+<li>What is one way you’ve changed your mind recently?
+ 
+<li>What do you wish more people knew about you?
+ 
+<li>What is your greatest delusion? What do you believe about the world that seems irrational to everyone else?
+ 
+<li>Do you have any secret talents?
+ 
+<li>What could you give a 15 minute impromptu presentation on?
+ 
+<li>What’s a hobby you’ve been meaning to take up but haven’t yet?
+ 
+<li>What have you spent over 100 hours doing?
+</li> 
+</ul>
+</li> 
+</ul>
    </td>
   </tr>
   <tr>
-   <td>12:55-1:00	
+   <td rowspan="3" >Workblocks
    </td>
-   <td>Weekly wins and parting announcements. Go around the room and have people shout out things that they are proud of (or not) from the week. This is also when to let people know to be added to the Discord.	
+   <td>Workblock 1
+<p>
+Silent work block
    </td>
-   <td>It is fun to applaud them after.
+   <td>50 mins
+   </td>
+   <td>
+<ul>
+
+<li>When it’s time to start, announce it and usher people who still want to talk into the group work area. 
+
+<li>Emphasize that the work block is for deep and quiet work. 
+
+<li>Have a timer up in a way that is visible to everyone. Ideally try to have access to a projector, TV or a spare device that can have the timer presented throughout the session.
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Break
+   </td>
+   <td>10 mins
+   </td>
+   <td>
+<ul>
+
+<li>The perfect time to follow up on projects you find interesting!
+
+<li>Start looking out for potential demoers for the session and tapping them on their shoulders! 
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Work block 2
+<p>
+Slightly less silent work block
+   </td>
+   <td>50 mins
+   </td>
+   <td>
+<ul>
+
+<li>After breaks, people may continue socializing. Feel free to nudge them into group talking work areas to ensure they are not disturbing others who are starting to pick up work again. 
+
+<li>And continue to tap people on the shoulder for demoing! 
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Demos
+   </td>
+   <td>Demos
+<p>
+Short project showcases
+   </td>
+   <td>25 mins
+   </td>
+   <td>
+<ul>
+
+<li>Ideally, keep each demo around 5 minutes with around 4-5 demos. Allow for questions after the demo!
+
+<li>Encourage a wide range of demoer’s, across the domain of the project, the stage of the project and the type of speaker. 
+
+<li>Take photos! Document everything!
+
+<li>Read more under How to hold great demos
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>Closing
+   </td>
+   <td>Weekly wins
+<p>
+Rapid fire shoutouts of what people are proud of from the week.
+   </td>
+   <td>5 mins
+   </td>
+   <td>
+<ul>
+
+<li>This is a great way to quickly celebrate the wins of many people! After each win, it’s really fun to applaud them.
+
+<li>Sometimes this might be slow to start. Kick things off by volunteering something you’re proud of, or celebrating someone else.
+</li>
+</ul>
+   </td>
+  </tr>
+  <tr>
+   <td>
+   </td>
+   <td>Announcements
+   </td>
+   <td>1 min
+   </td>
+   <td>
+<ul>
+
+<li>Prompt new people to be added to a listserv or server if they haven’t
+</li>
+</ul>
    </td>
   </tr>
 </table>
+
+
 
 ## How to hold great demos
 
