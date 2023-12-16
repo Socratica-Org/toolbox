@@ -88,9 +88,9 @@ This section is in the works, but some sneak peeks
 <br/>
 <br/>
 <div style="display: flex; justify-content: space-between;">
-<a href="/getting-started" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #BD7C18; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
+<a href="/getting-started" style="border-radius: 5px; padding: 15px; border: 1px solid #AD7018; background: #BD7C18; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
 <p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
 </a>
-<a href="/superboosting-ideas" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #BD7C18; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
+<a href="/superboosting-ideas" style="border-radius: 5px; padding: 15px; border: 1px solid #AD7018; background: #BD7C18; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
 <p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
 </a>
