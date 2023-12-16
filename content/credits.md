@@ -14,6 +14,7 @@ issueNo: 0
 **Tech & design**
 - [Aman Mathur](https://amanmathur.com/home)
 - [Jacky Zhao](https://jzhao.xyz/)
+- [Hudzah](https://hudzah.com/)
 
 **Writers**
 - [Anson Yu](https://ansonyu.me/)
