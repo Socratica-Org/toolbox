@@ -85,7 +85,7 @@ function setupExplorer() {
     if (collapseBehavior === "collapse") {
       Array.prototype.forEach.call(
         document.getElementsByClassName("folder-button"),
-        function (item) {
+        function(item) {
           item.removeEventListener("click", toggleFolder)
           item.addEventListener("click", toggleFolder)
         },
@@ -98,7 +98,7 @@ function setupExplorer() {
   }
 
   // Set up click handlers for each folder (click handler on folder "icon")
-  Array.prototype.forEach.call(document.getElementsByClassName("folder-icon"), function (item) {
+  Array.prototype.forEach.call(document.getElementsByClassName("folder-icon"), function(item) {
     item.removeEventListener("click", toggleFolder)
     item.addEventListener("click", toggleFolder)
   })
@@ -120,9 +120,9 @@ function setupExplorer() {
         }
       }
     })
-  } else {
+  } else if (explorer?.dataset.tree) {
     // If tree is not in localStorage or config is disabled, use tree passed from Explorer as dataset
-    explorerState = JSON.parse(explorer?.dataset.tree as string)
+    explorerState = JSON.parse(explorer.dataset.tree)
   }
 }
 
@@ -130,12 +130,13 @@ window.addEventListener("resize", setupExplorer)
 document.addEventListener("nav", () => {
   setupExplorer()
 
-  const explorerContent = document.getElementById("explorer-ul")
   // select pseudo element at end of list
   const lastItem = document.getElementById("explorer-end")
 
   observer.disconnect()
-  observer.observe(lastItem as Element)
+  if (lastItem) {
+    observer.observe(lastItem as Element)
+  }
 })
 
 /**

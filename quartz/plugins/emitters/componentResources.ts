@@ -14,7 +14,6 @@ import { StaticResources } from "../../util/resources"
 import { QuartzComponent } from "../../components/types"
 import { googleFontHref, joinStyles } from "../../util/theme"
 import { Features, transform } from "lightningcss"
-import { ThreeJS } from "../../components"
 
 type ComponentResources = {
   css: string[]
@@ -26,7 +25,6 @@ function getComponentResources(ctx: BuildCtx): ComponentResources {
   const allComponents: Set<QuartzComponent> = new Set()
   for (const emitter of ctx.cfg.plugins.emitters) {
     const components = emitter.getQuartzComponents(ctx)
-    components.push(ThreeJS())
     for (const component of components) {
       allComponents.add(component)
     }
