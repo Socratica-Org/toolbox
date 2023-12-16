@@ -95,3 +95,23 @@ To others
 - **“You have permission to get started. We permission you”** - The first time you do things can be scrappy and imperfect, the most important thing is to start! Can’t register for a venue? Do it in a public place. Find an unlocked classroom, building lobby, or park. The most important thing is gathering great people together, and everything else will follow, we promise.
 - **“Do work you care about”** - Create the things you want to exist in the world, especially if it’s taking a backseat. People are perceptive - if you work on things important to you, it’ll encourage others to do the same!
 - **“Everyone is a host”** - Environments get better when everyone feels responsible for making things enjoyable. Some people even feel **more** comfortable when they feel like they have a little role. Give everyone a chance to be responsible!
+
+<br/>
+<br/>
+
+<!-- If we add new issue's in between, we need to modify these -->
+<div style="display: flex; justify-content: flex-end;">
+<a href="/getting-started" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #6096E6; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
+<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
+</a>
+</div>
+
+<!-- If we add new issue's in between, we need to modify these -->
+<!-- <div style="display: flex; justify-content: space-between;">
+<div style="color: red; border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #6096E6; width: 17%; text-align: center;" onclick="#">
+<p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
+</div>
+<div style="color: red; border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #6096E6; width: 17%; text-align: center;" onclick="location.href='https://toolbox.socratica.info/getting-started';">
+<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
+</div>
+</div> -->

@@ -148,3 +148,13 @@ The symposium is vital to showing off our achievements to a broader range of peo
 - How to do “everything else that I did not cover above”?
   - The symposium has so many intricacies and could be written into a novel. Yet, a lot of it is dependent on deep thought and being extremely organized with your timelines.
   - You got this! Don’t be intimidated by the amount of work, it’s actually a lot of fun! And you will (hopefully) have some great hosts and helpers to make the path easier for you!
+
+<br/>
+<br/>
+<div style="display: flex; justify-content: space-between;">
+<a href="/growing-people" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #AC7D94; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
+<p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
+</a>
+<a href="/maintenance" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #AC7D94; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
+<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
+</a>
