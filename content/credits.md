@@ -3,7 +3,6 @@ title: Credits
 issueNo: 0
 ---
 
-
 ## Contributors
 
 **Editors**
@@ -12,11 +11,13 @@ issueNo: 0
 - [Jake Rudolph](https://www.linkedin.com/in/jakerudolph/?originalSubdomain=ca)
 
 **Tech & design**
+
 - [Aman Mathur](https://amanmathur.com/home)
 - [Jacky Zhao](https://jzhao.xyz/)
 - [Hudzah](https://hudzah.com/)
 
 **Writers**
+
 - [Anson Yu](https://ansonyu.me/)
 - [Scott Langille](https://scottlangille.com/)
 - [Mathurah Ravigulan](https://www.mathurah.com/)
@@ -38,4 +39,5 @@ issueNo: 0
 - [Jonathan Xu](https://jonathanxu.com/)
 
 ## Inspiration
+
 This was hugely inspired by friends at [Koolaid Factory](https://koolaidfactory.com/), [Compound](https://manual.compoundplanning.com/), and the [Unconference Toolbox](https://devonzuegel.com/post/the-unconference-toolbox.html)! Documenting tacit knowledge is a hard thing, and we hope to build on ways they’ve done a great job.

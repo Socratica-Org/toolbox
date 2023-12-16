@@ -1,227 +1,221 @@
 .landing-header {
-    font-size: 48px;
-    margin: 64px 0 8px 0;
-    font-family: 'Tiempos', sans-serif;
-    font-weight: 700;
-    line-height: normal
-  }
-  
-  .page-subhead {
-    font-size: 14px;
-    margin-bottom: 48px;
-    font-family: var(--codeFont);
-    text-transform: uppercase;
-  }
+  font-size: 48px;
+  margin: 64px 0 8px 0;
+  font-family: "Tiempos", sans-serif;
+  font-weight: 700;
+  line-height: normal;
+}
 
-  
-  /* ISSUE CARDS */
-  .issue-container {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(2);
-    gap: 36px;
-  }
-  
-  .card {
-    background-color: white;
-    border: 2px solid #00000015;
-    border-radius: 8px;
-    aspect-ratio: 8.5 / 11;
-    padding: 12px;
-    position: relative;
-    transition: transform 0.3s;
-    overflow: hidden;
-    min-width: 160px;
-    cursor: pointer;
-  }
-  
-  .header-card {
-    width: 100px;
-    margin: 1em 0 0;
-    display: inline-block;
-  }
-  
-  .card-title {
-    font-family: 'Tiempos', sans-serif;
-    font-size: 36px;
-    margin: 0 0 8px 0;
-    line-height: normal;
-    color: white;
-  }
-  
-  .card-subhead {
-    font-size: 12px;
-    text-transform: uppercase;
-    font-family: monospace;
-    margin-top: 0;
-    color: white;
-  }
+.page-subhead {
+  font-size: 14px;
+  margin-bottom: 48px;
+  font-family: var(--codeFont);
+  text-transform: uppercase;
+}
 
-  .card img {
-    transition: all 0.3s;
-    transform: rotate(0) scale(1);
-  }
-  
-  .card:hover {
-    transform: scale(1.02);
-    /* Make card bigger on hover */
-  }
-  
-  .card:hover img {
-    transform: rotate(-20deg) scale(1.05);
-    transition: all 0.3s;
-    // animation: shake 0.3s;
-    /* Apply shake animation to image on hover */
-  }
-  
-  /* CARD COLORS */
-  
-  .card-coming {
-  background: #CFCCC4;
-  }
-  
-  .card-1 {
-    background: #649AEA;
-    background-image: url('./static/1-noise.png');
-    background-size: cover;
-    overflow: visible;
-  }
-  
-  .card-illustration-1 {
-    position: absolute;
-    bottom: 0;
-    left: -15px;
-    width: 70%;
-  }
-  
-  .card-2 {
-    background: #AAB172;
-    background-image: url('./static/2-noise.png');
-    background-size: cover;
-  }
-  
-  .card-illustration-2 {
-    position: absolute;
-    width: 50%;
-    bottom: 20px;
-    left: 40px;
-  }
-  
-  
-  .card-3 {
-    background: #BF7D1A;
-    background-image: url('./static/3-noise.png');
-    background-size: cover;
-  }
-  
-  .card-illustration-3 {
-    position: absolute;
-    width: 50%;
-    bottom: -40px;
-    left: 30%;
-  }
-  
-  
-  .card-4 {
-    background: #AD7E95;
-    background-image: url('./static/4-noise.png');
-    background-size: cover;
-  }
-  
-  .card-illustration-4 {
-    position: absolute;
-    width: 50%;
-    bottom: 0;
-    right: -10px;
-  }
-  
-  
-  .card-5 {
-    background: #EB856F;
-    background-image: url('./static/5-noise.png');
-    background-size: cover;
-    overflow: visible;
-  }
-  
-  .card-illustration-5 {
-    position: absolute;
-    width: 80%;
-    bottom: 0;
-    right: -10px;
-  }
-  
-  /* ANIMATIONS */
-  
+/* ISSUE CARDS */
+.issue-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2);
+  gap: 36px;
+}
+
+.card {
+  background-color: white;
+  border: 2px solid #00000015;
+  border-radius: 8px;
+  aspect-ratio: 8.5 / 11;
+  padding: 12px;
+  position: relative;
+  transition: transform 0.3s;
+  overflow: hidden;
+  min-width: 160px;
+  cursor: pointer;
+}
+
+.header-card {
+  width: 100px;
+  margin: 1em 0 0;
+  display: inline-block;
+}
+
+.card-title {
+  font-family: "Tiempos", sans-serif;
+  font-size: 36px;
+  margin: 0 0 8px 0;
+  line-height: normal;
+  color: white;
+}
+
+.card-subhead {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-family: monospace;
+  margin-top: 0;
+  color: white;
+}
+
+.card img {
+  transition: all 0.3s;
+  transform: rotate(0) scale(1);
+}
+
+.card:hover {
+  transform: scale(1.02);
+  /* Make card bigger on hover */
+}
+
+.card:hover img {
+  transform: rotate(-20deg) scale(1.05);
+  transition: all 0.3s;
+  // animation: shake 0.3s;
+  /* Apply shake animation to image on hover */
+}
+
+/* CARD COLORS */
+
+.card-coming {
+  background: #cfccc4;
+}
+
+.card-1 {
+  background: #649aea;
+  background-image: url("./static/1-noise.png");
+  background-size: cover;
+  overflow: visible;
+}
+
+.card-illustration-1 {
+  position: absolute;
+  bottom: 0;
+  left: -15px;
+  width: 70%;
+}
+
+.card-2 {
+  background: #aab172;
+  background-image: url("./static/2-noise.png");
+  background-size: cover;
+}
+
+.card-illustration-2 {
+  position: absolute;
+  width: 50%;
+  bottom: 20px;
+  left: 40px;
+}
+
+.card-3 {
+  background: #bf7d1a;
+  background-image: url("./static/3-noise.png");
+  background-size: cover;
+}
+
+.card-illustration-3 {
+  position: absolute;
+  width: 50%;
+  bottom: -40px;
+  left: 30%;
+}
+
+.card-4 {
+  background: #ad7e95;
+  background-image: url("./static/4-noise.png");
+  background-size: cover;
+}
+
+.card-illustration-4 {
+  position: absolute;
+  width: 50%;
+  bottom: 0;
+  right: -10px;
+}
+
+.card-5 {
+  background: #eb856f;
+  background-image: url("./static/5-noise.png");
+  background-size: cover;
+  overflow: visible;
+}
+
+.card-illustration-5 {
+  position: absolute;
+  width: 80%;
+  bottom: 0;
+  right: -10px;
+}
+
+/* ANIMATIONS */
+
 //   @keyframes shake {
-  
+
 //   0% {
 
 //   }
-  
+
 //   50% {
 //       transform: rotate(-20deg);
 //   }
-  
+
 //   100% {
 //     transform: rotate(-10deg);
 // }
 
 //   }
-  
-  /* media queries */
-  @media screen and (max-width: 1400px) {
-    .card-title {
-        font-size: 24px;
-    }
+
+/* media queries */
+@media screen and (max-width: 1400px) {
+  .card-title {
+    font-size: 24px;
   }
-  
-  @media screen and (max-width: 1200px) {
-    .header-card {
-      width: 300px;
-    }
-    
-    .content-container {
-      width: 95%;
-      margin: 0 auto;
-    }
-  
-    .issue-container {
-      display: grid;
-      grid-template-columns: 1fr;
-      gap: 8px;
-    }
-  
-    .card {
-      aspect-ratio: 10 / 2;
-      overflow: hidden;
-  
-    }
-  
-    .card-illustration-1,
-    .card-illustration-2,
-    .card-illustration-3,
-    .card-illustration-4,
-    .card-illustration-5 {
-      width: 25%;
-    }
-  
-    .card-illustration-1 {
-      left: unset;
-      right: 60px;
-    }
-    .card-illustration-2 {
-      left: unset;
-      right: 40px;
-    }
-    .card-illustration-3 {
-      left: unset;
-      top: 15px;
-      right: 100px;
-    }
-    .card-illustration-4 {
-      left: unset;
-      top: 15px;
-      right: 60px;
-    }
-    
+}
+
+@media screen and (max-width: 1200px) {
+  .header-card {
+    width: 300px;
   }
+
+  .content-container {
+    width: 95%;
+    margin: 0 auto;
+  }
+
+  .issue-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .card {
+    aspect-ratio: 10 / 2;
+    overflow: hidden;
+  }
+
+  .card-illustration-1,
+  .card-illustration-2,
+  .card-illustration-3,
+  .card-illustration-4,
+  .card-illustration-5 {
+    width: 25%;
+  }
+
+  .card-illustration-1 {
+    left: unset;
+    right: 60px;
+  }
+  .card-illustration-2 {
+    left: unset;
+    right: 40px;
+  }
+  .card-illustration-3 {
+    left: unset;
+    top: 15px;
+    right: 100px;
+  }
+  .card-illustration-4 {
+    left: unset;
+    top: 15px;
+    right: 60px;
+  }
+}

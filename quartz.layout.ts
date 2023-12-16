@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      "Socratica": "https://www.socratica.info/",
+      Socratica: "https://www.socratica.info/",
       "Attend a Session": "https://www.socratica.info/map",
       GitHub: "https://github.com/Socratica-Org/toolbox",
     },
