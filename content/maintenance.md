@@ -98,3 +98,23 @@ All that being said, if exploring funding options sounds like a good idea for yo
     <br/>
     <br/>
   - Watch out for: Make sure the effort expended: money received ratio is worth it. Your time has value (especially as an organizer)! Be wary of super long shot stuff, really focus on ones where you feel you are the ideal candidate applying. Local stuff is great.
+
+    <br/>
+    <br/>
+
+<div style="border-radius: 5px; padding: 25px; border: 1px solid #D37662; background: #EB846D;">
+<h1 style="color: #F9F5E9; padding: 0px; margin:0;">You've reached the end! (for now)</h1>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a Socratica to your city!</p>
+<div style="background-color: #F9F5E9; color: #EB846D; border-radius: 5px; border: none; padding: 15px 32px; display: inline-block; font-size: 16px; margin: 20px 0px 0px 0px; cursor: pointer;" onclick="window.open('https://www.socratica.info/get-involved', '_blank')">
+  <style>
+    @media screen and (max-width: 600px) {
+      div {
+        margin: 0 auto;
+        text-align: center;
+      }
+    }
+  </style>
+  Start a Socratica Near You!
+</div>
+
+</div>
