@@ -8,31 +8,29 @@ issueNo: 4
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Jake Rudolph</p>
 </div>
 
-  
 A core pillar of building a community for people to see the best version of their ideas is to understand ideas, how they progress over time, and how you can support your people at each stage of their idea.
- 
-**Baby ideas:** Like babies, these ideas are focused on learning and exploring the world around them. They revolve around consuming knowledge and building skills. These are low commitment and short-term. 
- 
-Examples: reading a book, practicing Duolingo, learning a new guitar song, making a to-do list app
- 
-People working on baby ideas often don’t know what they don’t know (link: Dunning Kruger effect). As a host, connect participants with baby ideas with the resources they need: send them articles you come across in their domain and introduce them to other people in the community.
-  
-A lot of people with baby ideas don’t even know what their idea is yet. (link to Raising Baby Ideas)
 
-**Teenage ideas:** The slightly awkward, but really interesting stage of ideas. People at this stage start moving towards being a creator, putting their knowledge and skills to use to build something they are passionate about. These are mid-level commitment and mid-term. 
+**Baby ideas:** Like babies, these ideas are focused on learning and exploring the world around them. They revolve around consuming knowledge and building skills. These are low commitment and short-term.
+
+Examples: reading a book, practicing Duolingo, learning a new guitar song, making a to-do list app
+
+People working on baby ideas often don’t know what they don’t know (link: Dunning Kruger effect). As a host, connect participants with baby ideas with the resources they need: send them articles you come across in their domain and introduce them to other people in the community.
+
+A lot of people with [baby ideas](#types-of-ideas) don’t even know what their idea is yet.
+
+**Teenage ideas:** The slightly awkward, but really interesting stage of ideas. People at this stage start moving towards being a creator, putting their knowledge and skills to use to build something they are passionate about. These are mid-level commitment and mid-term.
 
 Examples: writing and producing a song, storyboarding a climate documentary, building a website that shows you how far you can go with transit.
 
 Working on a teenage idea is scary. People working on teenage ideas are putting themselves “out there” for the first time, and often, the ideas won’t be very good. But the only way to get good is to get the teenage ideas out of the way and learn as you go.
 
-
 As a host, it’s essential to de-risk sharing teenage ideas and help participants feel more confident at the early stages of their work. (link: How to Organize Spaces that feel awesome)
 
 **Adult ideas:** Seeing them all grown up makes us feel all of the emotions. Adult ideas are inherently more mature. They have some success (users, fans, viewers, followers) and are dedicated to growing even further. They are high-commitment, long-term projects.
 
-Examples: a VC-backed startup, Youtuber with 50k followers, AR/VR research projects 
+Examples: a VC-backed startup, Youtuber with 50k followers, AR/VR research projects
 
-**Elder ideas:** The retired ideas that are no longer actively running, but leave behind a legacy of mistakes, learnings, and celebrations. People with wise elder ideas reflect on their journey and share mentorship. 
+**Elder ideas:** The retired ideas that are no longer actively running, but leave behind a legacy of mistakes, learnings, and celebrations. People with wise elder ideas reflect on their journey and share mentorship.
 
 Examples: ex-president of a social justice club, sunsetted greenhouse project in Sri Lanka
 
@@ -45,70 +43,62 @@ Currently, Socratica is best positioned to support baby and teenage ideas. We ar
 <p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Aditya Sharma and Jake Rudolph</p>
 </div>
 
+**What is an idea?**
 
-**What is an idea?** 
-
-It sometimes helps to fall back to the roots of the word. Idea, as defined by Merriam-Webster is “a formulated thought or opinion.” It can often be the case that we overcomplicate things but at its core, an idea is just that ... a thought or opinion that is formulated in some way, shape or form in the real world. As hosts, it is important to bring the barrier to entry of an idea down to its crumbs so that it is perceived as totally achievable by every human as opposed to this behemoth raindrop from the gods bestowed only upon the favoured. 
+It sometimes helps to fall back to the roots of the word. Idea, as defined by Merriam-Webster is “a formulated thought or opinion.” It can often be the case that we overcomplicate things but at its core, an idea is just that ... a thought or opinion that is formulated in some way, shape or form in the real world. As hosts, it is important to bring the barrier to entry of an idea down to its crumbs so that it is perceived as totally achievable by every human as opposed to this behemoth raindrop from the gods bestowed only upon the favoured.
 
 Finding an idea to work on is a partnership between hosts and participants to help them explore parts of themselves that they didn’t think were valuable enough or didn’t know existed. There are various ways to inspire thought that could turn to valuable underpinnings of a creation.
 
 Below is a set of guiding questions for hosts to ask to help inspire ideas:
 
-
-
-* Neglected hobbies
-    * If you weren’t in school / co-op/job that takes up your being on the weekdays, what would you be doing right now?
-    * If you could take a year off of school/work, how would you spend that year?
-    * What makes you feel creative?
-* Childhood hobbies
-    * What did you spend time doing when you were 9 years old? 3? 6? 14?
-    * If you gave Young [Insert Your Name Here] $50, what would they spend it on?
-* Explorations
-    * What is something you are terrible at, but think would be really fun?
-    * Is there a field that you know absolutely nothing about?
-* Conjuring of realities
-    * If you lived in a post-scarcity/abundance world, what is it that you at this point of time would want to spend your time on?
-    * Imagine a utopia created entirely by you with the paint of a brush on a blank canvas. What does that world look like? How does this world not live up to the expectations? 
+- Neglected hobbies
+  - If you weren’t in school / co-op/job that takes up your being on the weekdays, what would you be doing right now?
+  - If you could take a year off of school/work, how would you spend that year?
+  - What makes you feel creative?
+- Childhood hobbies
+  - What did you spend time doing when you were 9 years old? 3? 6? 14?
+  - If you gave Young [Insert Your Name Here] $50, what would they spend it on?
+- Explorations
+  - What is something you are terrible at, but think would be really fun?
+  - Is there a field that you know absolutely nothing about?
+- Conjuring of realities
+  - If you lived in a post-scarcity/abundance world, what is it that you at this point of time would want to spend your time on?
+  - Imagine a utopia created entirely by you with the paint of a brush on a blank canvas. What does that world look like? How does this world not live up to the expectations?
 
 Another subclass of thought/action experiments that could inspire are:
 
+- Work on what you go to bed thinking about and then also wake up thinking about
+- Work on what you think about in the shower
+- Write down every idea you have, or every thing that you think about in abundance and this could turn to an idea booklet
+- Work on what you talk to your friends about a lot
 
-
-* Work on what you go to bed thinking about and then also wake up thinking about
-* Work on what you think about in the shower
-* Write down every idea you have, or every thing that you think about in abundance and this could turn to an idea booklet
-* Work on what you talk to your friends about a lot
-
-One thing you’ll observe amongst all the above questions is that they are all **_what_** questions. These start the conversation but are often only surface-level. An entire set of **_why_** questions that can unravel the birth of the answer to the **_what_** questions can be helpful for further roots of inspiration. 
+One thing you’ll observe amongst all the above questions is that they are all **_what_** questions. These start the conversation but are often only surface-level. An entire set of **_why_** questions that can unravel the birth of the answer to the **_what_** questions can be helpful for further roots of inspiration.
 
 Some people will also work on “bridge” ideas - a low-risk project that helps to feel included in the space and give time to be inspired by other demos. Common “bridge” ideas:
 
+- Personal / portfolio website
+- Taking an online course
 
-* Personal / portfolio website
-* Taking an online course
+There is yet another set of activities where people are spending time learning meta-skills. These are included but not limited to:
 
-There is yet another set of activities where people are spending time learning meta-skills. These are included but not limited to: 
+- Learning new programming languages
+- Writing
+- Learning new instruments
 
-
-* Learning new programming languages
-* Writing
-* Learning new instruments
-
-These can often also be excellent ideas to work on, especially if somebody’s curiosity is enchanted by a particular skill. 
+These can often also be excellent ideas to work on, especially if somebody’s curiosity is enchanted by a particular skill.
 
 **Common Failure modes**
 
+- Unfocused work
+- Choosing work you think others expect you to work on
+  - Oftentimes, this manifests as people working on projects based on their major of study.
+  - The Socratica environment/crowd is not impenetrable from this critique. Acceptance, no matter from whom is the other side of the coin for community. We are social creatures and crave reward. This is fine insofar as the purpose of the collective serves you.
+- Trying to defy the laws of growth and birth a fully-developed senior citizen idea
 
-* Unfocused work
-* Choosing work you think others expect you to work on
-    * Oftentimes, this manifests as people working on projects based on their major of study.
-    * The Socratica environment/crowd is not impenetrable from this critique. Acceptance, no matter from whom is the other side of the coin for community. We are social creatures and crave reward. This is fine insofar as the purpose of the collective serves you. 
-* Trying to defy the laws of growth and birth a fully-developed senior citizen idea
+Other seminal resources on idea-ing:
 
-Other seminal resources on idea-ing: 
-
-* [https://tyler.cafe/foundational_skills](https://tyler.cafe/foundational_skills) 
-* [http://www.paulgraham.com/getideas.html](http://www.paulgraham.com/getideas.html)
+- [https://tyler.cafe/foundational_skills](https://tyler.cafe/foundational_skills)
+- [http://www.paulgraham.com/getideas.html](http://www.paulgraham.com/getideas.html)
 
 <br/>
 <br/>
@@ -129,12 +119,10 @@ Other seminal resources on idea-ing:
 <br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #9F7389; background: #AC7D94;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to organize a symposium</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Hudzah Nazoordeen</p>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Hudzah</p>
 </div>
 
 The symposium is vital to showing off our achievements to a broader range of people at the end of a term. It’s an event full of experimentation and trying things for the sake of getting a laugh out of it. It’s also an event where you have to try extra hard; if the symposium goes too smoothly, it means you haven’t tried hard enough. We see it is almost as giant funnel to inspire people to show what can be achieved within a term. The goal is to foster curiosity and interest within the community by highlighting the diversity and breadth of projects underway.
-
-Most of our documentation from past terms at Waterloo are included in **_[The Symposium Files](https://drive.google.com/drive/folders/1HGIH__7mv73CsXnUBx-3qnBNIKkVbBn1?usp=drive_link)_**. This is going to be your best friend.
 
 **Components to Execute the Best Symposium**
 
@@ -153,10 +141,10 @@ Most of our documentation from past terms at Waterloo are included in **_[The Sy
   - Rule of thumb; if you think a project is really cool, others might think so too. So ask them if they want to demo!
 - How to create sparkle?
   - View the symposium as a canvas where creative expressions and innovative ideas are encouraged. We &lt;3 experimentation and trying random shit that might be funny.
-  - Never stagnate! **If things go too smoothly it means you haven’t tried hard enough.** Continuously seek ways to enhance the appeal and "sparkle" of the event to make it more engaging and memorable.
+  - Never stagnate! Continuously seek ways to enhance the appeal and "sparkle" of the event to make it more engaging and memorable.
 - How to delegate work?
   - Firstly, form a great team, identify each person's strengths, and roles automatically delegate themselves. Fun people should be in charge of sparkle, creatives for branding, urgent people for logistics, etc.
   - Give people ownership and make deadlines clear. Do not have several unnecessary meetings. Instead just have a sync every two weeks. Trust that people will get their tasks done; again this is going off the assumption that you have great responsible hosts :)
 - How to do “everything else that I did not cover above”?
-  - The symposium has so many intricacies and could be written into a novel. Yet, a lot of it is dependent on deep thought and being extremely organized with your timelines. Refer back to **_[The Symposium Files](https://drive.google.com/drive/folders/1HGIH__7mv73CsXnUBx-3qnBNIKkVbBn1?usp=drive_link)_** as a template to understand what is needed and draw inspiration from past symposiums.
-  - You got this! Don’t be intimidated by the amount of work, it’s actually a lot of fun! And you will (hopefully) have some great hosts and helpers to make the path easier for you! \
+  - The symposium has so many intricacies and could be written into a novel. Yet, a lot of it is dependent on deep thought and being extremely organized with your timelines.
+  - You got this! Don’t be intimidated by the amount of work, it’s actually a lot of fun! And you will (hopefully) have some great hosts and helpers to make the path easier for you!

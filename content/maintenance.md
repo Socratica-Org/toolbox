@@ -45,11 +45,11 @@ All that being said, if exploring funding options sounds like a good idea for yo
     <br/>
     <br/>
 
-  - Where to find: At Waterloo, we’re sponsored by Contrary—we built this relationship through organizer involvement in their VP + now defunct Fellowship program. Twitter is a great place to find other firms, both student-oriented and general, that could sponsor. Others include [Neo](https://neo.com/), [Dorm Room Fund](https://www.dormroomfund.com/), [Rough Draft Ventures](https://roughdraft.vc/), and [Ripple Ventures](https://www.rippleventures.com/)
+  - Where to find: At Waterloo, we have a partnership with Contrary, a relationship that was built through our organizers' involvement in their VP and Fellowship program. Twitter is also a useful platform to find other potential sponsors, including student-oriented and general venture firms. Some examples include [Neo](https://neo.com/), [Dorm Room Fund](https://www.dormroomfund.com/), [Rough Draft Ventures](https://roughdraft.vc/), and [Ripple Ventures](https://www.rippleventures.com/).
     <br/>
     <br/>
 
-  - Watch out for: Predatory firms taking advantage of uneducated students. Doing unpaid labour on behalf of for-profit companies – make sure it’s “your agenda” and they’re sponsoring it / partnering, if it’s their agenda they should be hiring someone and paying them. Requests for exclusive access to the community (e.g. no other sponsors allowed) - again, this is unpaid labour on behalf of a company. Firms that don’t align with your values – your partnership is your endorsement, people will trust your judgment of character more than they trust their own.
+  - Watch out for: Be cautious of firms that may take advantage of students' lack of experience. Avoid doing unpaid work for for-profit companies – ensure that they are sponsoring or partnering with your agenda. If it's their agenda, they should hire someone and pay them accordingly. Be wary of requests for exclusive access to the community (e.g. no other sponsors allowed) - this could be seen as unpaid work for a company. Also, ensure that any firm you partner with aligns with your values – remember, your partnership is an endorsement, and people will trust your judgment of character.
     <br/>
     <br/>
 
