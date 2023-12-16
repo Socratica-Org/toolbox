@@ -37,6 +37,7 @@ issueNo: 0
 - [Brayden Petersen](https://braydenpetersen.wixsite.com/hello)
 - [Ananya Anupam](https://www.linkedin.com/in/ananya-anupam/?originalSubdomain=ca)
 - [Jonathan Xu](https://jonathanxu.com/)
+- [Binalpreet Kalra](https://www.binalpreetkalra.me/)
 
 ## Inspiration
 
