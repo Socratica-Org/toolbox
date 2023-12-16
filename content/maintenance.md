@@ -30,7 +30,7 @@ See also: [[getting-started#How to find co-hosts]]
 <br/>
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #D37662; background: #EB846D;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to fundraise</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Rishi Kothari</p>
+<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Rishi Kothari and Joss Murphy</p>
 </div>
 
 For many, the first mistake is to focus too much on having funding before running a session. Our point here is that you **don’t** need much more than space, cool people & friends, and good vibes. Back when Socratica Toronto was first getting started, it was ten friends, too many cookies, and the food court. We could have skipped the cookies and it would have still been great. Anyways, an event doesn’t have to have all the bells and whistles to be a good one; it just needs to be memorable to the people who are there. Money can be an excellent way to add to your events, but it is in no way a prerequisite: often, having financial infrastructure, sponsors, a full process for raising funds, and everything associated with it can actually be a hindrance to running good events.
