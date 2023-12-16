@@ -16,6 +16,18 @@ export type Analytics =
       provider: "umami"
       websiteId: string
     }
+  | {
+      provider: "firebase"
+      config: {
+        apiKey: string
+        authDomain: string
+        projectId: string
+        storageBucket: string
+        messagingSenderId: string
+        appId: string
+        measurementId: string
+      }
+    }
 
 export interface GlobalConfiguration {
   pageTitle: string
