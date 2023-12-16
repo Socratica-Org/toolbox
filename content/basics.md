@@ -25,7 +25,7 @@ We’ve incubated hundreds of projects. They include but are not limited to:
 - Writing - [Blogs](https://boxx.substack.com/), free-form poetry, journalism on food security, [YouTube video scripts](https://www.youtube.com/@adultingexplained?themeRefresh=1)
 - Art - [Feature length films](https://www.youtube.com/watch?v=9oCIi8tz518&pp=ygUHeWlpbXVrYQ%3D%3D), [Dune oil portraits](https://www.instagram.com/p/Cv4yQtNg6nk/?igshid=MzRlODBiNWFlZA%3D%3D), [Kubernetes launch logos](https://aws.amazon.com/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-28/), original albums, hand drawn animations, [fonts](https://twitter.com/lychkel/status/1722289626424168903), fashion designs, [documentary](https://www.unstuck.film/), and [atlas on technological progress](http://leversforprogress.com/).
 - Research - [Brain image generation](https://jonathanxu.com/blog/2023-07-22-mind-reading), bioplastics, Protein Folding, AR interfaces, [Trans Healthcare](https://website-ten-henna-54.vercel.app/), linguistics, standards to improving paper publishing
-- Fun - Minecraft towns, [matchmaking services](http://matchmaking/), setting up a "Dungeon"
+- Fun - Minecraft towns, [matchmaking services](https://github.com/ansonyuu/matchmaking), setting up a "Dungeon"
 
 That being said, once you gather a group of like-minded people, the sky's the limit! Some nodes have gone on to hold mini-accelerators, grant programs, and residencies.
 
