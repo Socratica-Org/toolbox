@@ -121,9 +121,9 @@ All that being said, if exploring funding options sounds like a good idea for yo
 <br/>
 <br/>
 <div style="display: flex; justify-content: space-between;">
-<a href="/superboosting-ideas" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #EB846D; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
+<a href="/superboosting-ideas" style="border-radius: 5px; padding: 15px; border: 1px solid #D37662; background: #EB846D; width: 20%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
 <p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
 </a>
-<!-- <a href="/maintenance" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #AC7D94; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
+<!-- <a href="/maintenance" style="border-radius: 5px; padding: 15px; border: 1px solid #D37662; background: #AC7D94; width: 20%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
 <p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
 </a> -->
