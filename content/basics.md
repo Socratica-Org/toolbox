@@ -3,9 +3,11 @@ title: The Basics
 issueNo: 1
 ---
 
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #5687D1; background: #6096E6;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">What is Socratica</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Anson Yu</p>
+<div class="article-header">
+
+# What is Socratica?
+Written by Anson Yu
+
 </div>
 
 TLDR: We assemble kind, nerdy, and ambitious young people that are dedicated to consistently creating.
@@ -31,18 +33,20 @@ That being said, once you gather a group of like-minded people, the sky's the li
 
 > We know we’ve succeeded when “Socratica” no longer needs to exist, when consistently creating things with friends becomes an obvious part of the broader social fabric.
 
-We started in Waterloo, and have helped spin up 14 independent nodes (and counting!) Active nodes are featured on /map!
+We started in Waterloo, and have helped spin up 14 independent nodes (and counting!) Active nodes are featured on [our map](https://www.socratica.info/map)!
 
 <!-- probably make these html so we can style em -->
 
 ![[basics-collage.png]]
 
-<br/>
-<br/>
-<div style="color: red; border-radius: 5px; padding: 25px; border: 1px solid #949D62; background: #6096E6;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">What we do it for</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Anson Yu</p>
-</div>
+
+<div class="article-header">
+
+# What we do it for
+Written by Anson Yu
+
+</div> 
+
 
 Ideally, **who** you do this for is your current or past self. This is a space that **you** would have personally wanted to exist earlier in your journey.
 
@@ -74,11 +78,12 @@ The cycle doesn’t just feed into itself. When done right, it makes people bett
 
 ![[work-play-spiral.png]]
 
-<br/>
-<br/>
-<div style="color: red; border-radius: 5px; padding: 25px; border: 1px solid #949D62; background: #6096E6;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">What we do it for</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Maya Lehki & Anson Yu</p>
+
+<div class="article-header">
+
+# What we believe in
+Written by Maya Lehki & Anson Yu
+
 </div>
 
 There are a couple of phrases we’re guilty of repeating (and repeating). It helps communicate what we value in a succinct way.

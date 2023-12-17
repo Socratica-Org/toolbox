@@ -46,3 +46,46 @@ body {
   margin: 0 auto;
   padding-bottom: 128px;
 }
+
+.article-header {
+  border-radius: 5px;
+  margin-top: 50px;
+  padding: 25px;
+  border: 1px solid #5687D1;
+  background: #6096E6;
+
+
+  h1 {
+    color: #F9F5E9;
+    padding: 0px;
+    margin: 0;
+  }
+
+  p {
+    color: #F9F5E9;
+    padding: 0;
+    padding-top: 5px;
+    margin: 0;
+  }
+}
+
+
+body[data-slug="getting-started"] .article-header {
+  border: #949C61; 
+  background: #9CA665
+}
+
+body[data-slug="growing-people"] .article-header {
+  border:  #AD7018; 
+  background: #BD7C18;
+}
+
+body[data-slug="superboosting-ideas"] .article-header {
+  border:  #9F7389; 
+  background: #AC7D94;
+}
+
+body[data-slug="maintenance"] .article-header {
+  border:  #D37662; 
+  background: #EB846D;
+}

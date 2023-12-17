@@ -3,9 +3,13 @@ title: Growing People
 issueNo: 3
 ---
 
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #AD7018; background: #BD7C18;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to organize spaces that feel awesome</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Jaclyn Chan and Jacky Zhao</p>
+
+
+<div class="article-header">
+
+# How to organize spaces that feel awesome
+Written by Jaclyn Chan and Jacky Zhao
+
 </div>
 
 Picture yourself entering a Socratica session. What do you feel? What do you want the participants to feel? How do hosts ensure that Socratica remains inclusive, beginner-friendly, and a good time?
@@ -21,12 +25,11 @@ Picture yourself entering a Socratica session. What do you feel? What do you wan
 - **Language** - The language you use to describe the sessions and host are part of the overall brand (see: [[superboosting-ideas#how-to-organize-a-symposium]]. The language should match the vibe of the event (or the aspirational vibe). For most Socratica events, they are meant to be inclusive, beginner friendly and a fun time – so the language should reflect that. Imagine you were being invited to a fun event, how would you want it to sound? Since Socratica isn’t a high commitment, high barrier to entry activity, aim to use language that sounds more like you’re inviting a friend rather than hosting some exclusive
 - **Introduce people, be a host!** Especially when your community is newer, as a host, you will need to be extra involved with helping people get to know each other. Read through the lu.ma (or whatever application/RSVP capturing method you use) and take note of what folks interests are. Introduce people with similar interests! The most important part of a strong community are the people and how connected they feel to each other. Help fast track that by actively introducing folks you think would get along together.
 
-<br/>
-<br/>
+<div class="article-header">
 
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #AD7018; background: #BD7C18;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to make newcomers feel welcome</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Anthea Tawiah, Om Gandhi, and Bruce Wang</p>
+# How to make newcomers feel welcome
+Written by Anthea Tawiah, Om Gandhi, and Bruce Wang
+
 </div>
 
 - If you don't recognize someone, a good rule of thumb is to assume it's their first session – ask if it’s their first session, explain what this space is, who it is for, how it is set up etc.
@@ -43,11 +46,12 @@ Picture yourself entering a Socratica session. What do you feel? What do you wan
   - If newcomers mention cool ideas/events they want to do, encourage them and connect them with resources. This can really make them closer to the community
 - It feels special to come to the sessions for a second time and people remember your name, it adds significantly to that feeling of being part of something.
 
-<br/>
-<br/>
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #AD7018; background: #BD7C18;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to help people level up</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Binalpreet Kalra, Anson Yu, Anthea Tawiah, Joss Murphy, and Jake Rudolph</p>
+
+<div class="article-header">
+
+# How to help people level up
+Written by Binalpreet Kalra, Anson Yu, Anthea Tawiah, Joss Murphy, and Jake Rudolph
+
 </div>
 
 From the outside, it might seem weird that people are willing to give their time to organize. The truth is, organizers actually stand to benefit the most from the sessions.
@@ -69,11 +73,11 @@ Common failure modes:
 - **Having the same hosts lead for too long** - They should transition to mentorship positions after ~4 months, max one year) – everyone should be doing work that feels fun / exciting / challenging to them.
   - You can’t level up if you’re stuck in the same place and you’re keeping other people from growing in the ways you have benefitted from hosting – don’t stunt growth.
 
-<br/>
-<br/>
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #AD7018; background: #BD7C18;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to maintain the vibe</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Kai</p>
+<div class="article-header">
+
+# How to maintain the vibe
+Written by Kai
+
 </div>
 
 There’s also a version of vibe maintenance that’s about “how do you build an institution that is long-lived but dynamic?”.
@@ -83,7 +87,7 @@ This section is in the works, but some sneak peeks
 - Sugar cabinets
 - Healthy turnover
 - Fun fund
-- Effortgating
+- Effort-gating
 
 <br/>
 <br/>

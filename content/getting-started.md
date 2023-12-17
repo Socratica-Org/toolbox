@@ -3,9 +3,11 @@ title: Getting Started
 issueNo: 2
 ---
 
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">When to start a node</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Jacky Zhao and Jake Rudolph</p>
+<div class="article-header">
+
+# When to start a node
+Written by Jacky Zhao and Jake Rudolph
+
 </div>
 
 In short, you should considering starting a node if:
@@ -26,11 +28,11 @@ Consistency, on the scale of months, also matters. You don’t have to promise t
 
 See also: [[#How to find the people that are trying to find you]]
 
-<br/>
-<br/>
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to find co-hosts</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Anson Yu and Joss Murphy </p>
+<div class="article-header">
+
+# How to find co-hosts
+Written by Anson Yu and Joss Murphy
+
 </div>
 
 Having co-hosts is a life hack to make sure the node survives beyond you. Can’t make it one day? Let them step in! Feeling demotivated? Here’s a built-in hype-man! The ideal co-host is someone you’re inspired by - someone you’d be excited to spend time with even if nobody else showed up. If you can’t find this person yet, it might be worth holding the first session yourself and seeing who it attracts. We’ve seen that the sweet spot is between 2-6 hosts. Only two people are _really_ actively hosting at any given session, but it’s great to have people on rotation. This is because it’s hard to organize and enjoy what you’ve organized at the same time.
@@ -53,11 +55,11 @@ Within each host team, there are a couple of archetypes that have bubbled up. Th
 - **Excessively helpful person** - They take “how can I be helpful” to a different level. They somehow know a bunch about fellowships, grants, and have just the right link for you to check out. They have a lot of context on what others are working on, and can make the right introductions.
 - **Chief historian** - The unspoken hero that loves to take photos and videos. Is always out of storage. Writes down what everyone’s projects are.
 
-<br/>
-<br/>
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to find the people that are trying to find you</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Mathurah Ravigulan, Kai, and Aava Sapkota</p>
+<div class="article-header">
+
+# How to find the people that are trying to find you
+Written by Mathurah Ravigulan, Kai, and Aava Sapkota
+
 </div>
 
 TLDR: Go to events and organizations that preach creativity and action, as well as other types of social and outreach related events.
@@ -90,11 +92,11 @@ Common failure modes:
 - **Over-institutionalizing** - It can be useful to present the node as a put-together brand™. However, it’s a balance between this and staying fun, light-hearted, and nimble. Presenting it as a hangout among friends can help ward off people coming to be transactional in an extractive way. Ensuring this vibe is communicated upon first contact with anyone you want to join the session, and at the sessions themselves is ESSENTIAL!! Keep in mind that the types of people we bring in will continue to shape the quality of sessions.
 - **Losing contact** - Even if people don’t come to sessions after being told about them, provide opportunities for them to be kept in the loop via email or otherwise! For some, not attending is a matter of situational availability.
 
-<br/>
-<br/>
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to structure a session</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Aava Sapkota, Jake Rudolph, Jaclyn Chan, and Hudzah Nazoordeen</p>
+<div class="article-header">
+
+# How to structure a session
+Written by Aava Sapkota, Jake Rudolph, Jaclyn Chan, and Hudzah Nazoordeen
+
 </div>
 
 Now that you have your host team and a list of attendees, it’s time to start planning the session!
@@ -304,11 +306,11 @@ Rapid fire shoutouts of what people are proud of from the week.
   </tr>
 </table>
 
-<br/>
-<br/>
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to hold great demos</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Hudzah Nazoordeen, Anson Yu, Jaclyn Chan, and Jake Rudolph</p>
+<div class="article-header">
+
+# How to hold great demos
+Written by Hudzah Nazoordeen, Anson Yu, Jaclyn Chan, and Jake Rudolph
+
 </div>
 
 In a company, there are three actions that matter in setting culture: who you hire, fire, and promote. Within a community, the “promotion” becomes who you give the most visibility to. In this case, it’s who you choose to demo and host.
@@ -348,11 +350,11 @@ The following are some learnings from a few years of facilitating demos:
 - **Presenter speaks very early stage, doesn’t have clearly defined project yet** - Ask probing questions: “What did you specifically work on today?”
 - **Too many people want to demo** - Reassure people who don’t get a chance that they can demo next week. You can also create spaces for anyone to share projects at any time, such as a discord channel for projects, or Instagram account highlighting projects. This is also a good time to reward folks that attend consistently – effort gate!
 
-<br/>
-<br/>
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #949C61; background: #9CA665;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to brand</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Brayden Petersen and Aileen Luo</p>
+<div class="article-header">
+
+# How to brand
+Written by Brayden Petersen and Aileen Luo
+
 </div>
 
 Your brand identity is extremely important, and extends far beyond the surface of fonts and colours. It’s how you present yourself as an organization– the way that you write, your uniquely obscene usage of emojis, and the vibes you curate at events.

@@ -3,9 +3,11 @@ title: Maintenance
 issueNo: 5
 ---
 
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #D37662; background: #EB846D;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to handoff to new hosts</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Ananya Anupam and Jake Rudolph</p>
+<div class="article-header">
+
+# How to handoff to new hosts
+Written by Ananya Anupam and Jake Rudolph
+
 </div>
 
 Beyond fostering spaces for amazing work, longevity should be one of the primary areas of focus for nodes. Being able to identify and nurture relationships with other awesome people who will carry the torch for the community is incredibly important, and making sure you’ve set out a plan for how the node will last beyond you is essential!
@@ -26,11 +28,12 @@ To some extent, this document originated from the work existing hosts did to mak
 
 See also: [[getting-started#How to find co-hosts]]
 
-<br/>
-<br/>
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #D37662; background: #EB846D;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">How to fundraise</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">Written by Rishi Kothari and Joss Murphy</p>
+
+<div class="article-header">
+
+# How to fundraise
+Written by Rishi Kothari and Joss Murphy
+
 </div>
 
 For many, the first mistake is to focus too much on having funding before running a session. Our point here is that you **don’t** need much more than space, cool people & friends, and good vibes. Back when Socratica Toronto was first getting started, it was ten friends, too many cookies, and the food court. We could have skipped the cookies and it would have still been great. Anyways, an event doesn’t have to have all the bells and whistles to be a good one; it just needs to be memorable to the people who are there. Money can be an excellent way to add to your events, but it is in no way a prerequisite: often, having financial infrastructure, sponsors, a full process for raising funds, and everything associated with it can actually be a hindrance to running good events.
@@ -124,6 +127,4 @@ All that being said, if exploring funding options sounds like a good idea for yo
 <a href="/superboosting-ideas" style="border-radius: 5px; padding: 15px; border: 1px solid #D37662; background: #EB846D; width: 20%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
 <p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
 </a>
-<!-- <a href="/maintenance" style="border-radius: 5px; padding: 15px; border: 1px solid #D37662; background: #AC7D94; width: 20%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
-</a> -->
+
