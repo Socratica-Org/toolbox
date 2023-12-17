@@ -6,7 +6,7 @@ issueNo: 1
 <div class="article-header">
 
 # What is Socratica?
-Written by Anson Yu
+Written by Anson Yu and Joss Murphy
 
 </div>
 
@@ -43,7 +43,7 @@ We started in Waterloo, and have helped spin up 14 independent nodes (and counti
 <div class="article-header">
 
 # What we do it for
-Written by Anson Yu
+Written by Anson Yu and Joss Murphy
 
 </div> 
 
@@ -82,7 +82,7 @@ The cycle doesn’t just feed into itself. When done right, it makes people bett
 <div class="article-header">
 
 # What we believe in
-Written by Maya Lehki & Anson Yu
+Written by Maya Lehki, Anson Yu, and and Joss Murphy
 
 </div>
 
