@@ -16,6 +16,10 @@ issueNo: 6
 - [Jacky Zhao](https://jzhao.xyz/)
 - [Hudzah](https://hudzah.com/)
 
+**Branding**
+- [Aileen Luo](https://aileenis.live/)
+- [Brayden Petersen](https://braydenpetersen.wixsite.com/hello)
+
 **Writers**
 
 - [Anson Yu](https://ansonyu.me/)
