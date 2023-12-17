@@ -43,6 +43,9 @@ issueNo: 6
 - [Jonathan Xu](https://jonathanxu.com/)
 - [Binalpreet Kalra](https://www.binalpreetkalra.me/)
 
+## Supporters
+This work, and Socratica as a whole, is supported by our friends at [Eigenspace](https://eigenspace.com/) and generous individual donors. We accept donations [here](https://donate.stripe.com/5kA6qZcondXE8Te008) or [reach out](mailto:socratica.info@gmail.com) to work together on future drops :)
+
 ## Inspiration
 
 This was hugely inspired by friends at [Koolaid Factory](https://koolaidfactory.com/), [Compound](https://manual.compoundplanning.com/), and the [Unconference Toolbox](https://devonzuegel.com/post/the-unconference-toolbox.html)! Documenting tacit knowledge is a hard thing, and we hope to build on ways they’ve done a great job.
