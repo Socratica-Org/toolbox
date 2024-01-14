@@ -3,11 +3,10 @@ title: Growing People
 issueNo: 3
 ---
 
-
-
 <div class="article-header">
 
 # How to organize spaces that feel awesome
+
 Written by Jaclyn Chan and Jacky Zhao
 
 </div>
@@ -28,6 +27,7 @@ Picture yourself entering a Socratica session. What do you feel? What do you wan
 <div class="article-header">
 
 # How to make newcomers feel welcome
+
 Written by Anthea Tawiah, Om Gandhi, and Bruce Wang
 
 </div>
@@ -46,10 +46,10 @@ Written by Anthea Tawiah, Om Gandhi, and Bruce Wang
   - If newcomers mention cool ideas/events they want to do, encourage them and connect them with resources. This can really make them closer to the community
 - It feels special to come to the sessions for a second time and people remember your name, it adds significantly to that feeling of being part of something.
 
-
 <div class="article-header">
 
 # How to help people level up
+
 Written by Binalpreet Kalra, Anson Yu, Anthea Tawiah, Joss Murphy, and Jake Rudolph
 
 </div>
@@ -76,6 +76,7 @@ Common failure modes:
 <div class="article-header">
 
 # How to maintain the vibe
+
 Written by Kai
 
 </div>
@@ -91,10 +92,11 @@ This section is in the works, but some sneak peeks
 
 <br/>
 <br/>
-<div style="display: flex; justify-content: space-between;">
-<a href="/getting-started" style="border-radius: 5px; padding: 15px; border: 1px solid #AD7018; background: #BD7C18; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
+<div class="navigation-container">
+<a href="/getting-started" class="navigation-button">
+<p>Previous</p>
 </a>
-<a href="/superboosting-ideas" style="border-radius: 5px; padding: 15px; border: 1px solid #AD7018; background: #BD7C18; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
+<a href="/superboosting-ideas" class="navigation-button">
+<p>Next</p>
 </a>
+</div>

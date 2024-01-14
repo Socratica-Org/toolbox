@@ -6,6 +6,7 @@ issueNo: 4
 <div class="article-header">
 
 # Types of Ideas
+
 Written by Jake Rudolph
 
 </div>
@@ -41,6 +42,7 @@ Currently, Socratica is best positioned to support baby and teenage ideas. We ar
 <div class="article-header">
 
 # How to choose what ideas to work on
+
 Written by Aditya Sharma and Jake Rudolph
 
 </div>
@@ -105,6 +107,7 @@ Other seminal resources on idea-ing:
 <div class="article-header">
 
 # How to raise baby ideas
+
 Written by Aadil Ali
 
 </div>
@@ -120,6 +123,7 @@ Written by Aadil Ali
 <div class="article-header">
 
 # How to organize a symposium
+
 Written by Hudzah
 
 </div>
@@ -153,10 +157,11 @@ The symposium is vital to showing off our achievements to a broader range of peo
 
 <br/>
 <br/>
-<div style="display: flex; justify-content: space-between;">
-<a href="/growing-people" style="border-radius: 5px; padding: 15px; border: 1px solid #9F7389; background: #AC7D94; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
+<div class="navigation-container">
+<a href="/growing-people" class="navigation-button">
+<p>Previous</p>
 </a>
-<a href="/maintenance" style="border-radius: 5px; padding: 15px; border: 1px solid #9F7389; background: #AC7D94; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
+<a href="/maintenance" class="navigation-button">
+<p>Next</p>
 </a>
+</div>

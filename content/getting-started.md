@@ -6,6 +6,7 @@ issueNo: 2
 <div class="article-header">
 
 # When to start a node
+
 Written by Jacky Zhao and Jake Rudolph
 
 </div>
@@ -31,6 +32,7 @@ See also: [[#How to find the people that are trying to find you]]
 <div class="article-header">
 
 # How to find co-hosts
+
 Written by Anson Yu and Joss Murphy
 
 </div>
@@ -58,6 +60,7 @@ Within each host team, there are a couple of archetypes that have bubbled up. Th
 <div class="article-header">
 
 # How to find the people that are trying to find you
+
 Written by Mathurah Ravigulan, Kai, and Aava Sapkota
 
 </div>
@@ -95,6 +98,7 @@ Common failure modes:
 <div class="article-header">
 
 # How to structure a session
+
 Written by Aava Sapkota, Jake Rudolph, Jaclyn Chan, and Hudzah Nazoordeen
 
 </div>
@@ -309,6 +313,7 @@ Rapid fire shoutouts of what people are proud of from the week.
 <div class="article-header">
 
 # How to hold great demos
+
 Written by Hudzah Nazoordeen, Anson Yu, Jaclyn Chan, and Jake Rudolph
 
 </div>
@@ -353,6 +358,7 @@ The following are some learnings from a few years of facilitating demos:
 <div class="article-header">
 
 # How to brand
+
 Written by Brayden Petersen and Aileen Luo
 
 </div>
@@ -395,10 +401,11 @@ TL;DR _this is important stuff. Never forget to put fun and welcoming first. It 
 </br>
 </br>
 
-<div style="display: flex; justify-content: space-between;">
-<a href="/basics" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #9CA665; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
+<div class="navigation-container">
+<a href="/basics" class="navigation-button">
+<p>Previous</p>
 </a>
-<a href="/growing-people" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #9CA665; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
+<a href="/growing-people" class="navigation-button">
+<p>Next</p>
 </a>
+</div>

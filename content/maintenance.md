@@ -6,6 +6,7 @@ issueNo: 5
 <div class="article-header">
 
 # How to handoff to new hosts
+
 Written by Ananya Anupam and Jake Rudolph
 
 </div>
@@ -28,10 +29,10 @@ To some extent, this document originated from the work existing hosts did to mak
 
 See also: [[getting-started#How to find co-hosts]]
 
-
 <div class="article-header">
 
 # How to fundraise
+
 Written by Rishi Kothari and Joss Murphy
 
 </div>
@@ -123,8 +124,7 @@ All that being said, if exploring funding options sounds like a good idea for yo
 </div>
 <br/>
 <br/>
-<div style="display: flex; justify-content: space-between;">
-<a href="/superboosting-ideas" style="border-radius: 5px; padding: 15px; border: 1px solid #D37662; background: #EB846D; width: 20%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
+<div class="navigation-container">
+<a href="/superboosting-ideas" class="navigation-button">
+<p>Previous</p>
 </a>
-

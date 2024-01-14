@@ -6,6 +6,7 @@ issueNo: 1
 <div class="article-header">
 
 # What is Socratica?
+
 Written by Anson Yu and Joss Murphy
 
 </div>
@@ -39,14 +40,13 @@ We started in Waterloo, and have helped spin up 14 independent nodes (and counti
 
 ![[basics-collage.png]]
 
-
 <div class="article-header">
 
 # What we do it for
+
 Written by Anson Yu and Joss Murphy
 
-</div> 
-
+</div>
 
 Ideally, **who** you do this for is your current or past self. This is a space that **you** would have personally wanted to exist earlier in your journey.
 
@@ -78,10 +78,10 @@ The cycle doesn’t just feed into itself. When done right, it makes people bett
 
 ![[work-play-spiral.png]]
 
-
 <div class="article-header">
 
 # What we believe in
+
 Written by Maya Lehki, Anson Yu, and and Joss Murphy
 
 </div>
@@ -104,19 +104,8 @@ To others
 <br/>
 <br/>
 
-<!-- If we add new issue's in between, we need to modify these -->
-<div style="display: flex; justify-content: flex-end;">
-<a href="getting-started" style="border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #6096E6; width: 17%; text-align: center;" onmouseover="this.style.cursor='pointer';" onmouseenter="this.style.transition='all 0.3s'; this.style.transform='scale(1.02)';" onmouseleave="this.style.transform='scale(1)';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
+<div class="navigation-container">
+<a href="getting-started" class="navigation-button">
+<p>Next</p>
 </a>
 </div>
-
-<!-- If we add new issue's in between, we need to modify these -->
-<!-- <div style="display: flex; justify-content: space-between;">
-<div style="color: red; border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #6096E6; width: 17%; text-align: center;" onclick="#">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Previous</p>
-</div>
-<div style="color: red; border-radius: 5px; padding: 15px; border: 1px solid #949D62; background: #6096E6; width: 17%; text-align: center;" onclick="location.href='https://toolbox.socratica.info/getting-started';">
-<p style="color: #F9F5E9; padding: 0;margin:0;">Next</p>
-</div>
-</div> -->

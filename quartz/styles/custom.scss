@@ -51,41 +51,96 @@ body {
   border-radius: 5px;
   margin-top: 50px;
   padding: 25px;
-  border: 1px solid #5687D1;
-  background: #6096E6;
-
+  border: 1px solid #5687d1;
+  background: #6096e6;
 
   h1 {
-    color: #F9F5E9;
+    color: #f9f5e9;
     padding: 0px;
     margin: 0;
   }
 
   p {
-    color: #F9F5E9;
+    color: #f9f5e9;
     padding: 0;
     padding-top: 5px;
     margin: 0;
   }
 }
 
-
 body[data-slug="getting-started"] .article-header {
-  border: #949C61; 
-  background: #9CA665
+  border: #949c61;
+  background: #9ca665;
 }
 
 body[data-slug="growing-people"] .article-header {
-  border:  #AD7018; 
-  background: #BD7C18;
+  border: #ad7018;
+  background: #bd7c18;
 }
 
 body[data-slug="superboosting-ideas"] .article-header {
-  border:  #9F7389; 
-  background: #AC7D94;
+  border: #9f7389;
+  background: #ac7d94;
 }
 
 body[data-slug="maintenance"] .article-header {
-  border:  #D37662; 
-  background: #EB846D;
+  border: #d37662;
+  background: #eb846d;
+}
+
+.navigation-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+body[data-slug="basics"] .navigation-container {
+  display: display;
+  justify-content: flex-end;
+}
+
+body[data-slug="maintenance"] .navigation-container {
+  display: display;
+  justify-content: flex-start;
+}
+
+a.navigation-button {
+  border-radius: 5px;
+  padding: 15px;
+  border: 1px solid #5687d1;
+  background: #6096e6;
+  width: 17%;
+  text-align: center;
+  transition: all 0.3s;
+  transform: scale(1);
+  cursor: pointer;
+
+  &:hover {
+    transform: scale(1.02);
+  }
+
+  p {
+    color: #f9f5e9;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+body[data-slug="getting-started"] a.navigation-button {
+  border: #949c61;
+  background: #9ca665;
+}
+
+body[data-slug="growing-people"] a.navigation-button {
+  border: #ad7018;
+  background: #bd7c18;
+}
+
+body[data-slug="superboosting-ideas"] a.navigation-button {
+  border: #9f7389;
+  background: #ac7d94;
+}
+
+body[data-slug="maintenance"] a.navigation-button {
+  border: #d37662;
+  background: #eb846d;
 }
