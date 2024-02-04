@@ -7,6 +7,7 @@ export type Analytics =
   | null
   | {
       provider: "plausible"
+      host?: string
     }
   | {
       provider: "google"
@@ -15,6 +16,7 @@ export type Analytics =
   | {
       provider: "umami"
       websiteId: string
+      host?: string
     }
 
 export interface GlobalConfiguration {
@@ -34,6 +36,12 @@ export interface GlobalConfiguration {
    */
   baseUrl?: string
   theme: Theme
+  /**
+   * Allow to translate the date in the language of your choice.
+   * Also used for UI translation (default: en-US)
+   * Need to be formated following the IETF language tag format (https://en.wikipedia.org/wiki/IETF_language_tag)
+   */
+  locale?: string
 }
 
 export interface QuartzConfig {
