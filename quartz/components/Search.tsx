@@ -2,13 +2,25 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/search.scss"
 // @ts-ignore
 import script from "./scripts/search.inline"
+import { classNames } from "../util/lang"
+import { i18n } from "../i18n/i18next"
 
-export default (() => {
-  function Search({ displayClass }: QuartzComponentProps) {
+export interface SearchOptions {
+  enablePreview: boolean
+}
+
+const defaultOptions: SearchOptions = {
+  enablePreview: true,
+}
+
+export default ((userOpts?: Partial<SearchOptions>) => {
+  function Search({ displayClass, cfg }: QuartzComponentProps) {
+    const opts = { ...defaultOptions, ...userOpts }
+
     return (
-      <div class={`search ${displayClass ?? ""}`}>
+      <div class={classNames(displayClass, "search")}>
         <div id="search-icon">
-          <p>Search</p>
+          <p>{i18n(cfg.locale, "search")}</p>
           <div></div>
           <svg
             tabIndex={0}
@@ -35,7 +47,7 @@ export default (() => {
               aria-label="Search for something"
               placeholder="Search for something"
             />
-            <div id="results-container"></div>
+            <div id="search-layout" data-preview={opts.enablePreview}></div>
           </div>
         </div>
       </div>

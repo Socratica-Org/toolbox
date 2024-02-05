@@ -1,16 +1,5 @@
 import { computePosition, flip, inline, shift } from "@floating-ui/dom"
-
-// from micromorph/src/utils.ts
-// https://github.com/natemoo-re/micromorph/blob/main/src/utils.ts#L5
-export function normalizeRelativeURLs(el: Element | Document, base: string | URL) {
-  const update = (el: Element, attr: string, base: string | URL) => {
-    el.setAttribute(attr, new URL(el.getAttribute(attr)!, base).pathname)
-  }
-
-  el.querySelectorAll('[href^="./"], [href^="../"]').forEach((item) => update(item, "href", base))
-
-  el.querySelectorAll('[src^="./"], [src^="../"]').forEach((item) => update(item, "src", base))
-}
+import { normalizeRelativeURLs } from "../../util/path"
 
 const p = new DOMParser()
 async function mouseEnterHandler(
@@ -32,8 +21,11 @@ async function mouseEnterHandler(
     })
   }
 
+  const hasAlreadyBeenFetched = () =>
+    [...link.children].some((child) => child.classList.contains("popover"))
+
   // dont refetch if there's already a popover
-  if ([...link.children].some((child) => child.classList.contains("popover"))) {
+  if (hasAlreadyBeenFetched()) {
     return setPosition(link.lastChild as HTMLElement)
   }
 
@@ -50,6 +42,11 @@ async function mouseEnterHandler(
     .catch((err) => {
       console.error(err)
     })
+
+  // bailout if another popover exists
+  if (hasAlreadyBeenFetched()) {
+    return
+  }
 
   if (!contents) return
   const html = p.parseFromString(contents, "text/html")
@@ -79,7 +76,7 @@ async function mouseEnterHandler(
 document.addEventListener("nav", () => {
   const links = [...document.getElementsByClassName("internal")] as HTMLLinkElement[]
   for (const link of links) {
-    link.removeEventListener("mouseenter", mouseEnterHandler)
     link.addEventListener("mouseenter", mouseEnterHandler)
+    window.addCleanup(() => link.removeEventListener("mouseenter", mouseEnterHandler))
   }
 })
