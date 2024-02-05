@@ -16,8 +16,7 @@ const observer = new IntersectionObserver((entries) => {
 
 function toggleToc(this: HTMLElement) {
   this.classList.toggle("collapsed")
-  const content = this.nextElementSibling as HTMLElement | undefined
-  if (!content) return
+  const content = this.nextElementSibling as HTMLElement
   content.classList.toggle("collapsed")
   content.style.maxHeight = content.style.maxHeight === "0px" ? content.scrollHeight + "px" : "0px"
 }
@@ -25,12 +24,10 @@ function toggleToc(this: HTMLElement) {
 function setupToc() {
   const toc = document.getElementById("toc")
   if (toc) {
-    const collapsed = toc.classList.contains("collapsed")
-    const content = toc.nextElementSibling as HTMLElement | undefined
-    if (!content) return
-    content.style.maxHeight = collapsed ? "0px" : content.scrollHeight + "px"
+    const content = toc.nextElementSibling as HTMLElement
+    content.style.maxHeight = content.scrollHeight + "px"
+    toc.removeEventListener("click", toggleToc)
     toc.addEventListener("click", toggleToc)
-    window.addCleanup(() => toc.removeEventListener("click", toggleToc))
   }
 }
 

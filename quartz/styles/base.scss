@@ -4,6 +4,7 @@
 
 html {
   scroll-behavior: smooth;
+  -webkit-text-size-adjust: none;
   text-size-adjust: none;
   overflow-x: hidden;
   width: 100vw;
@@ -26,7 +27,7 @@ section {
 }
 
 ::selection {
-  background: color-mix(in srgb, var(--tertiary) 60%, rgba(255, 255, 255, 0));
+  background: color-mix(in srgb, var(--tertiary) 75%, transparent);
   color: var(--darkgray);
 }
 
@@ -54,7 +55,7 @@ ul,
 }
 
 a {
-  font-weight: $boldWeight;
+  font-weight: 600;
   text-decoration: none;
   transition: color 0.2s ease;
   color: var(--secondary);
@@ -68,27 +69,11 @@ a {
     background-color: var(--highlight);
     padding: 0 0.1rem;
     border-radius: 5px;
-    line-height: 1.4rem;
-
-    &:has(> img) {
-      background-color: none;
-      border-radius: 0;
-      padding: 0;
-    }
-  }
-
-  &.external .external-icon {
-    height: 1ex;
-    margin: 0 0.15em;
-
-    > path {
-      fill: var(--dark);
-    }
   }
 }
 
 .desktop-only {
-  display: initial;
+  display: revert;
   @media all and (max-width: $fullPageWidth) {
     display: none;
   }
@@ -97,7 +82,7 @@ a {
 .mobile-only {
   display: none;
   @media all and (max-width: $fullPageWidth) {
-    display: initial;
+    display: revert;
   }
 }
 
@@ -109,6 +94,8 @@ a {
   }
 
   & article {
+    position: relative;
+
     & > h1 {
       font-size: 2rem;
     }
@@ -131,6 +118,7 @@ a {
 
     p > strong {
       color: var(--dark);
+      font-weight: 700;
     }
   }
 
@@ -148,7 +136,7 @@ a {
       gap: 2rem;
       top: 0;
       width: $sidePanelWidth;
-      margin-top: $topSpacing;
+      margin-top: calc($topSpacing + 40px);
       box-sizing: border-box;
       padding: 0 4rem;
       position: fixed;
@@ -171,11 +159,9 @@ a {
 
     & .sidebar.right {
       right: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
-      flex-wrap: wrap;
       & > * {
         @media all and (max-width: $fullPageWidth) {
           flex: 1;
-          min-width: 140px;
         }
       }
     }
@@ -278,6 +264,7 @@ h6 {
     opacity: 0;
     transition: opacity 0.2s ease;
     transform: translateY(-0.1rem);
+    display: inline-block;
     font-family: var(--codeFont);
     user-select: none;
   }
@@ -314,13 +301,11 @@ h6 {
   margin-bottom: 1rem;
 }
 
-figure[data-rehype-pretty-code-figure] {
-  margin: 0;
-  position: relative;
+div[data-rehype-pretty-code-fragment] {
   line-height: 1.6rem;
   position: relative;
 
-  & > [data-rehype-pretty-code-title] {
+  & > div[data-rehype-pretty-code-title] {
     font-family: var(--codeFont);
     font-size: 0.9rem;
     padding: 0.1rem 0.5rem;
@@ -332,17 +317,16 @@ figure[data-rehype-pretty-code-figure] {
   }
 
   & > pre {
-    padding: 0;
+    padding: 0.5rem 0;
   }
 }
 
 pre {
   font-family: var(--codeFont);
-  padding: 0 0.5rem;
+  padding: 0.5rem;
   border-radius: 5px;
   overflow-x: auto;
   border: 1px solid var(--lightgray);
-  position: relative;
 
   &:has(> code.mermaid) {
     border: none;
@@ -355,8 +339,6 @@ pre {
     counter-reset: line;
     counter-increment: line 0;
     display: grid;
-    padding: 0.5rem 0;
-    overflow-x: scroll;
 
     & [data-highlighted-chars] {
       background-color: var(--highlight);
@@ -409,37 +391,27 @@ p {
   line-height: 1.6rem;
 }
 
-.table-container {
-  overflow-x: auto;
-
-  & > table {
-    margin: 1rem;
-    padding: 1.5rem;
-    border-collapse: collapse;
-
-    th,
-    td {
-      min-width: 75px;
-    }
-
-    & > * {
-      line-height: 2rem;
-    }
+table {
+  margin: 1rem 0;
+  padding: 1.5rem;
+  border-collapse: collapse;
+  & > * {
+    line-height: 2rem;
   }
 }
 
 th {
   text-align: left;
-  padding: 0.4rem 0.7rem;
-  border-bottom: 2px solid var(--gray);
+  padding: 0.4rem 1rem;
+  border-bottom: 2px solid var(--darkgray);
 }
 
 td {
-  padding: 0.2rem 0.7rem;
+  padding: 0.2rem 1rem;
 }
 
 tr {
-  border-bottom: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--darkgray);
   &:last-child {
     border-bottom: none;
   }
@@ -482,27 +454,14 @@ ol.overflow {
   // clearfix
   content: "";
   clear: both;
-
-  & > li:last-of-type {
-    margin-bottom: 30px;
-  }
-
-  &:after {
-    pointer-events: none;
-    content: "";
-    width: 100%;
-    height: 50px;
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    opacity: 1;
-    transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
-  }
 }
 
 .transclude {
   ul {
     padding-left: 1rem;
   }
+}
+
+.intext-header {
+  background: black;
 }

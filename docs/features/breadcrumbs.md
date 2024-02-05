@@ -16,11 +16,10 @@ For example, here's what the default configuration looks like:
 
 ```typescript title="quartz.layout.ts"
 Component.Breadcrumbs({
-  spacerSymbol: "❯", // symbol between crumbs
+  spacerSymbol: ">", // symbol between crumbs
   rootName: "Home", // name of first/root element
-  resolveFrontmatterTitle: true, // whether to resolve folder names through frontmatter titles
-  hideOnRoot: true, // whether to hide breadcrumbs on root `index.md` page
-  showCurrentPage: true, // whether to display the current page in the breadcrumbs
+  resolveFrontmatterTitle: false, // wether to resolve folder names through frontmatter titles (more computationally expensive)
+  hideOnRoot: true, // wether to hide breadcrumbs on root `index.md` page
 })
 ```
 

@@ -1,13 +1,11 @@
-import { i18n } from "../i18n/i18next"
 import { FullSlug, _stripSlashes, joinSegments, pathToRoot } from "../util/path"
 import { JSResourceToScriptElement } from "../util/resources"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 export default (() => {
   function Head({ cfg, fileData, externalResources }: QuartzComponentProps) {
-    const title = fileData.frontmatter?.title ?? i18n(cfg.locale, "head.untitled")
-    const description =
-      fileData.description?.trim() ?? i18n(cfg.locale, "head.noDescriptionProvided")
+    const title = fileData.frontmatter?.title ?? "Untitled"
+    const description = fileData.description?.trim() ?? "No description provided"
     const { css, js } = externalResources
 
     const url = new URL(`https://${cfg.baseUrl ?? "example.com"}`)
@@ -15,7 +13,7 @@ export default (() => {
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
     const iconPath = joinSegments(baseDir, "static/icon.png")
-    const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
+    const ogImagePath = `https://i.imgur.com/meEw2aJ.png`
 
     return (
       <head>
