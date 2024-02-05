@@ -6,11 +6,10 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { Root } from "hast"
 import { pluralize } from "../../util/lang"
 import { htmlToJsx } from "../../util/jsx"
-import { i18n } from "../../i18n/i18next"
 
 const numPages = 10
 function TagContent(props: QuartzComponentProps) {
-  const { tree, fileData, allFiles, cfg } = props
+  const { tree, fileData, allFiles } = props
   const slug = fileData.slug
 
   if (!(slug?.startsWith("tags/") || slug === "tags")) {
@@ -27,27 +26,20 @@ function TagContent(props: QuartzComponentProps) {
     (tree as Root).children.length === 0
       ? fileData.description
       : htmlToJsx(fileData.filePath!, tree)
-  const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
-  const classes = ["popover-hint", ...cssClasses].join(" ")
-  if (tag === "/") {
-    const tags = [
-      ...new Set(
-        allFiles.flatMap((data) => data.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes),
-      ),
-    ].sort((a, b) => a.localeCompare(b))
+
+  if (tag === "") {
+    const tags = [...new Set(allFiles.flatMap((data) => data.frontmatter?.tags ?? []))]
     const tagItemMap: Map<string, QuartzPluginData[]> = new Map()
     for (const tag of tags) {
       tagItemMap.set(tag, allPagesWithTag(tag))
     }
+
     return (
-      <div class={classes}>
+      <div class="popover-hint">
         <article>
           <p>{content}</p>
         </article>
-        <p>
-          {i18n(cfg.locale, "tagContent.found")} {tags.length}{" "}
-          {i18n(cfg.locale, "tagContent.totalTags")}.
-        </p>
+        <p>Found {tags.length} total tags.</p>
         <div>
           {tags.map((tag) => {
             const pages = tagItemMap.get(tag)!
@@ -61,20 +53,16 @@ function TagContent(props: QuartzComponentProps) {
             return (
               <div>
                 <h2>
-                  <a class="internal tag-link" href={`../tags/${tag}`}>
+                  <a class="internal tag-link" href={`./${tag}`}>
                     #{tag}
                   </a>
                 </h2>
                 {content && <p>{content}</p>}
-                <div class="page-listing">
-                  <p>
-                    {pluralize(pages.length, i18n(cfg.locale, "common.item"))}{" "}
-                    {i18n(cfg.locale, "tagContent.withThisTag")}.{" "}
-                    {pages.length > numPages &&
-                      `${i18n(cfg.locale, "tagContent.showingFirst")} ${numPages}.`}
-                  </p>
-                  <PageList limit={numPages} {...listProps} />
-                </div>
+                <p>
+                  {pluralize(pages.length, "item")} with this tag.{" "}
+                  {pages.length > numPages && `Showing first ${numPages}.`}
+                </p>
+                <PageList limit={numPages} {...listProps} />
               </div>
             )
           })}
@@ -89,16 +77,11 @@ function TagContent(props: QuartzComponentProps) {
     }
 
     return (
-      <div class={classes}>
+      <div class="popover-hint">
         <article>{content}</article>
-        <div class="page-listing">
-          <p>
-            {pluralize(pages.length, i18n(cfg.locale, "common.item"))}{" "}
-            {i18n(cfg.locale, "tagContent.withThisTag")}.
-          </p>
-          <div>
-            <PageList {...listProps} />
-          </div>
+        <p>{pluralize(pages.length, "item")} with this tag.</p>
+        <div>
+          <PageList {...listProps} />
         </div>
       </div>
     )

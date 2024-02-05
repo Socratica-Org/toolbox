@@ -14,25 +14,27 @@ import { QuartzLogger } from "../util/log"
 import { trace } from "../util/trace"
 import { BuildCtx } from "../util/ctx"
 
-export type QuartzProcessor = Processor<MDRoot, MDRoot, HTMLRoot>
+export type QuartzProcessor = Processor<MDRoot, HTMLRoot, void>
 export function createProcessor(ctx: BuildCtx): QuartzProcessor {
   const transformers = ctx.cfg.plugins.transformers
 
-  return (
-    unified()
-      // base Markdown -> MD AST
-      .use(remarkParse)
-      // MD AST -> MD AST transforms
-      .use(
-        transformers
-          .filter((p) => p.markdownPlugins)
-          .flatMap((plugin) => plugin.markdownPlugins!(ctx)),
-      )
-      // MD AST -> HTML AST
-      .use(remarkRehype, { allowDangerousHtml: true })
-      // HTML AST -> HTML AST transforms
-      .use(transformers.filter((p) => p.htmlPlugins).flatMap((plugin) => plugin.htmlPlugins!(ctx)))
-  )
+  // base Markdown -> MD AST
+  let processor = unified().use(remarkParse)
+
+  // MD AST -> MD AST transforms
+  for (const plugin of transformers.filter((p) => p.markdownPlugins)) {
+    processor = processor.use(plugin.markdownPlugins!(ctx))
+  }
+
+  // MD AST -> HTML AST
+  processor = processor.use(remarkRehype, { allowDangerousHtml: true })
+
+  // HTML AST -> HTML AST transforms
+  for (const plugin of transformers.filter((p) => p.htmlPlugins)) {
+    processor = processor.use(plugin.htmlPlugins!(ctx))
+  }
+
+  return processor
 }
 
 function* chunks<T>(arr: T[], n: number) {
@@ -87,13 +89,12 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
 
         // Text -> Text transforms
         for (const plugin of cfg.plugins.transformers.filter((p) => p.textTransform)) {
-          file.value = plugin.textTransform!(ctx, file.value.toString())
+          file.value = plugin.textTransform!(ctx, file.value)
         }
 
         // base data properties that plugins may use
-        file.data.filePath = file.path as FilePath
-        file.data.relativePath = path.posix.relative(argv.directory, file.path) as FilePath
-        file.data.slug = slugifyFilePath(file.data.relativePath)
+        file.data.slug = slugifyFilePath(path.posix.relative(argv.directory, file.path) as FilePath)
+        file.data.filePath = fp
 
         const ast = processor.parse(file)
         const newAst = await processor.run(ast, file)

@@ -30,6 +30,5 @@ declare module "vfile" {
   interface DataMap {
     slug: FullSlug
     filePath: FilePath
-    relativePath: FilePath
   }
 }

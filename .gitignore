@@ -1,11 +1,12 @@
 .DS_Store
 .gitignore
 node_modules
-public
 prof
-tsconfig.tsbuildinfo
+tsconfig.ts
+buildinfo
 .obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
+public
