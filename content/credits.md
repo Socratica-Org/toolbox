@@ -17,6 +17,7 @@ issueNo: 6
 - [Hudzah](https://hudzah.com/)
 
 **Branding**
+
 - [Aileen Luo](https://aileenis.live/)
 - [Brayden Petersen](https://braydenpetersen.wixsite.com/hello)
 
@@ -42,8 +43,10 @@ issueNo: 6
 - [Ananya Anupam](https://www.linkedin.com/in/ananya-anupam/?originalSubdomain=ca)
 - [Jonathan Xu](https://jonathanxu.com/)
 - [Binalpreet Kalra](https://www.binalpreetkalra.me/)
+- [Seneca Forster](https://twitter.com/senecaforster)
 
 ## Supporters
+
 This work, and Socratica as a whole, is supported by our friends at [Eigenspace](https://eigenspace.com/) and generous individual donors. We accept donations [here](https://donate.stripe.com/5kA6qZcondXE8Te008) or [reach out](mailto:socratica.info@gmail.com) to work together on future drops :)
 
 ## Inspiration
