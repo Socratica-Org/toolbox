@@ -48,6 +48,15 @@ export const CARDS = {
       </div>
     </a>
   ),
+  "how-to-contribute": (
+    <a href={"/how-to-contribute"}>
+      <div class="card card-6">
+        <p class="card-title">Maintenance</p>
+        <p class="card-subhead">Issue 006</p>
+        <img src="/static/5-illo.png" class="card-illustration-5" />
+      </div>
+    </a>
+  ),
 }
 
 export default (() => {
