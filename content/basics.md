@@ -11,11 +11,11 @@ Written by Anson Yu and Joss Murphy
 
 </div>
 
-TLDR: We assemble kind, nerdy, and ambitious young people that are dedicated to consistently creating.
+TLDR: We assemble kind, nerdy, and ambitious people that are dedicated to consistently creating.
 
 We’re united by a couple of core beliefs:
 
-1. There are increasingly few, low stakes ways for young people to make interest, values aligned friends IRL
+1. There are increasingly few, low stakes ways for people to make interest, values aligned friends IRL
    1. These spaces need to be recurring, consistent, and accessible.
 2. Great creative work is done together, across backgrounds and disciplines 2. Small, high trust groups are the foundation of boundary pushing work - in engineering, science, art, and more
 
@@ -52,7 +52,7 @@ Ideally, **who** you do this for is your current or past self. This is a space t
 
 **Consistent, creative work can be isolating**
 
-This might sound familiar. You go to a school where most conversations are subtle competitions around grades or internships. Or you come home from a long day of work, only to relax by watching a treadmill of information that never gets less urgent. Although these are totally fine to do, they often become things that people don’t actively choose for themselves. Personal intention feels like it is in increasingly short supply.
+This might sound familiar. Most conversations around you are subtle competitions around internships. Or you come home from a long day of work, only to relax by watching a treadmill of information that never gets less urgent. Although these are totally fine to do, they often become things that people don’t actively choose for themselves. Personal intention feels like it is in increasingly short supply.
 
 But a small (or big) rebellious spark nudges you. You tinker, trial hobbies, or even set off on side quests. You brush by a few people along the way, but you’re mostly doing it alone. **Wanting to break off and explore/make/create in a culture that doesn’t, is inherently isolating - this loneliness shouldn't be the reason great people don't do great things.**
 
