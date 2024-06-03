@@ -77,7 +77,7 @@ Common failure modes:
 
 # How to maintain the vibe
 
-Written by Seneca
+Written by Seneca Forster
 
 </div>
 
@@ -91,7 +91,6 @@ Written by Seneca
 - Emphasize that this space isn’t for perfection, but for works-in-progress.
     - Before demos, remind people that presenting is chill, no need to have anything fancy or complete in order to demo it!
 
-<br/>
 <br/>
 <div class="navigation-container">
 <a href="/getting-started" class="navigation-button">
