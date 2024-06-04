@@ -115,8 +115,24 @@ All that being said, if exploring funding options sounds like a good idea for yo
     <br/>
   - Watch out for: Make sure the effort expended: money received ratio is worth it. Your time has value (especially as an organizer)! Be wary of super long shot stuff, really focus on ones where you feel you are the ideal candidate applying. Local stuff is great.
 
-    <br/>
-    <br/>
+
+<div class="article-header">
+
+# Keeping track of projects
+
+Written by Seneca Forster
+
+</div>
+
+It’s cool to document the projects worked on! You’ll be grateful to look back on notes and photos of everything that happened at past sessions. 
+
+- Keep a “demo diary” listing presenters and projects described in a brief sentence in a Notion/Google Doc and update it after each session
+    - Nothing fancy, just their name and one sentence describing their project
+        - ex. Clo – learning Figma prototyping
+    - It’s easiest to write these down as demos happen so you don’t forget, or list down of all the presenter’s names to refer to later
+- Have someone film demos and take pictures! Remember to be mindful of media consent.
+- Make a shared Google Photos for all hosts to upload pictures and videos after each session
+
 
 <div style="border-radius: 5px; padding: 25px; border: 1px solid #D37662; background: #EB846D;">
 <h1 style="color: #F9F5E9; padding: 0px; margin:0;">You've reached the end! (for now)</h1>

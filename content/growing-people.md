@@ -77,20 +77,20 @@ Common failure modes:
 
 # How to maintain the vibe
 
-Written by Kai
+Written by Seneca Forster
 
 </div>
 
-There’s also a version of vibe maintenance that’s about “how do you build an institution that is long-lived but dynamic?”.
+- Have a quiet space and a collaborative space
+    - If people need to talk to others for their project, try setting up a “collab” table, room, or hallway area for them so they don’t distract a quiet space. Let people know about the collab area during intros before the work block. You can also remind people talking during work blocks about the collab area to minimize talking.
+- Transition back to work right after the break
+    - It can be hard to smoothly resume the work block when people are still chatting from the break. Try using non-verbal cues like flickering the lights or screen sharing a sign to get people’s attention. If nonverbal cues don't do the trick, don't be afraid to raise your voice to announce the end of the break!
+- Play some lo-fi music in the background
+- Talk to new people right when they walk in
+    - Greet them, ask what they’re working on, intro them to someone else, etc.
+- Emphasize that this space isn’t for perfection, but for works-in-progress.
+    - Before demos, remind people that presenting is chill, no need to have anything fancy or complete in order to demo it!
 
-This section is in the works, but some sneak peeks
-
-- Sugar cabinets
-- Healthy turnover
-- Fun fund
-- Effort-gating
-
-<br/>
 <br/>
 <div class="navigation-container">
 <a href="/getting-started" class="navigation-button">
