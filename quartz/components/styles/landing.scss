@@ -148,6 +148,9 @@
 
 .card-6 {
   background: #e18fa7;
+  background-image: url("./static/6-noise.png");
+  background-size: cover;
+  overflow: visible;
 }
 
 .card-illustration-6 {
@@ -203,12 +206,13 @@
     overflow: hidden;
   }
 
-  .card-illustration-1,
-  .card-illustration-2,
-  .card-illustration-3,
-  .card-illustration-4,
-  .card-illustration-5 {
-    width: 25%;
+  // loop through all cards
+  $num-cards: 6;
+
+  @for $i from 1 through $num-cards {
+    .card-illustration-#{$i} {
+      width: 25%;
+    }
   }
 
   .card-illustration-1 {
@@ -228,5 +232,10 @@
     left: unset;
     top: 15px;
     right: 60px;
+  }
+  .card-illustration-6 {
+    left: unset;
+    right: 20px;
+    top: 20px;
   }
 }
