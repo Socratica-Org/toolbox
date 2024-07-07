@@ -88,6 +88,10 @@ body[data-slug="maintenance"] .article-header {
   background: #eb846d;
 }
 
+body[data-slug="demo-days"] .article-header {
+  border: #e18fa715;
+  background: #e18fa7;
+}
 .navigation-container {
   display: flex;
   justify-content: space-between;
@@ -143,4 +147,9 @@ body[data-slug="superboosting-ideas"] a.navigation-button {
 body[data-slug="maintenance"] a.navigation-button {
   border: #d37662;
   background: #eb846d;
+}
+
+body[data-slug="demo-days"] a.navigation-button {
+  border: #e18fa715;
+  background: #e18fa7;
 }

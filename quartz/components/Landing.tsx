@@ -48,6 +48,15 @@ export const CARDS = {
       </div>
     </a>
   ),
+  demoDays: (
+    <a href={"/demo-days"}>
+      <div class="card card-6">
+        <p class="card-title">Demo Days</p>
+        <p class="card-subhead">Issue 006</p>
+        <img src="/static/6-illo.png" class="card-illustration-6" />
+      </div>
+    </a>
+  ),
 }
 
 export default (() => {
