@@ -207,7 +207,7 @@
   }
 
   // loop through all cards
-  $num-cards: 6;
+  $num-cards: 7;
 
   @for $i from 1 through $num-cards {
     .card-illustration-#{$i} {

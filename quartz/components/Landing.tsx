@@ -48,7 +48,7 @@ export const CARDS = {
       </div>
     </a>
   ),
-  demoDays: (
+  "demo-days": (
     <a href={"/demo-days"}>
       <div class="card card-6">
         <p class="card-title">Demo Days</p>

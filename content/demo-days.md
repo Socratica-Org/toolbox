@@ -279,8 +279,6 @@ Here's a quick overview on some of our favourite demo's during past Symposium's 
 - [Unstuck by Anson](https://youtu.be/BSC5jmpC3h4?si=BbUnAftdz4n06eSE&t=3262) - Anson kept her demo intriguing and scrappy. Once again, showing a ton of photos and commentating over them herself. She also showed the culmination of her entire 4-month journey by showing the trailer to her documentary live. Showing off sketches of her thoughts, screenshots of dm's, memes, her video editor crashing (and other mishaps) brought an element of scrappiness that felt so much more human than other presentations people have seen and truly made it unforgettable!
 - [Portal by Rajan and Ian](https://www.youtube.com/watch?v=Vmupugz2M1s) - Rajan and Ian showed off their LLM portal with a live demo on stage. Encapsulating the phrase "show not tell" and had the audience in awe with a live working product. They bounced sentences between each other eloquently and it was evident that they had practiced how the duet would work together several times beforehand!
 
----
-
 ## Booth Demos
 
 A successful science fair booth captures the attention through interactive and kinetic elements. Ideally, have something that people can DO at your booth. Certain projects like writing, videos, poetry and harder to make interactive; but, you can get creative. If you're an artist you could display some of your painting and also have a collaborative canvas that people can add to at your booth. Or you yourself could be a hub where people come to, to talk about similar work, your journey etc.

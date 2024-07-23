@@ -1,6 +1,6 @@
 ---
 title: Credits
-issueNo: 6
+issueNo: 7
 ---
 
 ## Contributors
@@ -9,6 +9,7 @@ issueNo: 6
 
 - [Anson Yu](https://ansonyu.me/)
 - [Jake Rudolph](https://www.linkedin.com/in/jakerudolph/?originalSubdomain=ca)
+- [Hudzah](https://hudzah.com/)
 
 **Tech & design**
 
