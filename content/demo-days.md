@@ -7,7 +7,7 @@ issueNo: 6
 
 # The Essence of Demo Days
 
-Written by Hudzah, Donald Jewkes, Kelly Chong, InternetVin, Jake Rudolph, and Anson Yu
+Written by Hudzah, Donald Jewkes, Kelly Chong, internetVin, Jake Rudolph, and Anson Yu
 
 </div>
 
@@ -27,7 +27,7 @@ Demos also give people an excuse to gather and meet people experimenting with si
 
 A lot of this advice is very tactical and direct, as opposed to previous issues we've released that are broader / "here are a couple of things you can do". We don’t promise that any of these steps are "perfect" or "mandatory" to run a demo day, but some things we've done that worked well – and that it’s not the only way! (we are actively experimenting with new formats)
 
-> InternetVin: It's important to note that these events aren't pitches. There's a difference between a pitch, which is like "this is why you should give me money," and a show and tell, which is more like, "this is what I'm learning, or here's why this matters to me."
+> internetVin: It's important to note that these events aren't pitches. There's a difference between a pitch, which is like "this is why you should give me money," and a show and tell, which is more like, "this is what I'm learning, or here's why this matters to me."
 
 <!-- add photos here collages of MVD, ND, Symposium, Spotlight -->
 
@@ -65,7 +65,7 @@ It's the little sparkly things that compound to make your demo day feel inherent
 
 # How to Find Demoers?
 
-Written by Anson Yu, Donald Jewkes, Kelly Chong, InternetVin, Jake Rudolph, and Hudzah
+Written by Anson Yu, Donald Jewkes, Kelly Chong, internetVin, Jake Rudolph, and Hudzah
 
 </div>
 
