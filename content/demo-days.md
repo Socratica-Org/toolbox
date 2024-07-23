@@ -1,11 +1,11 @@
 ---
-title: Your New Issue Title
+title: Demo Days
 issueNo: 6 # Increment this number based on the last issue number
 ---
 
 <div class="article-header">
 
-# Main Heading for Your New Issue
+# Demo Days
 
 Written by [Author Name]
 
