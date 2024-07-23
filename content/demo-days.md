@@ -29,7 +29,7 @@ A lot of this advice is very tactical and direct, as opposed to previous issues 
 
 <!-- add photos here collages of MVD, ND, Symposium, Spotlight -->
 
-## The Core Parts of a Demo Day
+### The Core Parts of a Demo Day
 
 ### 1. The People
 
