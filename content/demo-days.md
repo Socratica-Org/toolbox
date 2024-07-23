@@ -302,24 +302,15 @@ Every on-stage presentation demoer also gets a booth! Here are some of the audie
 - [W24 Symposium Video](https://www.youtube.com/watch?v=xQFHZhmiJuA&t)
 - [F23 Symposium Video](https://www.youtube.com/watch?v=d_aAbnZhqtU)
 - [S23 Symposium Video](https://www.youtube.com/watch?v=BSC5jmpC3h4)
-<!--
 
-<div style="border-radius: 5px; padding: 25px; border: 1px solid #D37662; background: #EB846D;">
-<h1 style="color: #F9F5E9; padding: 0px; margin:0;">You've reached the end! (for now)</h1>
-<p style="color: #F9F5E9; padding: 0; padding-top: 5px;margin:0;">If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a Socratica to your city!</p>
-<div style="background-color: #F9F5E9; color: #EB846D; border-radius: 5px; border: none; padding: 15px 32px; display: inline-block; font-size: 16px; margin: 20px 0px 0px 0px; cursor: pointer;" onclick="window.open('https://www.socratica.info/get-involved', '_blank')">
-  <style>
-    @media screen and (max-width: 600px) {
-      div {
-        margin: 0 auto;
-        text-align: center;
-      }
-    }
-  </style>
-  Start a Socratica Near You!
+ <div class="end-message">
+  <h1>You've reached the end! (for now)</h1>
+  <p>If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a Socratica to your city!</p>
+  <a href="https://www.socratica.info/get-involved" target="_blank" class="cta-button">Bring a Socratica to your city!</a>
 </div>
- -->
 
+<br>
+<br>
 
 <div class="navigation-container">
 <a href="/maintenance" class="navigation-button">
