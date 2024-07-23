@@ -45,6 +45,15 @@ issueNo: 7
 - [Jonathan Xu](https://jonathanxu.com/)
 - [Binalpreet Kalra](https://www.binalpreetkalra.me/)
 - [Seneca Forster](https://twitter.com/senecaforster)
+- [Donald Jewkes](https://donaldjewkes.com/)
+- [Kelly Chong](https://www.kellychong.ca/)
+- [InternetVin](https://x.com/internetvin)
+- [Ananya Kannan](https://x.com/freudianspilled)
+- [Xiao Da](https://www.linkedin.com/in/xi-da/?trk=public_profile_browsemap&originalSubdomain=uk)
+- [Clo Wang](https://mobile.x.com/clo_wang)
+- [Brooke Joseph](https://x.com/BrookeaJoseph)
+- [Shahan Nedadahandeh](https://shahan.ca/)
+- [Joy He](https://www.linkedin.com/in/joy-hej/)
 
 ## Supporters
 
