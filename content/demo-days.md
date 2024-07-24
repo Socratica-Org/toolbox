@@ -63,6 +63,7 @@ It's the little sparkly things that compound to make your demo day feel inherent
 
 ![[symposium-collage.png]]
 ![[mvd-collage.png]]
+_Photos from Minimum Viable Demos and Socratica_
 
 <div class="article-header">
 
@@ -246,6 +247,25 @@ Some ideas to add sparkle:
   - Opening remarks: have something funny at the start to break the ice and have the first demo be more light hearted
   - Closing remarks: the best speeches are ones that make people feel motivated to take action. Remember what you aim to inspire.
 
+Here are some more examples of sparkle that have worked well at the Symposium:
+
+![[cybertruck.jpg]]
+_Half-scale Cybertruck at the Symposium: A replica that became a popular photo spot_
+
+![[lettuce-eating.jpg]]
+_Lettuce-eating contest at our Design-a-thon: An unexpected and hilarious shared experience_
+
+![[matchmaking.JPG]]
+_Matchmaking board: Connecting attendees based on shared interests_
+
+![[signs.jpg]]
+_Fun, and attention-grabbing signs_
+
+![[socratica-letters.JPG]]
+_Socratica letters: A colorful, 3D photo backdrop that brightened up the venue_
+
+TLDR: Try random things, it's the best way to figure out what works.
+
 <div class="article-header">
 
 # How to Demo
@@ -295,10 +315,21 @@ A successful science fair booth captures the attention through interactive and k
 Every on-stage presentation demoer also gets a booth! Here are some of the audience's favourite booth demos in the past.
 
 - Lina face paint: Lina would paint people's faces live!
-
+  <div style="display: flex; justify-content: space-between;">
+    <img src="lina-booth-demo-1.jpg" alt="Lina booth demo 1" style="width: 48%;">
+    <img src="lina-booth-demo-2.jpg" alt="Lina booth demo 2" style="width: 48%;">
+  </div>
 - Mulei's Duckweed popcorn - Mulei used duckweed and turned it into a high protein popcorn that tasted delicious!
+  <div style="display: flex; justify-content: space-between;">
+    <img src="mulei-booth-demo-1.jpg" alt="Mulei's Duckweed popcorn" style="width: 48%;">
+    <img src="mulei-booth-demo-2.jpg" alt="Mulei's Duckweed popcorn" style="width: 48%;">
+  </div>
 
 - Soham's Piano + Chess - People heard live music as they entered the hall, and they were able to play him in chess!
+  <div style="display: flex; justify-content: space-between;">
+    <img src="soham-booth-demo-1.jpg" alt="Soham's Piano + Chess" style="width: 48%;">
+    <img src="soham-booth-demo-2.jpg" alt="Soham's Piano + Chess" style="width: 48%;">
+  </div>
 
 ### References
 
