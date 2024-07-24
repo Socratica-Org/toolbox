@@ -61,6 +61,9 @@ A lot of this advice is very tactical and direct, as opposed to previous issues 
 
 It's the little sparkly things that compound to make your demo day feel inherently unique – they are usually highly experimental and may completely flop, but they're unforgettable when they don't!
 
+![[symposium-collage.png]]
+![[mvd-collage.png]]
+
 <div class="article-header">
 
 # How to Find Demoers?
