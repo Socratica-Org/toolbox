@@ -146,7 +146,7 @@ We can break down the logistics of a demo-day into 3 core parts: the pre-event, 
 - Choose a well-equipped venue that matches the event's vibe.
 - Potential spaces: galleries, studios, community centres, auditoriums, university rooms, cafes, conference rooms, etc.
 - Each space gives a different atmosphere (e.g. a cinema gives a much more theatrical feel to the demos, while a conference room in a university feels a little more scrappy and exploratory). Think about which venue fits most with the demos planned.
-- Consider partnering with these venues or asking them for sponsorships!
+- Consider partnering with these venues or asking them for sponsorships! For more on finding sponsorships, read [how to fundraise](maintenance#how-to-fundraise)
 - We wrote more on [how to organize spaces that feel awesome](growing-people#how-to-organize-spaces-that-feel-awesome)
   > A poster from NapYork – a hostel for sleeping in NYC – that I think did a great job at thinking about the vibe of a space in relation to your senses. This is a great framework for thinking about the vibe of a space:
   >
