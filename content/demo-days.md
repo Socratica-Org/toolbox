@@ -214,31 +214,33 @@ Written by Donald, Seneca Forster, Xiao Da, Clo Wang, Ananya Kannan, and Hudzah
 
 </div>
 
-Demo days are unique in being a canvas to craft a *magical* experience for others. Strong logistical foundations are required – but it’s the experiments you choose to run that will create something truly transformative for those attending. 
+Demo days are unique in being a canvas to craft a _magical_ experience for others. Strong logistical foundations are required – but it’s the experiments you choose to run that will create something truly transformative for those attending.
 
-Sparkle is not something that can be architected; one can only create the *conditions* that will allow for sparkle to occur. It’s the job of hosts to line up the pins to fall rather than to take the shot.
+Sparkle is not something that can be architected; one can only create the _conditions_ that will allow for sparkle to occur. It’s the job of hosts to line up the pins to fall rather than to take the shot.
 
-## Finding cultivators
+### Finding cultivators
+
 It seems that sparkle most often emerges from giving people a platform to shine. Some signs that a person might be a strong cultivator of sparkle:
+
 - They are motivated by [gift giving](https://spencerchang.substack.com/p/ti-11-dedications-gifts-odes) – perhaps they crochet beautiful animals for their friends.
 - Their work is informed by deep empathy for those on the receiving end.
 - They love to fully commit to an ambitious idea and see it through!
 - They have executed elaborate, pro-social pranks or schemes.
 
+### Listening for the signs
 
-## Listening for the signs
 Sparkle is a shared experience that slowly evaporates after an event. There is no sense trying too hard to capture it, better to fully enjoy it while it lasts! The best indicators of sparkle are often feelings:
+
 - Someone poured themselves into crafting this experience for me.
 - All stones turned unveiled a bundle of effortful intention.
 - We were a part of something truly new.
 - We formed a deep connection <3
 - This was truly memorable.
 
-
 Effortful intention begets effortful intention. Strong feelings compound and sparkle blossoms in favourable group environments. Many of the strongest examples of sparkle lay the infrastructure for meaningful connection and invite people to feel part of the community. Guide people to each other, make everyone feel welcome, and create opportunities for people to get involved during the event.
 
+### Live experimentation
 
-## Live experimentation
 Experimental demos are a great way to explore creating the wow-factor of a theatrical experience. These often pose logistical risk, but the upside is quite large. Test early and create rigourous backup plans.
 
 ![[cybertruck.jpg]]
@@ -250,30 +252,33 @@ _Interactive dance demo at MVD with audio and video features synced to movement_
 ![[mvd-darkroom.png]]
 _Recreation of a darkroom for film photography printing; projected live for a demo at MVD_
 
-## Surfacing artifacts
+### Surfacing artifacts
+
 Much of the room for experimentation lies outside of demos. Supporting features of demo days can be invented from the ground up – it's here where the largest opportunity space exists for crafting sparkle!
 
 - **Matchmaking** – connecting attendees based on shared interests collected from sign-up forms → past attempt not executed properly but has promising potential to create sparkle
-![[matchmaking.JPG]]
+  ![[matchmaking.JPG]]
 
 - **MVD [Zines](https://en.wikipedia.org/wiki/Zine)** – attendees received 32-page booklets that included event programming, a demo list, and writer & artist features.
-  - Zines served as a tool, an initiation, and a memorable artifact of intention and beauty. This set the stage and served to emphasize: *"We are about to be part of something special."*
-  - Effortfulness was balanced by pages dedicated to “popping the trunk” on artists' *works in progress* and the underlying process of bringing MVD to life.
+
+  - Zines served as a tool, an initiation, and a memorable artifact of intention and beauty. This set the stage and served to emphasize: _"We are about to be part of something special."_
+  - Effortfulness was balanced by pages dedicated to “popping the trunk” on artists' _works in progress_ and the underlying process of bringing MVD to life.
   - Hole-punched corners and s-biners emphasized utility.
   - Different aesthetic explorations across page spreads were analogous to the heterogeneity of people, projects, and ideas at MVD.
 
   ![[mvd-zines.png]]
 
 - **Artist features** – Showcasing artists' work creates opportunities for exposure in addition to creating a beautiful experience for attendees.
+
   - MVD experimented with making the space look and feel like an art gallery – in doing this, it's best to give artists space to speak about their work.
   - Symposium had features as part of booth demos, this allowed for more intimate conversations with artists.
   - Adding artist cards with names, descriptions, and contact information communicates legitimacy and intention.
   - Extra sparkle can be had with usage of monitors for dynamic digital instillations.
-  
+
   ![[art-gallery.png]]
 
-
 - **Inviting contributions** – create opportunities to participate in storytelling and worldbuilding; give people a chance to craft the narrative.
+
   - Recruit people make guiding decisions on how to set up pieces of the event (art placement, posters, chairs, etc.)
   - Making Kirbys out of post it notes together.
   - Large collaborative art pieces e.g. "I love Vancouver because" or Symposium Mural.
@@ -292,12 +297,9 @@ Much of the room for experimentation lies outside of demos. Supporting features 
   ![[mvd-songs.png]]
   _An opera singer, a sea shanty, and a bespoke song at performed at MVD_
 
-
-
-## Reflect and iterate
+### Reflect and iterate
 
 Experiments in sparkle are best punctuated by celebration, reflection, and documentation. Everyone wins when more surface area is covered and good ideas get recorded. Sometimes labelling will be hard. It's still good to keep a log, even if only for your own calibration. Next time you successfully create conditions for sparkle, we encourage you to capture them [here](https://github.com/Socratica-Org/toolbox)!
-
 
 <div class="article-header">
 
@@ -327,6 +329,13 @@ Not all project's are long term projects either! They can be:
 **Believe your work stands on its own** without needing to rely on clichés or big claims to try and sell it. Go into the nerdy details of your work. Show the passion, the cool/uncool details that you sweated over. **Show exactly what you know.**
 
 > Also relevant, but more related to co-working session, [how to hold great demos](getting-started#how-to-hold-great-demos)
+
+### Tips for helping someone improve their presentation:
+
+- Presenters have spent hundreds of hours on their projects, so to them it’s easy for them to miss obviously confusing parts or boring parts of their presentation. As a neutral observer, you're in the perfect place to find these places and let them know! The goal is to make the presentation as engaging as possible to an audience who has never heard about their story. So look for parts of their presentation that make you confused or bored when they rehearse their demo for you, make sure to note this down and let them know.
+- Encourage the presenter to find a coherent narrative about their project. For example, a series of drawings could be presented as a story of one's journey through life, with each drawing being a stopping point.
+- As a presenter, it's easy to get attached to every paragraph and every slide. As an outside observer, don’t be hesitant to suggest removing the parts that are less strong in your eyes. Cut the fat!
+- Encourage the presenter to perform their presentation as naturally as they can, without writing and memorizing a strict script. If they must, encourage them to put high level bullet points of what they want to say for each slide on cue cards. Presenters who think they need pages and pages of flashcards often will realize they don’t! This is because they are presenting their own story and projects, for which they already know the ins and outs of.
 
 ### Past presentation demos
 
@@ -371,8 +380,6 @@ Every on-stage presentation demoer also gets a booth! Here are some of the audie
 - [S23 Symposium Video](https://www.youtube.com/watch?v=BSC5jmpC3h4)
 - [MVD Trailer](https://www.youtube.com/watch?v=kboI7Lc6iKE)
 - [MVD Recap](https://www.youtube.com/watch?v=EWn1SBBtIJU)
-
-
 
  <div class="end-message">
   <h1>You've reached the end! (for now)</h1>
