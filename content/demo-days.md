@@ -254,7 +254,7 @@ _Recreation of a darkroom for film photography printing; projected live for a de
 Much of the room for experimentation lies outside of demos. Supporting features of demo days can be invented from the ground up – it's here where the largest opportunity space exists for crafting sparkle!
 
 - **Matchmaking** – connecting attendees based on shared interests collected from sign-up forms → past attempt not executed properly but has promising potential to create sparkle
-![[matchmaking.jpg]]
+![[matchmaking.JPG]]
 
 - **MVD [Zines](https://en.wikipedia.org/wiki/Zine)** – attendees received 32-page booklets that included event programming, a demo list, and writer & artist features.
   - Zines served as a tool, an initiation, and a memorable artifact of intention and beauty. This set the stage and served to emphasize: *"We are about to be part of something special."*
@@ -283,7 +283,7 @@ Much of the room for experimentation lies outside of demos. Supporting features 
 - **Going the extra mile** – doing the work to nail your foundations will give you a huge lift through the rest of the event! e.g. food, signage, seating, lighting etc.
   ![[pizza.png]]
   _Handmade pizza and charcuterie plates_
-  ![[socratica-letters.jpg]]
+  ![[socratica-letters.JPG]]
   _Custom Socratica letters: a colorful, 3D photo backdrop that brightened up the venue._
 
 - **Pushing the boundaries** – there are no rules in games of whimsy! Stretch your imaginative capacity to add sprinkles of absurdity :)
