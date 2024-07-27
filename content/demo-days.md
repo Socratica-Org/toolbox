@@ -241,12 +241,14 @@ Effortful intention begets effortful intention. Strong feelings compound and spa
 
 ### Live experimentation
 
-Experimental demos are a great way to explore creating the wow-factor of a theatrical experience. These often pose logistical risk, but the upside is quite large. Test early and create rigourous backup plans.
+Experimental demos are a great way to explore creating the wow-factor of a theatrical experience. These often pose operational risk, but the upside is quite large. Test early and create rigourous backup plans.
 
-![[cybertruck.jpg]]
-_Half-scale Cybertruck at the Symposium: A replica that became a popular photo spot_
+> _"Live demos are the holy grail of robotics"_ – Lingkang
+
 ![[mvd-robot.jpg]]
 _Dual arm humanoid robot mounted to a table and brought on stage at MVD_
+![[cybertruck.jpg]]
+_Half-scale Cybertruck at the Symposium: A replica that became a popular photo spot_
 ![[mvd-dance.jpg]]
 _Interactive dance demo at MVD with audio and video features synced to movement_
 ![[mvd-darkroom.png]]
@@ -299,7 +301,7 @@ Much of the room for experimentation lies outside of demos. Supporting features 
 
 ### Reflect and iterate
 
-Experiments in sparkle are best punctuated by celebration, reflection, and documentation. Everyone wins when more surface area is covered and good ideas get recorded. Sometimes labelling will be hard. It's still good to keep a log, even if only for your own calibration. Next time you successfully create conditions for sparkle, we encourage you to capture them [here](https://github.com/Socratica-Org/toolbox)!
+Experiments in sparkle are best punctuated by celebration, reflection, and documentation. Everyone wins when more surface area is covered and good ideas get recorded. Sometimes labelling will be hard. It's still good to keep a log, even if only for personal calibration. Next time you successfully create conditions for sparkle, we encourage you to capture them [here](https://github.com/Socratica-Org/toolbox)!
 
 <div class="article-header">
 
