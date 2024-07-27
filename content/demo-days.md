@@ -100,7 +100,7 @@ There are several ways to pick the fruit:
 3. **The people around you**:
 
    - Maintain a dynamic list of potential demoers and ensure it is continuously updated and curated. Always be on the lookout.
-     - Letting friends contribute to this private list somehow too. Making yourself, or an anonymous organization a beacon
+     - Letting friends contribute to this private list somehow too. Making yourself, or an anonymous organization a beacon.
    - Going on walks with people, asking for referrals, putting in the time to earn the trust of potential demoers in hopes they'd trust me to help showcase their work
    - Finding one awesome person, then digging into their affiliated organizations - awesome people tend to love being around other awesome people!
 
@@ -214,57 +214,90 @@ Written by Donald, Seneca Forster, Xiao Da, Clo Wang, Ananya Kannan, and Hudzah
 
 </div>
 
-We view the demo day as a canvas where creative expressions and innovative ideas are encouraged. We <3 experimentation and trying random things that might be funny. A lot of this revolves around never stagnating! Continuously seek ways to enhance the appeal and "sparkle" of the event to make it more engaging and memorable.
+Demo days are unique in being a canvas to craft a *magical* experience for others. Strong logistical foundations are required – but it’s the experiments you choose to run that will create something truly transformative for those attending. 
 
-Make people feel part of the community! Try experimenting with things to make everyone feel more connected and included. Guide people to each other, make sure no one comes in and feels overwhelmed / lost. If people come early, let them help set up the event e.g. making kirbys out of post-it notes together, making signs giving directions, and you could even have a collaborative art piece like a massive symposium sign that everyone who comes contributes to.
+Sparkle is not something that can be architected; one can only create the *conditions* that will allow for sparkle to occur. It’s the job of hosts to line up the pins to fall rather than to take the shot.
 
-Some ideas to add sparkle:
+## Finding cultivators
+It seems that sparkle most often emerges from giving people a platform to shine. Some signs that a person might be a strong cultivator of sparkle:
+- They are motivated by [gift giving](https://spencerchang.substack.com/p/ti-11-dedications-gifts-odes) – perhaps they crochet beautiful animals for their friends.
+- Their work is informed by deep empathy for those on the receiving end.
+- They love to fully commit to an ambitious idea and see it through!
+- They have executed elaborate, pro-social pranks or schemes.
 
-- **Match-making** based on peoples' interests given on sign-up forms → past attempt not executed properly but has promising potential to create sparkle
 
-- **MVD zines**
+## Listening for the signs
+Sparkle is a shared experience that slowly evaporates after an event. There is no sense trying too hard to capture it, better to fully enjoy it while it lasts! The best indicators of sparkle are often feelings:
+- Someone poured themselves into crafting this experience for me.
+- All stones turned unveiled a bundle of effortful intention.
+- We were a part of something truly new.
+- We formed a deep connection <3
+- This was truly memorable.
 
-  - A brochure that balances utility and art
-    - Enough utility to convey info like scheduling
-    - Goal for art spreads is to be cool enough to get printed into a stand-alone poster
-  - Totally different aesthetics for each spread aligns with demo culture ethos
-  - Priority: making it "enjoyable" for audience to read through -> must be "worth their time"
-    - Introduce humour, goofiness, satire, etc. to humanize
-  - Hole-punching corner + carabiner/S-clip is huge sparkle moment
 
-- **Art gallery**
+Effortful intention begets effortful intention. Strong feelings compound and sparkle blossoms in favourable group environments. Many of the strongest examples of sparkle lay the infrastructure for meaningful connection and invite people to feel part of the community. Guide people to each other, make everyone feel welcome, and create opportunities for people to get involved during the event.
 
-  - A diverse collection of artist works (with unique styles) hung up not only decorate a room but features community creators
-  - Adding artist cards + descriptions give legitimacy and ties all pieces together such that audience doesn't misinterpret art as random decor that is part of the venue
-  - Can integrate monitors for digital art/videos/interactive art
 
-- **Peripheral artifacts**
-
-  - Experimental demos (build in-house features, interactive demos, use the venue to advantage)
-  - Storytelling + worldbuilding. Give people a chance to participate and be a part of the narrative.
-
-- **Fun opening + closing remarks**
-  - Opening remarks: have something funny at the start to break the ice and have the first demo be more light hearted
-  - Closing remarks: the best speeches are ones that make people feel motivated to take action. Remember what you aim to inspire.
-
-Here are some more examples of sparkle that have worked well at the Symposium:
+## Live experimentation
+Experimental demos are a great way to explore creating the wow-factor of a theatrical experience. These often pose logistical risk, but the upside is quite large. Test early and create rigourous backup plans.
 
 ![[cybertruck.jpg]]
 _Half-scale Cybertruck at the Symposium: A replica that became a popular photo spot_
+![[mvd-robot.jpg]]
+_Dual arm humanoid robot mounted to a table and brought on stage at MVD_
+![[mvd-dance.jpg]]
+_Interactive dance demo at MVD with audio and video features synced to movement_
+![[mvd-darkroom.png]]
+_Recreation of a darkroom for film photography printing; projected live for a demo at MVD_
 
-![[lettuce-eating.jpg]]
-_Lettuce-eating contest at our Design-a-thon: An unexpected and hilarious shared experience_
+## Surfacing artifacts
+Much of the room for experimentation lies outside of demos. Supporting features of demo days can be invented from the ground up – it's here where the largest opportunity space exists for crafting sparkle!
 
-![[matchmaking.JPG]]
-_Matchmaking board: Connecting attendees based on shared interests_
+- **Matchmaking** – connecting attendees based on shared interests collected from sign-up forms → past attempt not executed properly but has promising potential to create sparkle
+![[matchmaking.jpg]]
 
-![[signs.jpg]]
-_Fun, and attention-grabbing signs_
+- **MVD [Zines](https://en.wikipedia.org/wiki/Zine)** – attendees received 32-page booklets that included event programming, a demo list, and writer & artist features.
+  - Zines served as a tool, an initiation, and a memorable artifact of intention and beauty. This set the stage and served to emphasize: *"We are about to be part of something special."*
+  - Effortfulness was balanced by pages dedicated to “popping the trunk” on artists' *works in progress* and the underlying process of bringing MVD to life.
+  - Hole-punched corners and s-biners emphasized utility.
+  - Different aesthetic explorations across page spreads were analogous to the heterogeneity of people, projects, and ideas at MVD.
 
-![[socratica-letters.JPG]]
-_Socratica letters: A colorful, 3D photo backdrop that brightened up the venue_
+  ![[mvd-zines.png]]
 
-TLDR: Try random things, it's the best way to figure out what works.
+- **Artist features** – Showcasing artists' work creates opportunities for exposure in addition to creating a beautiful experience for attendees.
+  - MVD experimented with making the space look and feel like an art gallery – in doing this, it's best to give artists space to speak about their work.
+  - Symposium had features as part of booth demos, this allowed for more intimate conversations with artists.
+  - Adding artist cards with names, descriptions, and contact information communicates legitimacy and intention.
+  - Extra sparkle can be had with usage of monitors for dynamic digital instillations.
+  
+  ![[art-gallery.png]]
+
+
+- **Inviting contributions** – create opportunities to participate in storytelling and worldbuilding; give people a chance to craft the narrative.
+  - Recruit people make guiding decisions on how to set up pieces of the event (art placement, posters, chairs, etc.)
+  - Making Kirbys out of post it notes together.
+  - Large collaborative art pieces e.g. "I love Vancouver because" or Symposium Mural.
+
+  ![[posters.png]]
+
+- **Going the extra mile** – doing the work to nail your foundations will give you a huge lift through the rest of the event! e.g. food, signage, seating, lighting etc.
+  ![[pizza.png]]
+  _Handmade pizza and charcuterie plates_
+  ![[socratica-letters.jpg]]
+  _Custom Socratica letters: a colorful, 3D photo backdrop that brightened up the venue._
+
+- **Pushing the boundaries** – there are no rules in games of whimsy! Stretch your imaginative capacity to add sprinkles of absurdity :)
+  ![[lettuce-eating.jpg]]
+  _A lettuce-eating competition at Socratica Design-a-thon: a hilarious shared experience_
+  ![[mvd-songs.png]]
+  _An opera singer, a sea shanty, and a bespoke song at performed at MVD_
+
+
+
+## Reflect and iterate
+
+Experiments in sparkle are best punctuated by celebration, reflection, and documentation. Everyone wins when more surface area is covered and good ideas get recorded. Sometimes labelling will be hard. It's still good to keep a log, even if only for your own calibration. Next time you successfully create conditions for sparkle, we encourage you to capture them [here](https://github.com/Socratica-Org/toolbox)!
+
 
 <div class="article-header">
 
@@ -336,6 +369,10 @@ Every on-stage presentation demoer also gets a booth! Here are some of the audie
 - [W24 Symposium Video](https://www.youtube.com/watch?v=xQFHZhmiJuA&t)
 - [F23 Symposium Video](https://www.youtube.com/watch?v=d_aAbnZhqtU)
 - [S23 Symposium Video](https://www.youtube.com/watch?v=BSC5jmpC3h4)
+- [MVD Trailer](https://www.youtube.com/watch?v=kboI7Lc6iKE)
+- [MVD Recap](https://www.youtube.com/watch?v=EWn1SBBtIJU)
+
+
 
  <div class="end-message">
   <h1>You've reached the end! (for now)</h1>
