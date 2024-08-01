@@ -13,9 +13,15 @@ Written by Hudzah, Donald Jewkes, Kelly Chong, internetVin, Jake Rudolph, and An
 
 > _This issue was written in collaboration with friends from around the world who have run the following demo days: [MVD](https://www.mvdemos.com/), [New Demos](https://newdemos.ca/), the [SoTo Spotlight](https://x.com/soto_place), the [Atelier Showcase](https://www.atelier.ac/), the London Symposium, and the [Socratica Symposium](https://www.socratica.info/)._
 
-We started building communities of cool people working on interesting things and wanted a way to showcase them... and it turns out people love attending, feel inspired, and want more! But it's not just about the projects; it's a super meaningful experience for demoers to share their story.
+Bringing an idea to life is best complemented by the opportunity to share it with the world. Demo days provide a platform for communities to collaboratively explore, showcase, and celebrate effortful projects!
 
-Environments that facilitate demos encourage a culture of feedback and iteration. Presenting your work can create ripple effects you cannot predict, inspiring people to embark on new projects and ideas. How someone thinks in their creative process could very much be the kickstart to someone else's project, someone else's analytical mindset could help break down a complex problem for another, and we become a series of playful project collaborators.
+They serve to inspire people to lean into their ambitious ideas and invite others to become meaningfully engaged in community. Along the way, there’s a chance to craft whimsical shared experiences that might just make people smile :)
+
+Demos, as a medium, allow for exposition of process. Demoers are able to share their story and give others visibility into foundational parts of their projects that are often hidden behind a final product: intention, problem solving, learnings, narrative, and works in progress.
+
+> internetVin: It's important to note that these events aren't pitches. There's a difference between a pitch, which is like *"this is why you should give me money,"* and a show and tell, which is more like, *"this is what I'm learning, or here's why this matters to me."*
+
+Presenting your work can create ripple effects you cannot predict and there is real potential to kickstart someone else’s project. In return, they get access to environments that facilitate feedback and iteration and the opportunity to find people experimenting with similar ideas. These interactions compound and, in time, we become a series series of playful project collaborators!
 
 **By hosting a demo day, you are signalling to the world:**
 
@@ -23,11 +29,10 @@ Environments that facilitate demos encourage a culture of feedback and iteration
 - Why they care
 - And why others should care too
 
-Demos also give people an excuse to gather and meet people experimenting with similar ideas.
 
-A lot of this advice is very tactical and direct, as opposed to previous issues we've released that are broader / "here are a couple of things you can do". We don’t promise that any of these steps are "perfect" or "mandatory" to run a demo day, but some things we've done that worked well – and that it’s not the only way! (we are actively experimenting with new formats)
+> As opposed to previous issues, some of this advice is very tactical and direct. None of these steps are "perfect" or "mandatory" to run a successful demo day – rather, we are presenting are findings from the events we've run so far. We’re actively experimenting with new formats and we encourage you to do the same!
 
-> internetVin: It's important to note that these events aren't pitches. There's a difference between a pitch, which is like "this is why you should give me money," and a show and tell, which is more like, "this is what I'm learning, or here's why this matters to me."
+
 
 <!-- add photos here collages of MVD, ND, Symposium, Spotlight -->
 
