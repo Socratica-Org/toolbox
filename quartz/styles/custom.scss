@@ -88,6 +88,10 @@ body[data-slug="maintenance"] .article-header {
   background: #eb846d;
 }
 
+body[data-slug="demo-days"] .article-header {
+  border: #e18fa715;
+  background: #e18fa7;
+}
 .navigation-container {
   display: flex;
   justify-content: space-between;
@@ -98,7 +102,7 @@ body[data-slug="basics"] .navigation-container {
   justify-content: flex-end;
 }
 
-body[data-slug="maintenance"] .navigation-container {
+body[data-slug="demo-days"] .navigation-container {
   display: display;
   justify-content: flex-start;
 }
@@ -143,4 +147,52 @@ body[data-slug="superboosting-ideas"] a.navigation-button {
 body[data-slug="maintenance"] a.navigation-button {
   border: #d37662;
   background: #eb846d;
+}
+
+body[data-slug="demo-days"] a.navigation-button {
+  border: #ab5e75;
+  background: #e18fa7;
+}
+
+.end-message {
+  border-radius: 5px;
+  padding: 25px;
+  border: 1px solid #ab5e75;
+  background: #e18fa7;
+  color: #f9f5e9;
+
+  h1 {
+    padding: 0;
+    margin: 0;
+    color: #f9f5e9;
+  }
+
+  p {
+    padding: 5px 0 0;
+    margin: 0;
+    color: #f9f5e9;
+  }
+
+  .cta-button {
+    background-color: #f9f5e9;
+    color: #e18fa7;
+    border-radius: 5px;
+    border: none;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px 0 0;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: normal;
+  }
+
+  @media screen and (max-width: 600px) {
+    text-align: center;
+
+    .cta-button {
+      display: block;
+      margin: 20px auto 0;
+    }
+  }
 }

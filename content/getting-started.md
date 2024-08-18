@@ -99,7 +99,7 @@ Common failure modes:
 
 # How to structure a session
 
-Written by Aava Sapkota, Jake Rudolph, Jaclyn Chan, and Hudzah Nazoordeen
+Written by Aava Sapkota, Jake Rudolph, Jaclyn Chan, and Hudzah
 
 </div>
 
@@ -314,7 +314,7 @@ Rapid fire shoutouts of what people are proud of from the week.
 
 # How to hold great demos
 
-Written by Hudzah Nazoordeen, Anson Yu, Jaclyn Chan, and Jake Rudolph
+Written by Hudzah, Anson Yu, Jaclyn Chan, and Jake Rudolph
 
 </div>
 
