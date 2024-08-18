@@ -16,8 +16,9 @@ TLDR: We assemble kind, nerdy, and ambitious people that are dedicated to consis
 We’re united by a couple of core beliefs:
 
 1. There are increasingly few, low stakes ways for people to make interest, values aligned friends IRL
-   1. These spaces need to be recurring, consistent, and accessible.
-2. Great creative work is done together, across backgrounds and disciplines 2. Small, high trust groups are the foundation of boundary pushing work - in engineering, science, art, and more
+2. These spaces need to be recurring, consistent, and accessible.
+3. Great creative work is done together, across backgrounds and disciplines
+4. Small, high trust groups are the foundation of boundary pushing work - in engineering, science, art, and more
 
 Our job is that not of organizers, but **little scheming elves** trying to support the growth of great people over time. In our current form, we’re known for **running co-working sessions for high effort passion projects, gathering makers, builders, artists - and everyone in between.** We meet weekly to make and demo cool projects. Every season, we have a symposium showcasing said projects. It’s a[ community of practice](https://www.wenger-trayner.com/introduction-to-communities-of-practice/). It's time carved out for deep work, a space to meet their people, or a playground to talk about ideas.
 
