@@ -91,10 +91,14 @@ Written by Seneca Forster
 - Emphasize that this space isn’t for perfection, but for works-in-progress.
   - Before demos, remind people that presenting is chill, no need to have anything fancy or complete in order to demo it!
 
- <div class="end-message">
-  <h1>You've reached the end!</h1>
-  <p>If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a local Socratica to your city!</p>
-  <a href="https://www.socratica.info/get-involved" target="_blank" class="cta-button">Bring a Socratica to your city!</a>
+<div class="end-message">
+  <h1>Your Turn</h1>
+  <p>If you've made it this far, you've already shown the curiosity and passion that define a host. You're the kind of person who sees the value in bringing people together, in creating spaces where ideas flourish and friendships grow.</p>
+<br/>
+  <p>We believe that you have what it takes to spark something amazing in your community. Take the next step and create the space you wish existed - a place where incredible things come to life.</p>
+
+<a href="https://www.socratica.info/get-involved" target="_blank" class="cta-button">Bring Socratica to Your City</a>
+
 </div>
 <br/>
 <br/>
