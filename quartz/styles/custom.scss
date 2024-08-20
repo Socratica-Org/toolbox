@@ -157,8 +157,6 @@ body[data-slug="demo-days"] a.navigation-button {
 .end-message {
   border-radius: 5px;
   padding: 25px;
-  border: 1px solid #ab5e75;
-  background: #e18fa7;
   color: #f9f5e9;
 
   h1 {
@@ -175,7 +173,6 @@ body[data-slug="demo-days"] a.navigation-button {
 
   .cta-button {
     background-color: #f9f5e9;
-    color: #e18fa7;
     border-radius: 5px;
     border: none;
     padding: 15px 32px;
@@ -194,5 +191,59 @@ body[data-slug="demo-days"] a.navigation-button {
       display: block;
       margin: 20px auto 0;
     }
+  }
+}
+
+body[data-slug="basics"] .end-message {
+  border: 1px solid #5687d1;
+  background: #6096e6;
+
+  .cta-button {
+    color: #6096e6;
+  }
+}
+
+body[data-slug="getting-started"] .end-message {
+  border: 1px solid #949c61;
+  background: #9ca665;
+
+  .cta-button {
+    color: #9ca665;
+  }
+}
+
+body[data-slug="growing-people"] .end-message {
+  border: 1px solid #ad7018;
+  background: #bd7c18;
+
+  .cta-button {
+    color: #bd7c18;
+  }
+}
+
+body[data-slug="superboosting-ideas"] .end-message {
+  border: 1px solid #9f7389;
+  background: #ac7d94;
+
+  .cta-button {
+    color: #ac7d94;
+  }
+}
+
+body[data-slug="maintenance"] .end-message {
+  border: 1px solid #d37662;
+  background: #eb846d;
+
+  .cta-button {
+    color: #eb846d;
+  }
+}
+
+body[data-slug="demo-days"] .end-message {
+  border: 1px solid #ab5e75;
+  background: #e18fa7;
+
+  .cta-button {
+    color: #e18fa7;
   }
 }

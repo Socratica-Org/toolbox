@@ -133,6 +133,11 @@ It’s cool to document the projects worked on! You’ll be grateful to look bac
 - Make a shared Google Photos for all hosts to upload pictures and videos after each session
 
 </div>
+ <div class="end-message">
+  <h1>You've reached the end!</h1>
+  <p>If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a local Socratica to your city!</p>
+  <a href="https://www.socratica.info/get-involved" target="_blank" class="cta-button">Bring a Socratica to your city!</a>
+</div>
 <br/>
 <br/>
 <div class="navigation-container">

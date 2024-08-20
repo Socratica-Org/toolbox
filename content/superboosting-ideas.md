@@ -155,6 +155,11 @@ The symposium is vital to showing off our achievements to a broader range of peo
   - The symposium has so many intricacies and could be written into a novel. Yet, a lot of it is dependent on deep thought and being extremely organized with your timelines.
   - You got this! Don’t be intimidated by the amount of work, it’s actually a lot of fun! And you will (hopefully) have some great hosts and helpers to make the path easier for you!
 
+ <div class="end-message">
+  <h1>You've reached the end!</h1>
+  <p>If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a local Socratica to your city!</p>
+  <a href="https://www.socratica.info/get-involved" target="_blank" class="cta-button">Bring a Socratica to your city!</a>
+</div>
 <br/>
 <br/>
 <div class="navigation-container">

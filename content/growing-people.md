@@ -82,16 +82,23 @@ Written by Seneca Forster
 </div>
 
 - Have a quiet space and a collaborative space
-    - If people need to talk to others for their project, try setting up a “collab” table, room, or hallway area for them so they don’t distract a quiet space. Let people know about the collab area during intros before the work block. You can also remind people talking during work blocks about the collab area to minimize talking.
+  - If people need to talk to others for their project, try setting up a “collab” table, room, or hallway area for them so they don’t distract a quiet space. Let people know about the collab area during intros before the work block. You can also remind people talking during work blocks about the collab area to minimize talking.
 - Transition back to work right after the break
-    - It can be hard to smoothly resume the work block when people are still chatting from the break. Try using non-verbal cues like flickering the lights or screen sharing a sign to get people’s attention. If nonverbal cues don't do the trick, don't be afraid to raise your voice to announce the end of the break!
+  - It can be hard to smoothly resume the work block when people are still chatting from the break. Try using non-verbal cues like flickering the lights or screen sharing a sign to get people’s attention. If nonverbal cues don't do the trick, don't be afraid to raise your voice to announce the end of the break!
 - Play some lo-fi music in the background
 - Talk to new people right when they walk in
-    - Greet them, ask what they’re working on, intro them to someone else, etc.
+  - Greet them, ask what they’re working on, intro them to someone else, etc.
 - Emphasize that this space isn’t for perfection, but for works-in-progress.
-    - Before demos, remind people that presenting is chill, no need to have anything fancy or complete in order to demo it!
+  - Before demos, remind people that presenting is chill, no need to have anything fancy or complete in order to demo it!
 
+ <div class="end-message">
+  <h1>You've reached the end!</h1>
+  <p>If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a local Socratica to your city!</p>
+  <a href="https://www.socratica.info/get-involved" target="_blank" class="cta-button">Bring a Socratica to your city!</a>
+</div>
 <br/>
+<br/>
+
 <div class="navigation-container">
 <a href="/getting-started" class="navigation-button">
 <p>Previous</p>

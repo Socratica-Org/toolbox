@@ -15,13 +15,13 @@ Written by Hudzah, Donald Jewkes, Kelly Chong, internetVin, Jake Rudolph, and An
 
 Bringing an idea to life is best complemented by the opportunity to share it with the world. Demo days provide a platform for communities to collaboratively explore, showcase, and celebrate effortful projects!
 
-They serve to inspire people to lean into their ambitious ideas and invite others to become meaningfully engaged in community. Along the way, there’s a chance to craft whimsical shared experiences that might just make people smile :)
+They serve to inspire people to lean into their ambitious ideas and invite others to become meaningfully engaged in community. Along the way, there's a chance to craft whimsical shared experiences that might just make people smile :)
 
 Demos, as a medium, allow for exposition of process. Demoers are able to share their story and give others visibility into foundational parts of their projects that are often hidden behind a final product: intention, problem solving, learnings, narrative, and works in progress.
 
-> internetVin: It's important to note that these events aren't pitches. There's a difference between a pitch, which is like *"this is why you should give me money,"* and a show and tell, which is more like, *"this is what I'm learning, or here's why this matters to me."*
+> internetVin: It's important to note that these events aren't pitches. There's a difference between a pitch, which is like _"this is why you should give me money,"_ and a show and tell, which is more like, _"this is what I'm learning, or here's why this matters to me."_
 
-Presenting your work can create ripple effects you cannot predict and there is real potential to kickstart someone else’s project. In return, they get access to environments that facilitate feedback and iteration and the opportunity to find people experimenting with similar ideas. These interactions compound and, in time, we become a series series of playful project collaborators!
+Presenting your work can create ripple effects you cannot predict and there is real potential to kickstart someone else's project. In return, they get access to environments that facilitate feedback and iteration and the opportunity to find people experimenting with similar ideas. These interactions compound and, in time, we become a series series of playful project collaborators!
 
 **By hosting a demo day, you are signalling to the world:**
 
@@ -29,10 +29,7 @@ Presenting your work can create ripple effects you cannot predict and there is r
 - Why they care
 - And why others should care too
 
-
-> As opposed to previous issues, some of this advice is very tactical and direct. None of these steps are "perfect" or "mandatory" to run a successful demo day – rather, we are presenting are findings from the events we've run so far. We’re actively experimenting with new formats and we encourage you to do the same!
-
-
+> As opposed to previous issues, some of this advice is very tactical and direct. None of these steps are "perfect" or "mandatory" to run a successful demo day – rather, we are presenting are findings from the events we've run so far. We're actively experimenting with new formats and we encourage you to do the same!
 
 <!-- add photos here collages of MVD, ND, Symposium, Spotlight -->
 
@@ -219,9 +216,9 @@ Written by Donald, Seneca Forster, Xiao Da, Clo Wang, Ananya Kannan, and Hudzah
 
 </div>
 
-Demo days are unique in being a canvas to craft a _magical_ experience for others. Strong logistical foundations are required – but it’s the experiments you choose to run that will create something truly transformative for those attending.
+Demo days are unique in being a canvas to craft a _magical_ experience for others. Strong logistical foundations are required – but it's the experiments you choose to run that will create something truly transformative for those attending.
 
-Sparkle is not something that can be architected; one can only create the _conditions_ that will allow for sparkle to occur. It’s the job of hosts to line up the pins to fall rather than to take the shot.
+Sparkle is not something that can be architected; one can only create the _conditions_ that will allow for sparkle to occur. It's the job of hosts to line up the pins to fall rather than to take the shot.
 
 ### Finding cultivators
 
@@ -269,7 +266,7 @@ Much of the room for experimentation lies outside of demos. Supporting features 
 - **MVD [Zines](https://en.wikipedia.org/wiki/Zine)** – attendees received 32-page booklets that included event programming, a demo list, and writer & artist features.
 
   - Zines served as a tool, an initiation, and a memorable artifact of intention and beauty. This set the stage and served to emphasize: _"We are about to be part of something special."_
-  - Effortfulness was balanced by pages dedicated to “popping the trunk” on artists' _works in progress_ and the underlying process of bringing MVD to life.
+  - Effortfulness was balanced by pages dedicated to "popping the trunk" on artists' _works in progress_ and the underlying process of bringing MVD to life.
   - Hole-punched corners and s-biners emphasized utility.
   - Different aesthetic explorations across page spreads were analogous to the heterogeneity of people, projects, and ideas at MVD.
 
@@ -339,10 +336,10 @@ Not all project's are long term projects either! They can be:
 
 ### Tips for helping someone improve their presentation:
 
-- Presenters have spent hundreds of hours on their projects, so to them it’s easy for them to miss obviously confusing parts or boring parts of their presentation. As a neutral observer, you're in the perfect place to find these places and let them know! The goal is to make the presentation as engaging as possible to an audience who has never heard about their story. So look for parts of their presentation that make you confused or bored when they rehearse their demo for you, make sure to note this down and let them know.
+- Presenters have spent hundreds of hours on their projects, so to them it's easy for them to miss obviously confusing parts or boring parts of their presentation. As a neutral observer, you're in the perfect place to find these places and let them know! The goal is to make the presentation as engaging as possible to an audience who has never heard about their story. So look for parts of their presentation that make you confused or bored when they rehearse their demo for you, make sure to note this down and let them know.
 - Encourage the presenter to find a coherent narrative about their project. For example, a series of drawings could be presented as a story of one's journey through life, with each drawing being a stopping point.
-- As a presenter, it's easy to get attached to every paragraph and every slide. As an outside observer, don’t be hesitant to suggest removing the parts that are less strong in your eyes. Cut the fat!
-- Encourage the presenter to perform their presentation as naturally as they can, without writing and memorizing a strict script. If they must, encourage them to put high level bullet points of what they want to say for each slide on cue cards. Presenters who think they need pages and pages of flashcards often will realize they don’t! This is because they are presenting their own story and projects, for which they already know the ins and outs of.
+- As a presenter, it's easy to get attached to every paragraph and every slide. As an outside observer, don't be hesitant to suggest removing the parts that are less strong in your eyes. Cut the fat!
+- Encourage the presenter to perform their presentation as naturally as they can, without writing and memorizing a strict script. If they must, encourage them to put high level bullet points of what they want to say for each slide on cue cards. Presenters who think they need pages and pages of flashcards often will realize they don't! This is because they are presenting their own story and projects, for which they already know the ins and outs of.
 
 ### Past presentation demos
 
@@ -389,8 +386,8 @@ Every on-stage presentation demoer also gets a booth! Here are some of the audie
 - [MVD Recap](https://www.youtube.com/watch?v=EWn1SBBtIJU)
 
  <div class="end-message">
-  <h1>You've reached the end! (for now)</h1>
-  <p>If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a Socratica to your city!</p>
+  <h1>You've reached the end!</h1>
+  <p>If you've made it this far, you're likely a great fit for hosting! We invite you to take the next step and bring a local Socratica to your city!</p>
   <a href="https://www.socratica.info/get-involved" target="_blank" class="cta-button">Bring a Socratica to your city!</a>
 </div>
 
