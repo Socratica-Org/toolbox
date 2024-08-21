@@ -104,7 +104,6 @@ To others
 
 <br/>
 <br/>
-
 <div class="end-message">
   <h1>Your Turn</h1>
   <p>If you've made it this far, you've already shown the curiosity and passion that define a host. You're the kind of person who sees the value in bringing people together, in creating spaces where ideas flourish and friendships grow.</p>
@@ -114,6 +113,7 @@ To others
 <a href="https://www.socratica.info/get-involved" target="_blank" class="cta-button">Bring Socratica to Your City</a>
 
 </div>
+
 <br>
 <br>
 
