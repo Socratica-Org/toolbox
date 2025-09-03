@@ -11,7 +11,7 @@ Written by Jacky Zhao and Jake Rudolph
 
 </div>
 
-In short, you should considering starting a node if:
+In short, you should consider starting a node if:
 
 1. You want this for yourself
 2. You have faith that there are good people around you
