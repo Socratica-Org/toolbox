@@ -11,7 +11,7 @@ Written by Jacky Zhao and Jake Rudolph
 
 </div>
 
-In short, you should considering starting a node if:
+In short, you should consider starting a node if:
 
 1. You want this for yourself
 2. You have faith that there are good people around you
@@ -52,7 +52,7 @@ Within each host team, there are a couple of archetypes that have bubbled up. Th
 - **Emotional vibe curator** - Really knows how to fine tune the “feeling”. They reposition tables to maximize conversational surface area, intentionally select music to pump energy levels, and are the patron saint of the anxious newbie.
 - **Energetic doer** - Shockingly high output person. Nobody really knows how they do how much they do (even themselves). They seem to really get energy from their work, and are always excited to share with enthusiastic people.
 - **Structural backbone** - Not afraid to enforce the structure that enables the fun. Makes announcements, emphasizes logistics? Code of conduct?, and asks people to be quiet when need be.
-- **In-house inquirer** - An excellent listener and question asker. Somehow able to understand peoples’ visions for their baby ideas, before they do themselves.Makes people feel seen.
+- **In-house inquirer** - An excellent listener and question asker. Somehow able to understand peoples’ visions for their baby ideas, before they do themselves. Makes people feel seen.
 - **Idea generation machine** - Always coming up with ideas on how people can gather better. Dreamer at heart. Sparks interesting discussions in the co-host group chat.
 - **Excessively helpful person** - They take “how can I be helpful” to a different level. They somehow know a bunch about fellowships, grants, and have just the right link for you to check out. They have a lot of context on what others are working on, and can make the right introductions.
 - **Chief historian** - The unspoken hero that loves to take photos and videos. Is always out of storage. Writes down what everyone’s projects are.

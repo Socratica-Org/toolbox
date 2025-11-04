@@ -38,7 +38,7 @@ Written by Anthea Tawiah, Om Gandhi, and Bruce Wang
 - Showing each new attendee they belong here just as much as you do.
   - There is an art to doing this without creating a power dynamic (i.e. avoid making the newcomer feel like you are above them because you are “in charge”). Be a genuine friend.
 - You want everyone to feel welcome, not tokenized
-  - The nature of tech bro culture, can often people from underrepresented groups” feel welcome enough to show up, demo. Sometimes hosts feel inclined to focus energy on them to really try to get them to come back for future sessions (i.e. push them to demo). This is good (because diversity is good), but we don’t want people to feel tokenized, or that they’re desired here because of these “statuses”.
+  - The nature of tech bro culture can often make people from “underrepresented groups” feel welcome enough to show up and demo. Sometimes hosts feel inclined to focus energy on them to really try to get them to come back for future sessions (i.e. push them to demo). This is good (because diversity is good), but we don’t want people to feel tokenized, or that they’re desired here because of these “statuses”.
 - Make sure they have a great conversation with at least one person
   - Introduce them to other people! It makes a big difference in their experience having met other welcoming people beyond the hosts.
   - Loop them into conversation groups and have newcomer introduce themselves!
