@@ -1,0 +1,16 @@
+{
+  "name": "toolbox",
+  "compatibility_date": "2026-04-10",
+  "routes": [
+    {
+      "pattern": "toolbox.socratica.info",
+      "custom_domain": true
+    }
+  ],
+  "assets": {
+    "directory": "./public"
+  },
+  "observability": {
+    "enabled": true
+  }
+}
